@@ -1,6 +1,7 @@
 import SaintCarousel from '@/app/components/SaintCarrossel'
 import { saints } from '../../data/saints'
 import { saintDetails } from '../../data/saintDetails'
+import Link from 'next/link'
 
 type Params = {
   params: {
@@ -66,12 +67,11 @@ export default function SaintDetail({ params }: Params) {
 
 
         <div className="mt-10 text-center">
-          <a
+          <Link
             href="/"
-            className="text-sm text-[#5E4638] font-medium hover:underline"
-          >
+            className="text-sm text-[#5E4638] font-medium hover:text-[#C2A677] transition"          >
             ← Voltar para a Santodex
-          </a>
+          </Link>
         </div>
       </div>
     </div>
