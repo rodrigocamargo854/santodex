@@ -1,7 +1,7 @@
 // app/components/SaintCard.tsx
 
 import Link from "next/link"
-
+import Image from 'next/image'
 type Saint = {
   id: string
   name: string
@@ -20,11 +20,13 @@ export default function SaintCard({ saint }: { saint: Saint }) {
   return (
     <div className="rounded-2xl bg-white shadow-md hover:shadow-xl transition-shadow p-4 border border-gray-100">
       <div className="relative w-full flex flex-col items-center">
-        <img
-          src={saint.image}
-          alt={saint.name}
-          className="w-28 h-28 object-cover rounded-full border-4 border-[#C2A677] shadow"
-        />
+      <Image
+  src={saint.image}
+  alt={saint.name}
+  width={112}
+  height={112}
+  className="w-28 h-28 object-cover rounded-full border-4 border-[#C2A677] shadow"
+/>
         <span className="absolute top-2 right-2 bg-[#C2A677] text-white text-xs px-3 py-0.5 rounded-full uppercase tracking-wide font-semibold">
           {saint.type}
         </span>

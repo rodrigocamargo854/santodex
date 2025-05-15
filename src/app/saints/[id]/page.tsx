@@ -3,11 +3,7 @@ import { saints } from '../../data/saints'
 import { saintDetails } from '../../data/saintDetails'
 import Link from 'next/link'
 import Image from 'next/image'
-type Params = {
-  params: {
-    id: string
-  }
-}
+
 
 export default async function SaintDetail({ params }: { params: { id: string } }) {
   const saint = saints.find((s) => s.id === params.id)
