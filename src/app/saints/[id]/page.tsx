@@ -1,11 +1,16 @@
-import SaintCarousel from '@/app/components/SaintCarrossel'
-import { saints } from '../../data/saints'
-import { saintDetails } from '../../data/saintDetails'
-import Link from 'next/link'
+import { saints } from '@/app/data/saints'
+import { saintDetails } from '@/app/data/saintDetails'
 import Image from 'next/image'
+import Link from 'next/link'
+import SaintCarousel from '@/app/components/SaintCarrossel'
 
+type PageProps = {
+  params: {
+    id: string
+  }
+}
 
-export default async function SaintDetail({ params }: { params: { id: string } }) {
+export default function SaintDetail({ params }: PageProps) {
   const saint = saints.find((s) => s.id === params.id)
 
   if (!saint) {
@@ -13,16 +18,15 @@ export default async function SaintDetail({ params }: { params: { id: string } }
   }
 
   return (
-
     <div className="min-h-screen flex items-center justify-center bg-[#fdfcfb] px-4">
       <div className="max-w-3xl w-full px-6 py-12 bg-white rounded-xl shadow-lg border border-gray-200">
         <div className="flex flex-col items-center">
           <Image
             src={saint.image}
             alt={saint.name}
-            width={112}
-            height={112}
-            className="w-28 h-28 object-cover rounded-full border-4 border-[#C2A677] shadow"
+            width={160}
+            height={160}
+            className="w-40 h-40 object-cover rounded-full border-4 border-[#C2A677] shadow-md"
           />
           <h1 className="mt-6 text-3xl font-bold tracking-tight text-[#5E4638]">
             {saint.name}
@@ -53,27 +57,25 @@ export default async function SaintDetail({ params }: { params: { id: string } }
           </div>
         </div>
 
-
         <div className="mt-8 text-sm text-[#5E4638] leading-relaxed text-justify">
           {saint.description}
         </div>
+
         {saintDetails[saint.id] && (
           <div className="mt-12">
             <SaintCarousel slides={saintDetails[saint.id]} />
           </div>
         )}
 
-
         <div className="mt-10 text-center">
           <Link
             href="/"
-            className="text-sm text-[#5E4638] font-medium hover:text-[#C2A677] transition"          >
+            className="text-sm text-[#5E4638] font-medium hover:text-[#C2A677] transition"
+          >
             ← Voltar para a Santodex
           </Link>
         </div>
       </div>
     </div>
-
-
   )
 }
