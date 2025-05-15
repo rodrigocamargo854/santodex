@@ -2,7 +2,7 @@ import SaintCarousel from '@/app/components/SaintCarrossel'
 import { saints } from '../../data/saints'
 import { saintDetails } from '../../data/saintDetails'
 import Link from 'next/link'
-
+import Image from 'next/image'
 type Params = {
   params: {
     id: string
@@ -21,11 +21,13 @@ export default function SaintDetail({ params }: Params) {
     <div className="min-h-screen flex items-center justify-center bg-[#fdfcfb] px-4">
       <div className="max-w-3xl w-full px-6 py-12 bg-white rounded-xl shadow-lg border border-gray-200">
         <div className="flex flex-col items-center">
-          <img
-            src={saint.image}
-            alt={saint.name}
-            className="w-40 h-40 object-cover rounded-full border-4 border-[#C2A677] shadow-md"
-          />
+        <Image
+  src={saint.image}
+  alt={saint.name}
+  width={112}
+  height={112}
+  className="w-28 h-28 object-cover rounded-full border-4 border-[#C2A677] shadow"
+/>
           <h1 className="mt-6 text-3xl font-bold tracking-tight text-[#5E4638]">
             {saint.name}
           </h1>

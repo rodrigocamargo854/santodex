@@ -1,7 +1,6 @@
 // app/components/Hero.tsx
 
 import Link from 'next/link'
-import Image from 'next/image'
 import Navbar from './NavBar'
 
 export default function Hero() {
