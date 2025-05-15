@@ -4,7 +4,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import SaintCarousel from '@/app/components/SaintCarrossel'
 
-export default function Page({ params }: any) {  const saint = saints.find((s) => s.id === params.id)
+export default function Page({ params }: any) {
+  const saint = saints.find((s) => s.id === params.id)
 
   if (!saint) {
     return <div className="p-8">Santo não encontrado.</div>
