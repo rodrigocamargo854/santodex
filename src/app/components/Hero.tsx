@@ -1,6 +1,8 @@
 // app/components/Hero.tsx
 
-import Navbar from "./NavBar";
+import Link from 'next/link'
+import Image from 'next/image'
+import Navbar from './NavBar'
 
 export default function Hero() {
   return (
@@ -21,6 +23,15 @@ export default function Hero() {
         >
           Explorar agora
         </a>
+
+        <div className="mt-10 text-center">
+          <Link
+            href="/"
+            className="text-sm text-[#5E4638] font-medium hover:text-[#C2A677] transition"
+          >
+            ← Voltar para a Santodex
+          </Link>
+        </div>
       </div>
     </section>
   )
