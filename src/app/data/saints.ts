@@ -4,8 +4,8 @@ export const saints = [
     name: 'Santa Teresinha do Menino Jesus',
     type: 'santa',
     title: 'Doutora da Igreja',
-    birthDate: '02/01/1873',
-    deathDate: '30/09/1897',
+    birthDate: '02-01-1873',
+    deathDate: '30-09-1897',
     feastDay: '1 de outubro',
     canonized: '1925',
     beatified: '1923',
@@ -30,7 +30,7 @@ export const saints = [
   {
     id: 'sao-matias',
     name: 'São Matias',
-    type: 'saint',
+    type: 'santo',
     title: 'Apóstolo e Mártir',
     birthDate: '0001-00-00',
     deathDate: '80-00-00',
@@ -291,6 +291,34 @@ export const saints = [
     beatified: '1999',
     image: '/padrepio.png', 
     description: 'São Padre Pio de Pietrelcina foi um sacerdote capuchinho italiano, conhecido mundialmente por suas virtudes heroicas, dons místicos e pelos estigmas que carregou por 50 anos. Foi um incansável confessor, fundador de obras sociais e espirituais, e exemplo de vida profundamente eucarística e mariana.'
+  }
+  ,
+  {
+    id: 'domingos-savio',
+    name: 'São Domingos Sávio',
+    type: 'santo',
+    title: 'Jovem Estudante e Discípulo de Dom Bosco',
+    birthDate: '1842-04-02',
+    deathDate: '1857-03-09',
+    feastDay: '6 de maio',
+    canonized: '1954',
+    beatified: '1950',
+    image: '/domingos-savio.jpg', 
+    description: 'São Domingos Sávio foi um jovem italiano, aluno de Dom Bosco e modelo de santidade juvenil. Com apenas 15 anos de vida, destacou-se por sua pureza, caridade e espírito de oração. Viveu com intensidade a espiritualidade salesiana, oferecendo sua curta existência por amor a Deus e pela conversão dos pecadores. Foi canonizado por Pio XII como um dos mais jovens santos não-mártires da Igreja.'
+  }
+  ,{
+    id: 'santo-antao-do-deserto',
+    name: 'Santo Antão do Deserto',
+    type: 'santo',
+    title: 'Pai do Monacato Cristão',
+    birthDate: '12/01/251',
+    deathDate: '17/01/356',
+    feastDay: '17 de janeiro',
+    canonized: 'Pré-congregação',
+    beatified: 'Pré-congregação',
+    image: '/santoantao.jpeg',
+    description:
+      'Santo Antão do Deserto, também conhecido como Antão, o Grande, foi um dos primeiros monges cristãos e é considerado o Pai do Monacato. Abandonou tudo aos 20 anos para viver em solidão no deserto egípcio, onde travou intensas batalhas espirituais contra o demônio. Sua vida foi registrada por Santo Atanásio e influenciou profundamente o ideal de vida eremítica cristã.'
   }
   
   

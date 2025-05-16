@@ -387,6 +387,55 @@ export const saintDetails: { [id: string]: Slide[] } = {
   }
 ]
 
+,
+'domingos-savio': [
+  {
+    title: 'Infância e Chamado precoce',
+    text: 'Domingos Sávio nasceu em 2 de abril de 1842, em San Giovanni di Riva, na Itália. Desde pequeno demonstrava profunda sensibilidade espiritual. Aos cinco anos já servia à missa e aos sete recebeu a primeira comunhão, ocasião em que fez sua célebre resolução: “Antes morrer do que pecar”.'
+  },
+  {
+    title: 'Encontro com Dom Bosco',
+    text: 'Aos 12 anos, foi admitido no Oratório de São Francisco de Sales, em Turim, onde conheceu Dom Bosco. Logo se destacou pela bondade, alegria e vida interior intensa. Dom Bosco via nele uma alma extraordinária e escreveu sua biografia, intitulada “A Vida de Domingos Sávio”.'
+  },
+  {
+    title: 'Espiritualidade e Maturidade',
+    text: 'Domingos unia uma vida de oração profunda com uma alegria contagiante. Fundou o grupo “Companhia da Imaculada” com alguns colegas, que buscavam influenciar positivamente o ambiente escolar e ajudar os mais necessitados. Seu lema era: “Quero me tornar santo e rápido!”.'
+  },
+  {
+    title: 'Doença e Morte Santa',
+    text: 'Aos 14 anos, começou a apresentar sinais de doença respiratória. Retornou para casa e ofereceu sua enfermidade com grande fé. Morreu no dia 9 de março de 1857 com apenas 15 anos, após dizer: “Que coisa tão bela eu estou vendo!”. Sua morte serena e santa impressionou a todos.'
+  },
+  {
+    title: 'Canonização e Legado',
+    text: 'Foi beatificado em 1950 e canonizado por Pio XII em 1954, tornando-se o padroeiro dos adolescentes e estudantes. Sua vida é um exemplo de que a santidade é possível mesmo na juventude, por meio da amizade com Jesus, do amor à Eucaristia e da devoção à Virgem Maria.'
+  },
+  {
+    title: 'Frases marcantes de Domingos Sávio',
+    text: '• “Antes morrer do que pecar.”\n• “A santidade consiste em estar sempre alegre.”\n• “Jesus e Maria, sede sempre meus amigos.”'
+  }
+],'santo-antao-do-deserto': [
+  {
+    title: 'Juventude e Conversão',
+    text: 'Antão nasceu por volta do ano 251 no Egito. Após a morte dos pais, decidiu seguir literalmente o Evangelho: vendeu seus bens, distribuiu aos pobres e retirou-se para o deserto, buscando a Deus na solidão e oração contínua.'
+  },
+  {
+    title: 'Vida no Deserto',
+    text: 'No deserto, Santo Antão viveu em rigoroso ascetismo, jejum e silêncio. Construiu uma fama de santidade e sabedoria, sendo procurado por discípulos e curiosos. Sua luta contra tentações demoníacas é um dos traços mais conhecidos de sua vida espiritual intensa.'
+  },
+  {
+    title: 'Batalhas contra os demônios',
+    text: 'Antão relatava combates espirituais reais, nas quais o demônio aparecia de diversas formas para tentar afastá-lo de Deus. Essas experiências foram entendidas como batalhas internas contra paixões, orgulho e tentações carnais, simbolizando o combate espiritual do cristão.'
+  },
+  {
+    title: 'Legado e influência',
+    text: 'Sua biografia escrita por Santo Atanásio tornou-se um best-seller espiritual, influenciando gerações de monges e a tradição monástica no Oriente e no Ocidente. É venerado como o “Pai dos Monges” e inspirador dos mosteiros cristãos.'
+  },
+  {
+    title: 'Curiosidades',
+    text: '🔸 Sua fama era tão grande que o imperador Constantino lhe escreveu pedindo conselhos.\n🔸 Vivia em uma caverna e comia apenas uma vez por dia, pão e água.\n🔸 Fundou uma comunidade informal de eremitas no deserto da Tebaida.\n🔸 Mesmo isolado, era procurado por pessoas de toda a parte para conselhos espirituais.'
+  }
+]
+
 
 
 
