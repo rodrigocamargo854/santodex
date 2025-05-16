@@ -434,7 +434,34 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Curiosidades',
     text: '🔸 Sua fama era tão grande que o imperador Constantino lhe escreveu pedindo conselhos.\n🔸 Vivia em uma caverna e comia apenas uma vez por dia, pão e água.\n🔸 Fundou uma comunidade informal de eremitas no deserto da Tebaida.\n🔸 Mesmo isolado, era procurado por pessoas de toda a parte para conselhos espirituais.'
   }
+],
+'carlo-acutis': [
+  {
+    title: 'Infância e Fé precoce',
+    text: 'Carlo nasceu em Londres, mas foi criado em Milão. Desde muito pequeno demonstrava um amor especial pela Eucaristia e pela Virgem Maria. Pediu para receber a Primeira Comunhão aos 7 anos e desde então nunca deixou de participar da Missa diária e rezar o Rosário.'
+  },
+  {
+    title: 'Apostolado Digital',
+    text: 'Apaixonado por tecnologia, Carlo usava seus conhecimentos em informática para evangelizar. Criou um site com mais de 160 milagres eucarísticos documentados ao redor do mundo, com o objetivo de levar as pessoas a valorizarem mais a Eucaristia, que ele chamava de “minha estrada para o céu”.'
+  },
+  {
+    title: 'Vida de Santidade',
+    text: 'Carlo era alegre, caridoso, simples. Ajudava colegas de escola, os pobres da rua, e dizia: “Todos nascem como originais, mas muitos morrem como cópias.” Vivia a santidade no ordinário e foi um exemplo de pureza, humildade e vida centrada em Cristo.'
+  },
+  {
+    title: 'Doença e morte',
+    text: 'Em 2006, Carlo foi diagnosticado com uma leucemia fulminante. Ofereceu todo seu sofrimento “pelo Papa e pela Igreja”. Faleceu aos 15 anos em 12 de outubro de 2006. Seu corpo permanece incorrupto em Assis, onde está sepultado com roupas de tênis e jeans, como um jovem moderno.'
+  },
+  {
+    title: 'Legado e Beatificação',
+    text: 'Em 10 de outubro de 2020, Carlo foi beatificado pelo Papa Francisco em Assis. É considerado um exemplo de santidade jovem para a era digital e já é invocado como intercessor por muitos adolescentes, programadores, catequistas e evangelizadores online.'
+  },
+  {
+    title: 'Frases marcantes',
+    text: '“A Eucaristia é a minha rodovia para o céu.” / “Estar sempre unido a Jesus, esse é o meu plano de vida.” / “A tristeza é o olhar voltado para si mesmo, a felicidade é o olhar voltado para Deus.”'
+  }
 ]
+
 
 
 

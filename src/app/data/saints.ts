@@ -83,7 +83,7 @@ export const saints = [
       'Beata Sandra Sabattini foi uma jovem italiana que viveu uma fé profunda e um amor concreto pelos mais necessitados. Membro da Comunidade Papa João XXIII, dedicou-se ao serviço dos pobres, deficientes e dependentes químicos. Estudante de medicina, sonhava ser missionária na África. Faleceu tragicamente aos 22 anos em um acidente de carro. Foi beatificada em 2021, tornando-se a primeira noiva beatificada na história da Igreja.'
   },{
     id: 'vitaliy-humeniuk',
-    name: 'Beato Vitaliy Humenyuk',
+    name: ' Vitaliy Humenyuk',
     type: 'santo',
     title: 'Monge e Mártir',
     birthDate: '1900-01-01',
@@ -256,7 +256,7 @@ export const saints = [
   },
   {
     id: 'vital-vladimiro-bajrak',
-    name: 'Beato Vital Vladimiro Bajrak',
+    name: ' Vital Vladimiro Bajrak',
     type: 'beato',
     title: 'Monge e Mártir',
     birthDate: '1904',
@@ -270,7 +270,7 @@ export const saints = [
   ,{
     id: 'sao-jorge',
     name: 'São Jorge',
-    type: 'saint',
+    type: 'santo',
     title: 'Soldado e Mártir',
     birthDate: '275-04-23',
     deathDate: '303-04-23',
@@ -319,6 +319,21 @@ export const saints = [
     image: '/santoantao.jpeg',
     description:
       'Santo Antão do Deserto, também conhecido como Antão, o Grande, foi um dos primeiros monges cristãos e é considerado o Pai do Monacato. Abandonou tudo aos 20 anos para viver em solidão no deserto egípcio, onde travou intensas batalhas espirituais contra o demônio. Sua vida foi registrada por Santo Atanásio e influenciou profundamente o ideal de vida eremítica cristã.'
+  }
+  ,
+  {
+    id: 'carlo-acutis',
+    name: 'Beato Carlo Acutis',
+    type: 'beato',
+    title: 'Jovem Leigo e Apóstolo da Eucaristia',
+    birthDate: '03/05/1991',
+    deathDate: '12/10/2006',
+    feastDay: '12 de outubro',
+    canonized: 'Em andamento',
+    beatified: '2020',
+    image: '/accutis.jpg',
+    description:
+      'Carlo Acutis foi um jovem italiano apaixonado pela Eucaristia e pela evangelização digital. Utilizou seus dons em informática para criar um site catalogando milagres eucarísticos. Com uma vida simples e piedosa, tornou-se modelo de santidade para os jovens do século XXI. Foi beatificado em 2020 e é conhecido como o “padroeiro da internet”.'
   }
   
   
