@@ -70,7 +70,49 @@ export const saintDetails: { [id: string]: Slide[] } = {
       text: '• Amava esquiar e praticar esportes.\n\n• Escreveu 14 encíclicas e diversos livros.\n\n• Foi o primeiro Papa a visitar uma sinagoga e uma mesquita.\n\n• Falava mais de 10 idiomas.\n\n• Aclamado pelas multidões como “João Paulo, nós te amamos!”, mesmo nos seus últimos dias de vida.',
       image: '/johnpaulgroup.png'
     }
-  ]
+  ],
+  'sao-matias': [
+  {
+    title: 'Escolhido como Apóstolo',
+    text: 'Após a traição e morte de Judas Iscariotes, os apóstolos se reuniram e, por sorteio, Matias foi escolhido para ocupar seu lugar entre os Doze. Era discípulo de Jesus desde o batismo no Jordão até a Ascensão.'
+  },
+  {
+    title: 'Fidelidade desde o início',
+    text: 'Matias caminhou com Jesus e os apóstolos durante toda a vida pública do Senhor, mas sempre com humildade e discrição. Sua fé constante o tornou digno do apostolado, mesmo sem ter sido escolhido inicialmente.'
+  },
+  {
+    title: 'Pregação e Martírio',
+    text: 'Após Pentecostes, São Matias evangelizou regiões da Judeia e, segundo a tradição, também a Etiópia. Foi perseguido por sua fé e morreu como mártir — apedrejado e depois decapitado, testemunhando até o fim sua fidelidade a Cristo.'
+  },
+  {
+    title: 'Devoção e Legado',
+    text: 'Embora pouco citado nos Evangelhos, São Matias é lembrado pela Igreja como modelo de perseverança e humildade. Sua festa litúrgica é celebrada em 14 de maio e sua história recorda que Deus vê o coração fiel, mesmo no escondimento.'
+  }
+],
+'sao-joao-bosco': [
+  {
+    title: 'Infância e vocação',
+    text: 'Dom Bosco nasceu em 1815, na Itália. Desde pequeno sentia-se chamado a cuidar dos jovens. Aos 9 anos, teve um sonho profético em que viu sua missão: formar jovens com mansidão e fé, sob a orientação de Nossa Senhora.'
+  },
+  {
+    title: 'Fundador dos Salesianos',
+    text: 'Percebendo a necessidade de acolher e educar jovens pobres, fundou a Sociedade de São Francisco de Sales (Salesianos), que unia formação técnica, espiritual e moral. Seu sistema preventivo revolucionou a educação cristã.'
+  },
+  {
+    title: 'Maria Auxiliadora',
+    text: 'Dom Bosco tinha uma confiança absoluta na Virgem Maria, sob o título de Auxiliadora dos Cristãos. Disse: "Foi ela quem tudo fez". Construiu a Basílica de Maria Auxiliadora em Turim e propagou sua devoção pelo mundo.'
+  },
+  {
+    title: 'Sonhos Proféticos e Proteção',
+    text: 'Dom Bosco teve diversos sonhos considerados proféticos. Um deles revelou os ataques contra a Igreja e a salvação pela Eucaristia e Maria. Também é conhecido o episódio do cão Grigio, que apareceu para protegê-lo fisicamente.'
+  },
+  {
+    title: 'Canonização e legado',
+    text: 'Faleceu em 1888 e foi canonizado em 1934. É padroeiro da juventude, dos aprendizes e dos editores católicos. Sua pedagogia do amor, da presença e da fé continua viva nas obras salesianas espalhadas pelo mundo inteiro.'
+  }
+]
+
+
 }
 
 
