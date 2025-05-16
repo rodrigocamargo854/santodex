@@ -22,9 +22,11 @@ export default function SaintCarousel({ slides }: { slides: Slide[] }) {
               <h2 className="text-xl sm:text-2xl font-semibold text-[#5E4638] mb-3 tracking-tight text-center sm:text-left">
                 {slide.title}
               </h2>
-              <p className="text-sm sm:text-base leading-relaxed text-[#5E4638] text-justify">
+              <p className="text-xs sm:text-sm leading-snug sm:leading-relaxed text-[#5E4638] sm:text-justify antialiased">
                 {slide.text}
               </p>
+
+
             </div>
           </SwiperSlide>
         ))}

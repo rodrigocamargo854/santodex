@@ -84,7 +84,7 @@ export const saints = [
   },{
     id: 'vitaliy-humeniuk',
     name: 'Beato Vitaliy Humenyuk',
-    type: 'blessed',
+    type: 'santo',
     title: 'Monge e Mártir',
     birthDate: '1900-01-01',
     deathDate: '1946-05-07',
@@ -94,7 +94,182 @@ export const saints = [
     image: '/sao_vladmir.png',
     description:
       'O Beato Vitaliy Humenyuk foi um monge da Igreja Greco-Católica Ucraniana e mártir da fé durante a repressão comunista na União Soviética. Fiel à sua vocação e comunhão com Roma, recusou-se a aderir à Igreja Ortodoxa controlada pelo Estado. Por sua firmeza, foi preso e morreu devido às torturas e privações. Foi beatificado pelo Papa João Paulo II em 2001 junto a outros mártires ucranianos, tornando-se símbolo da resistência e fidelidade da Igreja do Silêncio na Europa Oriental.'
+  },{
+    id: 'tarcisio',
+    name: 'São Tarcísio',
+    type: 'santo',
+    title: 'Mártir da Eucaristia',
+    birthDate: '245-01-01',
+    deathDate: '257-08-15',
+    feastDay: '15 de agosto',
+    canonized: '',
+    beatified: '',
+    image: '/tarcisio2.png',
+    description:
+      'São Tarcísio foi um jovem acólito romano do século III, conhecido por sua profunda devoção à Eucaristia. Durante as perseguições aos cristãos pelo imperador Valeriano, Tarcísio voluntariou-se para levar a Sagrada Comunhão aos cristãos presos. No caminho, foi atacado por pagãos e, ao se recusar a entregar as hóstias, foi brutalmente assassinado. Seu sacrifício tornou-se símbolo de amor e reverência à Eucaristia. É considerado o padroeiro dos coroinhas e acólitos.'
+  },
+  {
+    id: 'chiara-corbella-petrillo',
+    name: 'Chiara Corbella Petrillo',
+    type: 'beata',
+    title: 'Leiga e Mãe',
+    birthDate: '1984-01-09',
+    deathDate: '2012-06-13',
+    feastDay: '13 de junho',
+    canonized: 'Em processo',
+    beatified: 'Em andamento',
+    image: '/chiara.jpeg',
+    description:
+      'Chiara Corbella Petrillo foi uma jovem italiana que testemunhou uma fé heroica diante do sofrimento. Após perder dois filhos por doenças congênitas e enfrentar um câncer agressivo durante a gravidez do terceiro, Chiara escolheu adiar seu tratamento para garantir a vida do bebê. Faleceu em 2012, aos 28 anos, oferecendo sua vida por amor. Seu testemunho de santidade no matrimônio e maternidade emociona o mundo.'
   }
+  ,
+  {
+    id: 'chiara-luce-badano',
+    name: 'Chiara Luce Badano',
+    type: 'beata',
+    title: 'Jovem Leiga',
+    birthDate: '1971-10-29',
+    deathDate: '1990-10-07',
+    feastDay: '29 de outubro',
+    canonized: '',
+    beatified: '2010',
+    image: '/beatachiarabandadno.jpg',
+    description:
+      'Chiara Luce Badano foi uma jovem italiana que viveu com grande amor e fé, mesmo diante da dor. Integrante do Movimento dos Focolares, recebeu o diagnóstico de um câncer ósseo agressivo aos 17 anos. Recusou morfina para poder “oferecer sua dor a Jesus”, e dizia: “Se é isso que o Senhor quer, eu também quero”. Faleceu aos 18 anos, deixando um testemunho luminoso de santidade juvenil. Foi beatificada em 2010 pelo Papa Bento XVI.'
+  },
+  {
+    id: 'joao-nepomuceno',
+    name: 'São João Nepomuceno',
+    type: 'santo',
+    title: 'Presbítero e Mártir',
+    birthDate: 'c. 1345',
+    deathDate: '1393-03-20',
+    feastDay: '16 de maio',
+    canonized: '1729',
+    beatified: '1721',
+    image: '/joaonpuceno.jpg',
+    description: 'Padroeiro dos confessores e do sigilo sacramental, São João Nepomuceno foi martirizado por se recusar a quebrar o segredo da confissão. Lançado ao rio Moldava por ordem do rei da Boêmia, permanece um símbolo da fidelidade sacerdotal até a morte.'
+  },
+  {
+    id: 'felix-genadio',
+    name: 'Santos Félix e Genádio',
+    type: 'martires',
+    title: 'Mártires',
+    birthDate: '',
+    deathDate: '',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/felixeganadio.png',
+    description: 'Mártires em Uzális, na África Proconsular (atual Tunísia), cuja memória é celebrada pela Igreja.'
+  },
+  {
+    id: 'florencio-diocleciano',
+    name: 'Santos Florêncio e Diocleciano',
+    type: 'martires',
+    title: 'Mártires',
+    birthDate: '',
+    deathDate: '',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/noimage.png',
+    description: 'Mártires em Ósimo, no Piceno (atualmente nas Marcas, Itália), lembrados por sua fé e testemunho.'
+  },
+  {
+    id: 'abdas-edésio',
+    name: 'Santos Abdas e Edésio',
+    type: 'martires',
+    title: 'Bispos e Mártires',
+    birthDate: '',
+    deathDate: 'c. 375',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/noimage.png',
+    description: 'Bispos mártires na antiga Pérsia, mortos por ordem do rei Sapor II, juntamente com trinta e oito companheiros.'
+  },
+  {
+    id: 'peregrino-de-auxerre',
+    name: 'São Peregrino de Auxerre',
+    type: 'santo',
+    title: 'Bispo e Mártir',
+    birthDate: '',
+    deathDate: 'c. 304',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/preregrinoauxerre.jpeg',
+    description: 'Primeiro bispo de Auxerre, na França, martirizado durante as perseguições do imperador Diocleciano.'
+  },
+  {
+    id: 'possidio-de-guelma',
+    name: 'São Possídio de Guelma',
+    type: 'santo',
+    title: 'Bispo',
+    birthDate: '',
+    deathDate: 'c. 437',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/noimage.png',
+    description: 'Bispo de Guelma, na Numídia (atual Argélia), discípulo e amigo de Santo Agostinho, escreveu sua biografia.'
+  },
+  {
+    id: 'fidolo-de-dax',
+    name: 'São Fídolo de Dax',
+    type: 'santo',
+    title: 'Presbítero',
+    birthDate: '',
+    deathDate: 'c. 540',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/noimage.png',
+    description: 'Presbítero na França, que, segundo a tradição, foi feito prisioneiro de guerra pelo rei Teodorico.'
+  },
+  {
+    id: 'brandao-de-clonfert',
+    name: ' ',
+    type: 'santo',
+    title: 'Abade',
+    birthDate: 'c. 484',
+    deathDate: 'c. 577',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/Brendan.webp',
+    description: 'Abade de Clonfert, na Irlanda, conhecido por suas viagens missionárias e pela célebre "navegação de São Brandão".'
+  },
+  {
+    id: 'alexandre-de-jerusalem',
+    name: 'São Alexandre de Jerusalém',
+    type: 'santo',
+    title: 'Bispo e Mártir',
+    birthDate: '',
+    deathDate: 'c. 250',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/alexander-jeru.jpg',
+    description: 'Bispo e mártir do século III, natural da Capadócia, que fundou uma biblioteca e escola em Jerusalém.'
+  },
+  {
+    id: 'vital-vladimiro-bajrak',
+    name: 'Beato Vital Vladimiro Bajrak',
+    type: 'beato',
+    title: 'Monge e Mártir',
+    birthDate: '1904',
+    deathDate: '1946',
+    feastDay: '16 de maio',
+    canonized: '',
+    beatified: '2001',
+    image: '/vital.gif',
+    description: 'Monge e mártir ucraniano, vítima da perseguição soviética, beatificado em 27 de junho de 2001.'
+  }
+  
+  
+  
   
   
   

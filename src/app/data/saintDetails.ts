@@ -191,7 +191,157 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: 'Curiosidades',
       text: '• Seu nome também é transliterado como "Vitalij" ou "Witalij".\n\n• Ele pertence ao grupo de mártires da "Igreja do Silêncio", referência aos católicos perseguidos no Leste Europeu.\n\n• Seu martírio foi reconhecido como um testemunho puro de fidelidade à comunhão com o Papa e à tradição católica oriental.\n\n• Sua história fortalece a identidade da Igreja Greco-Católica Ucraniana, que mesmo na clandestinidade nunca deixou de celebrar a Eucaristia.'
     }
+  ],'tarcisio': [
+  {
+    title: 'Infância e Vocação',
+    text: 'São Tarcísio nasceu por volta do ano 245 em Roma. Desde jovem, demonstrava profunda fé e dedicação à Igreja, servindo como acólito nas celebrações eucarísticas.'
+  },
+  {
+    title: 'Perseguição e Coragem',
+    text: 'Durante as perseguições do imperador Valeriano, os cristãos eram impedidos de receber os sacramentos. Tarcísio ofereceu-se para levar a Eucaristia aos presos, demonstrando coragem e fé inabaláveis.'
+  },
+  {
+    title: 'Martírio',
+    text: 'No caminho para a prisão, Tarcísio foi abordado por pagãos que exigiram que entregasse o que carregava. Ao recusar-se, foi espancado até a morte, protegendo as hóstias com seu próprio corpo.'
+  },
+  {
+    title: 'Legado e Veneração',
+    text: 'Após sua morte, Tarcísio foi enterrado nas catacumbas de São Calisto. Seu exemplo de amor à Eucaristia inspirou gerações, sendo declarado padroeiro dos coroinhas e acólitos.'
+  },
+  {
+    title: 'Frases e Reflexões',
+    text: '“Ó meu Jesus, ninguém Vos tirará do meu coração!” — São Tarcísio.\n\nSeu sacrifício nos lembra da importância de valorizar e proteger os sacramentos da Igreja.'
+  }
+],'chiara-corbella-petrillo': [
+  {
+    title: 'Juventude e Encontro com Enrico',
+    text: 'Chiara nasceu em Roma, em 1984. Desde jovem, buscava viver uma fé autêntica. Conheceu Enrico Petrillo em uma peregrinação e juntos discerniram o matrimônio como vocação. O namoro teve momentos difíceis, mas se fortaleceram na oração e nos sacramentos.'
+  },
+  {
+    title: 'Casamento e Maternidade',
+    text: 'Casaram-se em 2008 e logo vieram os filhos. O primeiro, Maria Grazia Letizia, nasceu com anencefalia e viveu apenas 30 minutos. O segundo, Davide Giovanni, teve uma malformação grave e viveu por pouco tempo. Ambos foram batizados e acolhidos com alegria e entrega.'
+  },
+  {
+    title: 'Gravidez de Francesco e o Câncer',
+    text: 'Durante a terceira gestação, Chiara foi diagnosticada com um câncer agressivo na língua. Escolheu postergar o tratamento para salvar a vida do bebê. Francesco nasceu saudável em 2011. Após o parto, Chiara iniciou o tratamento, mas a doença já estava avançada.'
+  },
+  {
+    title: 'Oferecimento e Santidade no Sofrimento',
+    text: 'Chiara viveu o sofrimento com serenidade, oferecendo sua dor com amor e fé. Dizia: "Quando Deus tira algo, é para dar algo maior". Mesmo diante da morte, irradiava paz, esperança e beleza. Partiu para o céu em 13 de junho de 2012, aos 28 anos.'
+  },
+  {
+    title: 'Testemunho e Causa de Beatificação',
+    text: 'Seu velório foi como um casamento: muitos testemunharam a paz e a luz que emanava de sua vida. Em 2018, iniciou-se oficialmente sua causa de beatificação. Chiara é exemplo de amor conjugal, maternidade heroica e fé vivida com radicalidade no ordinário.'
+  },
+  {
+    title: 'Frases de Chiara',
+    text: '“A santidade não é uma exceção, é a normalidade do cristão.”\n“Deus não quer tirar o sofrimento, mas estar contigo nele.”\n“Francesco é o presente mais bonito que recebi.”'
+  }
+]
+,'chiara-luce-badano': [
+  {
+    title: 'Infância e Fé',
+    text: 'Chiara nasceu em Sassello, na Itália, em 1971. Desde pequena demonstrava uma fé viva, alegria contagiante e generosidade com os pobres. Era ativa na paróquia e tinha muitos amigos.'
+  },
+  {
+    title: 'Movimento dos Focolares',
+    text: 'Aos 9 anos, conheceu o Movimento dos Focolares e se encantou com o ideal de viver o Evangelho em cada momento. Assumiu com seriedade o lema “Deus Amor” e procurava viver a unidade em tudo.'
+  },
+  {
+    title: 'Doença e Entrega',
+    text: 'Aos 17 anos, foi diagnosticada com um câncer ósseo muito agressivo. Chiara enfrentou a dor com coragem e fé, recusando analgésicos fortes para permanecer consciente e oferecer tudo a Deus. Dizia: “Eu tenho tudo” e “Jesus, se Tu queres, eu também quero”.'
+  },
+  {
+    title: 'Últimos Dias',
+    text: 'Mesmo entre dores intensas, consolava os outros com um sorriso luminoso. Preparou seu funeral como se fosse uma festa de casamento: pediu roupas brancas e músicas alegres. Faleceu em 7 de outubro de 1990, com 18 anos.'
+  },
+  {
+    title: 'Beatificação e Legado',
+    text: 'Foi beatificada em 25 de setembro de 2010, em Roma. É considerada modelo de santidade jovem e esperança em meio ao sofrimento. Sua vida continua inspirando milhares de jovens pelo mundo.'
+  },
+  {
+    title: 'Frases de Chiara Luce',
+    text: '“Não tenho mais nada, mas tenho o coração, e com ele posso sempre amar.”\n“Jesus, se tu queres, eu também quero.”\n“Foi Ele quem me deu essa dor e me dá a força para suportá-la.”'
+  }
+],'joao-nepomuceno': [
+  {
+    title: 'Juventude e Formação',
+    text: 'São João nasceu em Nepomuk, na atual República Tcheca, por volta de 1345. Foi ordenado sacerdote após estudos em Praga e Pádua, com destaque em Direito Canônico.'
+  },
+  {
+    title: 'Fidelidade ao Sacramento da Confissão',
+    text: 'Como confessor da rainha Joana da Baviera, esposa do rei Venceslau IV, João recusou-se a revelar as confissões da rainha, mesmo sob ameaça de morte.'
+  },
+  {
+    title: 'Martírio',
+    text: 'Por sua firmeza, o rei ordenou que ele fosse torturado e lançado da Ponte Carlos, no rio Moldava. Isso ocorreu em 1393. Diz-se que cinco estrelas brilharam no local de sua morte.'
+  },
+  {
+    title: 'Culto e Canonização',
+    text: 'Foi canonizado em 1729 por Bento XIII. É considerado o padroeiro dos confessores e defensores do sigilo sacramental. Sua imagem é frequentemente representada com um dedo nos lábios e cinco estrelas ao redor da cabeça.'
+  },
+  {
+    title: 'Frases e Legado',
+    text: '“É melhor morrer do que pecar.”\n\nSeu testemunho fortalece todos os sacerdotes a serem fiéis à confissão, mesmo sob perseguição. Sua festa é celebrada com grande solenidade na Europa Central.'
+  }
+],
+'felix-genadio': [
+    {
+      title: 'Mártires de Uzális',
+      text: 'Santos Félix e Genádio foram martirizados em Uzális, na África Proconsular (atual Tunísia). Sua memória é celebrada pela Igreja como exemplo de fé inabalável.'
+    }
+  ],
+  'florencio-diocleciano': [
+    {
+      title: 'Mártires de Ósimo',
+      text: 'Santos Florêncio e Diocleciano foram martirizados em Ósimo, no Piceno (atualmente nas Marcas, Itália). São lembrados por sua coragem e testemunho cristão.'
+    }
+  ],
+  'abdas-edésio': [
+    {
+      title: 'Bispos Mártires na Pérsia',
+      text: 'Santos Abdas e Edésio foram bispos na antiga Pérsia, mortos por ordem do rei Sapor II, juntamente com trinta e oito companheiros, por volta de 375/376, por se recusarem a renunciar à fé cristã.'
+    }
+  ],
+  'peregrino-de-auxerre': [
+    {
+      title: 'Primeiro Bispo de Auxerre',
+      text: 'São Peregrino foi o primeiro bispo de Auxerre, na França, e é venerado como mártir. Foi responsável pela construção da catedral da cidade e pela evangelização da região.'
+    }
+  ],
+  'possidio-de-guelma': [
+    {
+      title: 'Discípulo de Santo Agostinho',
+      text: 'São Possídio foi bispo de Guelma, na Numídia (atual Argélia), e discípulo de Santo Agostinho. Assistiu à sua morte e escreveu sua biografia, contribuindo para a preservação de seu legado.'
+    }
+  ],
+  'fidolo-de-dax': [
+    {
+      title: 'Presbítero e Prisioneiro de Guerra',
+      text: 'São Fídolo foi um presbítero na França que, segundo a tradição, foi feito prisioneiro de guerra pelo rei Teodorico, falecendo por volta de 540.'
+    }
+  ],
+  'brandao-de-clonfert': [
+    {
+      title: 'O Navegador',
+      text: 'São Brandão, abade de Clonfert, na Irlanda, é conhecido por suas viagens missionárias e pela célebre "navegação de São Brandão", uma jornada lendária em busca do Paraíso.'
+    }
+  ],
+  'alexandre-de-jerusalem': [
+    {
+      title: 'Bispo e Fundador',
+      text: 'São Alexandre de Jerusalém, natural da Capadócia, foi bispo e mártir do século III. Fundou uma biblioteca e escola em Jerusalém, inspirando-se no modelo de Alexandria.'
+    }
+  ],
+  'vital-vladimiro-bajrak': [
+    {
+      title: 'Mártir Ucraniano',
+      text: 'Beato Vital Vladimiro Bajrak foi um monge e mártir ucraniano, vítima da perseguição soviética. Beatificado em 27 de junho de 2001, é lembrado por sua fidelidade à fé cristã.'
+    }
   ]
+
+
+
 
 
 
