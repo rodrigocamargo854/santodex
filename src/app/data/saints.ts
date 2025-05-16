@@ -267,6 +267,32 @@ export const saints = [
     image: '/vital.gif',
     description: 'Monge e mártir ucraniano, vítima da perseguição soviética, beatificado em 27 de junho de 2001.'
   }
+  ,{
+    id: 'sao-jorge',
+    name: 'São Jorge',
+    type: 'saint',
+    title: 'Soldado e Mártir',
+    birthDate: '275-04-23',
+    deathDate: '303-04-23',
+    feastDay: '23 de abril',
+    canonized: 'Pré-Congregação',
+    beatified: 'Pré-Congregação',
+    image: '/saintjorge.jpeg', 
+    description: 'São Jorge foi um soldado romano martirizado por sua fé cristã no século IV. É um dos santos mais venerados no mundo, especialmente no Oriente e entre os cristãos ortodoxos. Seu culto se difundiu também no Ocidente e ele é conhecido como um guerreiro da fé, símbolo de coragem diante da perseguição e defensor dos que sofrem.'
+  },{
+    id: 'padre-pio',
+    name: 'São Padre Pio de Pietrelcina',
+    type: 'santo',
+    title: 'Presbítero Capuchinho',
+    birthDate: '1887-05-25',
+    deathDate: '1968-09-23',
+    feastDay: '23 de setembro',
+    canonized: '2002',
+    beatified: '1999',
+    image: '/padrepio.png', 
+    description: 'São Padre Pio de Pietrelcina foi um sacerdote capuchinho italiano, conhecido mundialmente por suas virtudes heroicas, dons místicos e pelos estigmas que carregou por 50 anos. Foi um incansável confessor, fundador de obras sociais e espirituais, e exemplo de vida profundamente eucarística e mariana.'
+  }
+  
   
   
   

@@ -21,12 +21,16 @@ export default function Hero({ onSearch }: { onSearch: (term: string) => void })
         <p className="mt-4 text-lg text-[#7A5E4A] italic">Descubra os santos e beatos...</p>
 
         <input
-          type="text"
-          value={value}
-          onChange={handleChange}
-          placeholder="Pesquisar santo por nome..."
-          className="mt-6 w-full max-w-md px-4 py-2 rounded-full border border-gray-300 text-sm"
-        />
+  type="text"
+  value={value}
+  onChange={(e) => {
+    setValue(e.target.value)
+    onSearch(e.target.value)
+  }}
+  placeholder="Pesquisar santo por nome ou data..."
+  className="mt-6 w-full max-w-md px-4 py-2 rounded-full border border-gray-300 text-sm"
+/>
+
       </div>
     </section>
   )

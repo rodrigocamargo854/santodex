@@ -338,7 +338,56 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: 'Mártir Ucraniano',
       text: 'Beato Vital Vladimiro Bajrak foi um monge e mártir ucraniano, vítima da perseguição soviética. Beatificado em 27 de junho de 2001, é lembrado por sua fidelidade à fé cristã.'
     }
-  ]
+  ],
+  'sao-jorge': [
+  {
+    title: 'Origens e Juventude',
+    text: 'São Jorge nasceu por volta do ano 275 na Capadócia, região que hoje faz parte da Turquia. Era filho de pais cristãos e, após a morte do pai, mudou-se com a mãe para a Palestina, onde ingressou no exército romano, destacando-se por sua bravura e disciplina.'
+  },
+  {
+    title: 'Soldado de Cristo',
+    text: 'Apesar de pertencer ao exército imperial, Jorge nunca abandonou sua fé cristã. Durante a perseguição de Diocleciano, recusou-se a renunciar à sua crença e acabou sendo preso, torturado e finalmente decapitado em 23 de abril de 303.'
+  },
+  {
+    title: 'O Dragão e o Martírio',
+    text: 'A famosa lenda do dragão surgiu como símbolo da luta espiritual: o dragão representa o mal, e Jorge, montado em um cavalo branco, o vence com sua lança, representando a vitória da fé sobre o mal. Embora lendária, a imagem tornou-se um poderoso ícone cristão.'
+  },
+  {
+    title: 'Devoção Mundial',
+    text: 'São Jorge é padroeiro de vários países, como Inglaterra, Geórgia, Etiópia e Portugal, além de ser amplamente venerado no Brasil. A sua imagem é símbolo de proteção, especialmente entre os militares e devotos que enfrentam grandes batalhas pessoais.'
+  },
+  {
+    title: 'Frases e Legado',
+    text: '• Padroeiro dos escoteiros, militares e cavaleiros.\n\n• “Adotei a armadura da fé e a espada do Espírito para combater o mal.”\n\n• Seu nome é invocado por milhões em orações contra perigos e injustiças, sendo um símbolo de coragem, lealdade e proteção cristã.'
+  }
+],'padre-pio': [
+  {
+    title: 'Infância e Vocação',
+    text: 'Padre Pio nasceu em Pietrelcina, Itália, em 1887, em uma família humilde. Desde pequeno, demonstrava profunda sensibilidade espiritual e desejo de ser sacerdote. Aos 15 anos, ingressou na Ordem dos Capuchinhos, sendo ordenado sacerdote em 1910.'
+  },
+  {
+    title: 'Estigmas e Sofrimento',
+    text: 'Em 1918, recebeu os estigmas visíveis de Cristo crucificado, tornando-se o primeiro sacerdote estigmatizado da história. Esses sinais permaneceram até sua morte e foram acompanhados de dores intensas, perseguições e incompreensões, mesmo dentro da Igreja.'
+  },
+  {
+    title: 'Confissão e Direção Espiritual',
+    text: 'Padre Pio dedicava horas por dia ao confessionário, onde atraía milhares de fiéis buscando orientação e perdão. Possuía dons místicos como bilocação, leitura das almas e profecia. Sua vida era marcada por oração constante, penitência e caridade.'
+  },
+  {
+    title: 'Obras e Missão',
+    text: 'Fundou o hospital "Casa Sollievo della Sofferenza" e grupos de oração em todo o mundo. Ensinava que o sofrimento unido a Cristo tem valor redentor e incentivava a frequência aos sacramentos e o amor profundo à Virgem Maria.'
+  },
+  {
+    title: 'Legado e Canonização',
+    text: 'Faleceu no dia 23 de setembro de 1968, com as palavras “Jesus, Maria” nos lábios. Foi beatificado por São João Paulo II em 1999 e canonizado em 2002. Seu túmulo em San Giovanni Rotondo é destino de milhões de peregrinos.'
+  },
+  {
+    title: 'Frases marcantes',
+    text: '• “Reza, espera e não te preocupes.”\n\n• “A oração é a melhor arma que temos.”\n\n• “O sofrimento é uma graça, é a chave do céu.”'
+  }
+]
+
+
 
 
 
