@@ -81,7 +81,21 @@ export const saints = [
     image: '/beatasandra.png',
     description:
       'Beata Sandra Sabattini foi uma jovem italiana que viveu uma fé profunda e um amor concreto pelos mais necessitados. Membro da Comunidade Papa João XXIII, dedicou-se ao serviço dos pobres, deficientes e dependentes químicos. Estudante de medicina, sonhava ser missionária na África. Faleceu tragicamente aos 22 anos em um acidente de carro. Foi beatificada em 2021, tornando-se a primeira noiva beatificada na história da Igreja.'
+  },{
+    id: 'vitaliy-humeniuk',
+    name: 'Beato Vitaliy Humenyuk',
+    type: 'blessed',
+    title: 'Monge e Mártir',
+    birthDate: '1900-01-01',
+    deathDate: '1946-05-07',
+    feastDay: '7 de maio',
+    beatified: '2001',
+    canonized: '',
+    image: '/sao_vladmir.png',
+    description:
+      'O Beato Vitaliy Humenyuk foi um monge da Igreja Greco-Católica Ucraniana e mártir da fé durante a repressão comunista na União Soviética. Fiel à sua vocação e comunhão com Roma, recusou-se a aderir à Igreja Ortodoxa controlada pelo Estado. Por sua firmeza, foi preso e morreu devido às torturas e privações. Foi beatificado pelo Papa João Paulo II em 2001 junto a outros mártires ucranianos, tornando-se símbolo da resistência e fidelidade da Igreja do Silêncio na Europa Oriental.'
   }
+  
   
   
   

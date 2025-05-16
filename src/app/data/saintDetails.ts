@@ -169,7 +169,29 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Frases marcantes de Sandra',
     text: '“Não é minha esta vida que está evoluindo, ritmada por uma respiração que não é minha.” / “Não há nada neste mundo que seja teu.”'
   }
-]
+],
+'vitaliy-humeniuk': [
+    {
+      title: 'Origem e Vocação',
+      text: 'Nascido na Ucrânia em 1900, Vitaliy Humenyuk ingressou na vida monástica na tradição greco-católica, unida a Roma, tornando-se exemplo de humildade, serviço e oração constante.'
+    },
+    {
+      title: 'Perseguição e Fidelidade',
+      text: 'Durante o regime comunista soviético, Vitaliy se recusou a abandonar sua fé e sua comunhão com a Igreja Católica. Recusou-se a aderir à Igreja Ortodoxa controlada pelo Estado, sendo por isso perseguido e preso.'
+    },
+    {
+      title: 'Testemunho de Martírio',
+      text: 'Mesmo na prisão, manteve-se fiel à oração e encorajava outros cristãos a não abandonarem sua fé. Morreu no cárcere em 1946, vítima de tortura e privações, entregando sua vida como testemunha do Evangelho.'
+    },
+    {
+      title: 'Beatificação e Legado',
+      text: 'Foi beatificado pelo Papa São João Paulo II no ano de 2001, junto com outros mártires da Igreja Greco-Católica Ucraniana. É lembrado como símbolo da fidelidade silenciosa e da resistência espiritual diante da opressão comunista.'
+    },
+    {
+      title: 'Curiosidades',
+      text: '• Seu nome também é transliterado como "Vitalij" ou "Witalij".\n\n• Ele pertence ao grupo de mártires da "Igreja do Silêncio", referência aos católicos perseguidos no Leste Europeu.\n\n• Seu martírio foi reconhecido como um testemunho puro de fidelidade à comunhão com o Papa e à tradição católica oriental.\n\n• Sua história fortalece a identidade da Igreja Greco-Católica Ucraniana, que mesmo na clandestinidade nunca deixou de celebrar a Eucaristia.'
+    }
+  ]
 
 
 
