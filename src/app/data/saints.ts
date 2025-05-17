@@ -334,9 +334,21 @@ export const saints = [
     image: '/accutis.jpg',
     description:
       'Carlo Acutis foi um jovem italiano apaixonado pela Eucaristia e pela evangelização digital. Utilizou seus dons em informática para criar um site catalogando milagres eucarísticos. Com uma vida simples e piedosa, tornou-se modelo de santidade para os jovens do século XXI. Foi beatificado em 2020 e é conhecido como o “padroeiro da internet”.'
+  },
+  {
+    id: 'joana-darc',
+    name: 'Santa Joana d’Arc',
+    type: 'santa',
+    title: 'Mártir',
+    birthDate: '06/01/1412',
+    deathDate: '30/05/1431',
+    feastDay: '30 de maio',
+    canonized: '1920',
+    beatified: '1909',
+    image: '/joanadarc.jpeg',
+    description:
+      'Santa Joana d’Arc foi uma camponesa francesa que, guiada por visões e vozes de santos, liderou o exército francês durante a Guerra dos Cem Anos, contribuindo decisivamente para a coroação de Carlos VII. Foi capturada, julgada injustamente e queimada viva aos 19 anos. Séculos depois, foi reabilitada pela Igreja e canonizada como mártir e heroína da fé. É padroeira da França e símbolo de coragem e fidelidade à missão divina.'
   }
-  
-  
   
   
   

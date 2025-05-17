@@ -1,11 +1,12 @@
 // app/components/SaintGrid.tsx
 'use client'
 
+import { useEffect, useRef } from 'react'
 import { saints } from '../data/saints'
 import SaintCard from './SainCard'
 
 export default function SaintGrid({ search }: { search: string }) {
-
+  const gridRef = useRef<HTMLDivElement>(null)
   function parseFeastDay(feastDay: string): Date {
     const [day, de, month] = feastDay.split(' ')
     const months = [
@@ -24,10 +25,18 @@ export default function SaintGrid({ search }: { search: string }) {
       s.birthDate.includes(term)
     )
   })
+  useEffect(() => {
+    if (search && gridRef.current) {
+      gridRef.current.scrollIntoView({ behavior: 'smooth' })
+    }
+  }, [search])
   
   return (
-    <section id="grid" className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-4 mt-12">
-      {filtered
+<section
+      id="grid"
+      ref={gridRef}
+      className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-4 mt-12"
+    >      {filtered
         .sort(
           (a, b) =>
             parseFeastDay(a.feastDay).getTime() - parseFeastDay(b.feastDay).getTime()

@@ -461,7 +461,28 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: '“A Eucaristia é a minha rodovia para o céu.” / “Estar sempre unido a Jesus, esse é o meu plano de vida.” / “A tristeza é o olhar voltado para si mesmo, a felicidade é o olhar voltado para Deus.”'
   }
 ]
-
+,'joana-darc': [
+  {
+    title: 'Chamado Divino e Missão',
+    text: 'Desde os 13 anos, Joana d’Arc afirmou ouvir vozes celestiais de São Miguel, Santa Catarina e Santa Margarida, que a instruíram a libertar a França da ocupação inglesa. Obediente a esse chamado, enfrentou a incredulidade dos líderes e partiu com coragem para comandar tropas em nome de Deus.'
+  },
+  {
+    title: 'Conquista e Vitória',
+    text: 'Sem treinamento militar, Joana liderou o exército francês à vitória na cidade de Orléans em 1429. Sua fé e bravura inspiraram os soldados, restaurando a moral nacional. Foi determinante para a coroação de Carlos VII em Reims.'
+  },
+  {
+    title: 'Martírio',
+    text: 'Em 1430, foi capturada pelos borguinhões e entregue aos ingleses. Submetida a um julgamento político e religioso, foi acusada de heresia e queimada viva em 1431. Suas últimas palavras foram: “Jesus, Jesus”.'
+  },
+  {
+    title: 'Reabilitação e Canonização',
+    text: 'Em 1456, a Igreja anulou o julgamento, declarando sua inocência. Foi beatificada em 1909 por Pio X e canonizada em 1920 por Bento XV. Hoje, é considerada símbolo de fidelidade à vontade de Deus mesmo diante da perseguição e da morte.'
+  },
+  {
+    title: 'Curiosidades e Legado',
+    text: '• É padroeira da França e das mulheres que servem nas Forças Armadas.\n• Foi canonizada quase 500 anos após sua morte.\n• Seu estandarte trazia a imagem de Cristo e os nomes de Jesus e Maria.\n• É uma das poucas mulheres reconhecidas como comandante militar na história da Igreja.'
+  }
+]
 
 
 

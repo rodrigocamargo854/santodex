@@ -13,7 +13,7 @@ export default function Page({ params }: any) {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-[#fdfcfb] px-4">
-      <div className="max-w-3xl w-full px-6 py-12 bg-white rounded-xl shadow-lg border border-gray-200">
+      <div className="max-w-3xl w-full px-6 py-2 bg-white rounded-xl shadow-lg border border-gray-200">
         <div className="flex flex-col items-center">
           <Image
             src={saint.image}

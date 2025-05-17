@@ -15,7 +15,7 @@ export default function Hero({ onSearch }: { onSearch: (term: string) => void })
   }
 
   return (
-    <section className="bg-[#fdfaf7] pb-24 pt-0 text-center border-b border-[#e8e1d9] relative overflow-hidden">
+    <section className="bg-[#fdfaf7] pb-4 pt-0 text-center border-b border-[#e8e1d9] relative overflow-hidden">
       <div className="max-w-4xl mx-auto px-6 mt-24">
         <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight ...">Santodex</h1>
         <p className="mt-4 text-lg text-[#7A5E4A] italic">Descubra os santos e beatos...</p>
