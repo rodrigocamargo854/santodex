@@ -482,16 +482,151 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Curiosidades e Legado',
     text: '• É padroeira da França e das mulheres que servem nas Forças Armadas.\n• Foi canonizada quase 500 anos após sua morte.\n• Seu estandarte trazia a imagem de Cristo e os nomes de Jesus e Maria.\n• É uma das poucas mulheres reconhecidas como comandante militar na história da Igreja.'
   }
-]
-
-
-
-
-
-
-
-
-
+],
+'santa-teresa-davila': [
+    {
+      title: 'Infância e Conversão',
+      text: 'Santa Teresa de Ávila nasceu em 28 de março de 1515, na Espanha. Desde pequena demonstrava interesse por Deus, mas foi na vida adulta que passou por uma profunda conversão interior, abandonando a vida mundana e buscando a santidade através da oração e da reforma do Carmelo.'
+    },
+    {
+      title: 'Reforma do Carmelo',
+      text: 'Inconformada com a vida relaxada em alguns conventos, fundou o ramo dos Carmelitas Descalços. Junto a São João da Cruz, promoveu uma vida monástica mais austera, centrada na oração interior e na pobreza radical.'
+    },
+    {
+      title: 'Experiências Místicas',
+      text: 'Santa Teresa teve visões e êxtases místicos profundos, entre eles o famoso “transverberação do coração”. Suas experiências foram reconhecidas como autênticas pela Igreja e se tornaram base de sua espiritualidade.'
+    },
+    {
+      title: 'Obras e Escritos',
+      text: 'Autora de clássicos espirituais como “O Castelo Interior” e “Caminho de Perfeição”, ela escreveu com profundidade e simplicidade sobre o progresso da alma na oração. Sua obra é referência da mística cristã.'
+    },
+    {
+      title: 'Doutora da Igreja',
+      text: 'Foi proclamada Doutora da Igreja por Paulo VI em 1970 — a primeira mulher a receber esse título. É padroeira dos escritores e modelo de mulher forte e contemplativa.'
+    }
+  ],
+  'sao-joao-da-cruz': [
+    {
+      title: 'Infância e Vocação',
+      text: 'São João da Cruz nasceu em 1542, na Espanha. Desde cedo sentiu o chamado à vida religiosa e entrou para a ordem carmelita. Ali conheceu Santa Teresa de Ávila, com quem iniciou a reforma dos Carmelitas Descalços.'
+    },
+    {
+      title: 'Reforma e Perseguição',
+      text: 'Por defender uma vida mais austera e recolhida, enfrentou grandes perseguições, inclusive sendo preso por seus próprios irmãos de ordem. Mesmo no cárcere, compôs alguns de seus poemas espirituais mais profundos.'
+    },
+    {
+      title: 'Obras Místicas',
+      text: 'Escreveu tratados espirituais como “A Noite Escura da Alma” e “Cântico Espiritual”, nos quais descreve a purificação da alma e a união mística com Deus. Seus escritos são considerados o ápice da mística cristã.'
+    },
+    {
+      title: 'Doutor da Igreja',
+      text: 'Foi declarado Doutor da Igreja por Bento XIII em 1726. Sua vida é testemunho de contemplação, silêncio e abandono total nas mãos de Deus.'
+    }
+  ],
+  'santa-isabel-da-trindade': [
+    {
+      title: 'Infância e Vocação',
+      text: 'Santa Isabel da Trindade nasceu em 18 de julho de 1880, na França. Desde pequena tinha grande sensibilidade espiritual. Após a Primeira Comunhão, sentiu-se chamada à vida de oração e silêncio.'
+    },
+    {
+      title: 'Vida no Carmelo',
+      text: 'Ingressou no Carmelo de Dijon aos 21 anos. Viveu ali apenas cinco anos, mas com intensa profundidade espiritual. Desejava ser “louveur da glória de Deus” e viver a Santíssima Trindade no mais íntimo do coração.'
+    },
+    {
+      title: 'Escritos e Legado',
+      text: 'Mesmo em meio à doença (Doença de Addison), escreveu cartas e meditações que revelam sua união com Deus. Suas obras são joias da espiritualidade carmelita, e influenciaram teólogos e místicos posteriores.'
+    },
+    {
+      title: 'Frases marcantes',
+      text: '“Creio que no céu serei a louvor de glória diante da Santíssima Trindade.” / “Tudo passa, só Deus permanece.”'
+    },
+    {
+      title: 'Canonização',
+      text: 'Foi canonizada em 2016 pelo Papa Francisco e é modelo de contemplação, silêncio e união com o Deus Uno e Trino.'
+    }
+  ],
+  'santo-ivo': [
+    {
+      title: 'Infância e Vocação',
+      text: 'Santo Ivo nasceu em 1253, na Bretanha, França. Desde jovem, destacou-se por seu amor à justiça e zelo pelos pobres. Estudou Direito e Teologia nas universidades de Paris e Orleães.'
+    },
+    {
+      title: 'Ministério e Advocacia',
+      text: 'Tornou-se juiz e sacerdote. Como advogado, recusava-se a defender causas injustas. Era conhecido como “advogado dos pobres” por sua dedicação à defesa dos mais necessitados.'
+    },
+    {
+      title: 'Caridade e Vida Simples',
+      text: 'Transformou seu solar em abrigo para pobres e doentes. Era austero e profundamente piedoso, servindo como modelo de integridade cristã na vida pública.'
+    },
+    {
+      title: 'Morte e Canonização',
+      text: 'Faleceu em 1303. Foi canonizado pelo Papa Clemente VI em 1347. É padroeiro dos advogados, defensores públicos e juristas.'
+    },
+    {
+      title: 'Legado e Devoção',
+      text: 'Sua festa é celebrada em 19 de maio. É invocado como intercessor nas causas jurídicas e símbolo da justiça unida à misericórdia.'
+    }
+  ],
+  'sao-pedro-celestino-v': [
+    {
+      title: 'Vida Eremítica e Santidade',
+      text: 'Pedro nasceu em 1215, na Itália. Viveu como eremita durante muitos anos, atraindo discípulos e fundando a ordem dos Celestinos. Era conhecido por sua austeridade e dons místicos.'
+    },
+    {
+      title: 'Eleição como Papa',
+      text: 'Foi eleito Papa em 1294 aos 79 anos, após longa sede vacante. Apesar de relutante, aceitou por obediência à Igreja, tornando-se Celestino V.'
+    },
+    {
+      title: 'Renúncia Histórica',
+      text: 'Sentindo-se inadequado para o cargo, renunciou poucos meses depois — sendo o primeiro Papa a fazê-lo voluntariamente. Sua renúncia foi aceita pelo sucessor Bonifácio VIII.'
+    },
+    {
+      title: 'Jubileu do Perdão',
+      text: 'Antes de renunciar, instituiu o “Jubileu do Perdão”, concedendo indulgência plenária aos fiéis que visitassem a Basílica de Collemaggio em L’Aquila.'
+    },
+    {
+      title: 'Canonização e Devoção',
+      text: 'Foi canonizado em 1313. Sua vida inspira renúncia ao poder por amor à vontade de Deus. Sua memória é celebrada em 19 de maio.'
+    }
+  ],
+  'santo-urbano-i': [
+    {
+      title: 'Papa e Mártir',
+      text: 'Santo Urbano I foi Papa entre 222 e 230, durante um período de relativa paz para os cristãos. Trabalhou para fortalecer a comunidade cristã e a unidade da Igreja.'
+    },
+    {
+      title: 'Defensor da Igreja',
+      text: 'Defendia os direitos da Igreja e incentivava a caridade entre os cristãos. Converteu muitos pagãos e organizou o clero em tempos difíceis.'
+    },
+    {
+      title: 'Tradições e Devoção',
+      text: 'Embora haja poucos dados históricos, é venerado como mártir e santo. Sua festa é celebrada em 19 de maio em alguns calendários litúrgicos.'
+    }
+  ],
+  'sao-crispim-de-viterbo': [
+    {
+      title: 'Infância e Vocação',
+      text: 'Nascido em 1668 na Itália, Pedro Fioretti entrou para os Capuchinhos com o nome de Frei Crispim. Foi irmão leigo, dedicado aos trabalhos humildes e ao cuidado dos doentes.'
+    },
+    {
+      title: 'Vida de Serviço e Oração',
+      text: 'Exerceu o ofício de esmoleiro por 40 anos. Era alegre, caridoso e profundamente unido a Deus. Chamado de “santo da alegria”, acolhia todos com um sorriso.'
+    },
+    {
+      title: 'Canonização',
+      text: 'Foi o primeiro santo canonizado por São João Paulo II, em 1983. É exemplo de humildade ativa e espiritualidade capuchinha vivida no cotidiano.'
+    }
+  ]
 }
+
+
+
+
+
+
+
+
+
+
 
 

@@ -349,7 +349,111 @@ export const saints = [
     description:
       'Santa Joana d’Arc foi uma camponesa francesa que, guiada por visões e vozes de santos, liderou o exército francês durante a Guerra dos Cem Anos, contribuindo decisivamente para a coroação de Carlos VII. Foi capturada, julgada injustamente e queimada viva aos 19 anos. Séculos depois, foi reabilitada pela Igreja e canonizada como mártir e heroína da fé. É padroeira da França e símbolo de coragem e fidelidade à missão divina.'
   }
-  
+  ,{
+    id: 'santa-teresa-davila',
+    name: 'Santa Teresa d’Ávila',
+    type: 'santa',
+    title: 'Doutora da Igreja e Reformadora do Carmelo',
+    birthDate: '28/03/1515',
+    deathDate: '04/10/1582',
+    feastDay: '15 de outubro',
+    canonized: '1614',
+    beatified: '1614',
+    image: '/teresadavilla.jpg',
+    description: 'Santa Teresa d’Ávila foi uma mística e reformadora carmelita do século XVI. Fundou a Ordem das Carmelitas Descalças com São João da Cruz e escreveu obras espirituais como “O Castelo Interior”. Combinava profunda vida interior com ação reformadora, sendo declarada Doutora da Igreja por sua contribuição teológica e espiritual.'
+  },
+  {
+    id: 'sao-joao-da-cruz',
+    name: 'São João da Cruz',
+    type: 'santo',
+    title: 'Místico e Doutor da Igreja',
+    birthDate: '24/06/1542',
+    deathDate: '14/12/1591',
+    feastDay: '14 de dezembro',
+    canonized: '1726',
+    beatified: '1675',
+    image: '/saojoaodacruz.jpg',
+    description: 'São João da Cruz foi um sacerdote carmelita, poeta e místico espanhol, cofundador da Ordem das Carmelitas Descalças. Escreveu clássicos da espiritualidade como “A Noite Escura da Alma” e “Cântico Espiritual”. Sua doutrina sobre a união com Deus influenciou profundamente a mística cristã. É Doutor da Igreja.'
+  },
+  {
+    id: 'santa-isabel-da-trindade',
+    name: 'Santa Isabel da Trindade',
+    type: 'santa',
+    title: 'Mística Carmelita Descalça',
+    birthDate: '18/07/1880',
+    deathDate: '09/11/1906',
+    feastDay: '08 de novembro',
+    canonized: '2016',
+    beatified: '1984',
+    image: '/elisatrindade.png',
+    description: 'Santa Isabel da Trindade foi uma carmelita francesa conhecida por sua espiritualidade centrada na Trindade e na habitação interior de Deus na alma. Viveu apenas 26 anos, mas deixou profundas cartas e escritos espirituais. É considerada um farol para quem busca a contemplação no cotidiano.'
+  },
+  {
+    id: 'sao-pedro-celestino-v',
+    name: 'São Pedro Celestino V',
+    type: 'santo',
+    title: 'Papa e Eremita',
+    birthDate: '1215',
+    deathDate: '19/05/1296',
+    feastDay: '19 de maio',
+    canonized: '1313',
+    beatified: '1313',
+    image: '/saopedrocelestino.jpeg',
+    description: 'São Pedro Celestino V foi um eremita beneditino que, com grande relutância, aceitou o papado aos 80 anos. Conhecido por sua humildade e vida austera, renunciou ao cargo após apenas cinco meses. Instituiu o “Jubileu do Perdão” e viveu seus últimos anos em oração e penitência.'
+  },
+  {
+    id: 'santo-urbano-i',
+    name: 'Santo Urbano I',
+    type: 'santo',
+    title: 'Papa e Confessor da Fé',
+    birthDate: '',
+    deathDate: '230',
+    feastDay: '19 de maio',
+    canonized: 'Pré-congregação',
+    beatified: 'Pré-congregação',
+    image: '/Urbano-I.jpg',
+    description: 'Santo Urbano I foi Papa durante um período de relativa paz para os cristãos, entre 222 e 230. Trabalhou pela consolidação das comunidades cristãs e pela promoção dos direitos da Igreja, especialmente relacionados à administração de bens e enterros dos fiéis.'
+  },
+  {
+    id: 'partenio-e-colagero',
+    name: 'Santos Partênio e Colágero',
+    type: 'martires',
+    title: 'Mártires',
+    birthDate: '',
+    deathDate: '',
+    feastDay: '19 de maio',
+    canonized: '',
+    beatified: '',
+    image: '/noimage.png',
+    description: 'Santos Partênio e Colágero são lembrados como mártires da fé cristã, embora pouco se saiba sobre suas vidas. Sua celebração remonta à tradição dos primeiros séculos da Igreja.'
+  },
+  {
+    id: 'santo-ivo',
+    name: 'Santo Ivo de Kermartin',
+    type: 'santo',
+    title: 'Sacerdote e Advogado dos Pobres',
+    birthDate: '17/10/1253',
+    deathDate: '19/05/1303',
+    feastDay: '19 de maio',
+    canonized: '1347',
+    beatified: '1331',
+    image: '/santoivo.jpg',
+    description: 'Santo Ivo de Kermartin foi sacerdote e jurista na Bretanha, conhecido por sua dedicação aos pobres, órfãos e injustiçados. Chamado de “advogado dos pobres”, é padroeiro dos advogados e símbolo de justiça cristã. Levava uma vida austera e conciliava causas com caridade e sabedoria.'
+  },
+  {
+    id: 'sao-crispim-de-viterbo',
+    name: 'São Crispim de Viterbo',
+    type: 'santo',
+    title: 'Religioso Capuchinho',
+    birthDate: '13/11/1668',
+    deathDate: '19/05/1750',
+    feastDay: '19 de maio',
+    canonized: '1982',
+    beatified: '1900',
+    image: '/saocripimdevierbo.jpg',
+    description: 'São Crispim de Viterbo foi um frade capuchinho conhecido por sua humildade, alegria e espírito de serviço. Atuava como porteiro e esmoleiro do convento, sempre levando consolo espiritual às famílias. Foi o primeiro santo canonizado por São João Paulo II.'
+  }
+
   
   
   
