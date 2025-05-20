@@ -616,6 +616,28 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: 'Canonização',
       text: 'Foi o primeiro santo canonizado por São João Paulo II, em 1983. É exemplo de humildade ativa e espiritualidade capuchinha vivida no cotidiano.'
     }
+  ],
+  'bernardino-de-sena': [
+    {
+      title: 'Infância e Vocação Franciscana',
+      text: 'São Bernardino nasceu em Massa Marittima, Itália, em 1380. Órfão ainda jovem, foi criado por tias piedosas. Aos 22 anos, entrou para a Ordem dos Frades Menores, vivendo com extremo rigor, humildade e oração.'
+    },
+    {
+      title: 'Pregador Popular e Devoto do Nome de Jesus',
+      text: 'Era conhecido por seu dom extraordinário de pregação, atraindo multidões por onde passava. Propagou a devoção ao Santíssimo Nome de Jesus, simbolizado pelas letras “IHS”, promovendo seu uso em altares e igrejas.'
+    },
+    {
+      title: 'Reformador Franciscano',
+      text: 'São Bernardino trabalhou intensamente na reforma da ordem franciscana, promovendo o retorno à vida austera e ao espírito original de São Francisco. Fundou diversos conventos da chamada “Observância Franciscana”.'
+    },
+    {
+      title: 'Últimos Anos e Canonização',
+      text: 'Mesmo debilitado pela saúde frágil, percorreu a Itália a pé até o fim de seus dias, pregando com vigor. Morreu em 20 de maio de 1444. Foi canonizado apenas seis anos depois, em 1450, por Nicolau V.'
+    },
+    {
+      title: 'Legado e Devoção',
+      text: '• É padroeiro dos publicitários, comunicadores e das gráficas.\n• Seu símbolo, o monograma “IHS”, se espalhou por toda a cristandade.\n• É invocado também contra discórdias e disputas civis.'
+    }
   ]
 }
 

@@ -453,7 +453,20 @@ export const saints = [
     image: '/saocripimdevierbo.jpg',
     description: 'São Crispim de Viterbo foi um frade capuchinho conhecido por sua humildade, alegria e espírito de serviço. Atuava como porteiro e esmoleiro do convento, sempre levando consolo espiritual às famílias. Foi o primeiro santo canonizado por São João Paulo II.'
   }
-
+,{
+  id: 'bernardino-de-sena',
+  name: 'São Bernardino de Sena',
+  type: 'santo',
+  title: 'Pregador Franciscano',
+  birthDate: '08/09/1380',
+  deathDate: '20/05/1444',
+  feastDay: '20 de maio',
+  canonized: '1450',
+  beatified: '1450',
+  image: '/bernadinosena.jpeg',
+  description:
+    'São Bernardino de Sena foi um notável pregador franciscano italiano, conhecido por sua eloqüência, carisma e zelo missionário. Percorreu a Itália pregando sobre a conversão, a paz, a justiça e o Santíssimo Nome de Jesus, que promovia com um símbolo IHS. Rejeitou honrarias e cargos altos, dedicando-se ao povo simples. Sua pregação influenciou reformas sociais e espirituais. É padroeiro dos publicitários e pregadores.'
+}
   
   
   
