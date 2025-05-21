@@ -89,4 +89,3 @@ MIT
 
 ## Credits
 
-Built with faith and code.
