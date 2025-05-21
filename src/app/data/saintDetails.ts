@@ -638,8 +638,105 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: 'Legado e Devoção',
       text: '• É padroeiro dos publicitários, comunicadores e das gráficas.\n• Seu símbolo, o monograma “IHS”, se espalhou por toda a cristandade.\n• É invocado também contra discórdias e disputas civis.'
     }
-  ]
+  ],
+  'beata-maria-crescencia-perez': [
+    {
+      title: 'Vida e Vocação',
+      text: 'Beata Maria Crescência Pérez nasceu no Chile e entrou para a Congregação das Filhas de Maria do Santíssimo do Horto. Viveu com humildade e dedicação aos pobres, doentes e crianças. Faleceu em 1932 e foi beatificada por sua santidade cotidiana e serviço fiel.'
+    }
+  ],
+  'santa-lidia-de-tiatira': [
+    {
+      title: 'Conversão e Hospitalidade',
+      text: 'Santa Lídia foi comerciante de púrpura em Tiatira e a primeira pessoa a se converter ao cristianismo em solo europeu após ouvir a pregação de São Paulo em Filipos. Convidou Paulo e seus companheiros para se hospedarem em sua casa, tornando-se símbolo de hospitalidade cristã.'
+    }
+  ],
+  'santa-aurea-de-ostia': [
+    {
+      title: 'Testemunho de Fé',
+      text: 'Santa Áurea foi martirizada em Óstia, na Itália, durante as perseguições aos cristãos. Pouco se sabe sobre sua vida, mas seu testemunho inspirou devoção e veneração nas gerações posteriores.'
+    }
+  ],
+  'sao-baudelio-de-nimes': [
+    {
+      title: 'Mártir da Fé',
+      text: 'São Baudélio foi martirizado em Nimes, na Gália, por sua fidelidade ao cristianismo. Sua coragem diante da perseguição permanece como exemplo de constância e entrega.'
+    }
+  ],
+  'sao-talaleu': [
+    {
+      title: 'Martírio na Cilícia',
+      text: 'São Talaleu foi martirizado no século III em Egea, na Cilícia (atual Turquia). Sofreu cruéis torturas e permaneceu fiel à fé cristã até o fim.'
+    }
+  ],
+  'sao-lucifero-de-cagliari': [
+    {
+      title: 'Defensor da Fé Nicena',
+      text: 'Bispo de Cágliari, São Lucífero foi exilado por se opor aos arianos e defender o Credo Niceno. Após o exílio, retornou à sua diocese e morreu como confessor da fé em 370.'
+    }
+  ],
+  'santo-hilario-de-toulouse': [
+    {
+      title: 'Bispo e Construtor',
+      text: 'Santo Hilário, bispo de Toulouse, construiu uma basílica sobre o túmulo de São Saturnino. Viveu no século V e é lembrado como zeloso pastor do povo.'
+    }
+  ],
+  'santo-austregisilio': [
+    {
+      title: 'Bispo Caridoso',
+      text: 'Bispo de Bourges, Austregisílio dedicou-se aos pobres, órfãos e doentes. É lembrado por seu ministério compassivo e dedicação aos mais necessitados.'
+    }
+  ],
+  'santo-anastasio-de-brescia': [
+    {
+      title: 'Pastor Fiel',
+      text: 'Bispo de Bréscia no século VII, Santo Anastásio é lembrado como homem de fé e zelo pastoral, mesmo em tempos turbulentos.'
+    }
+  ],
+  'sao-teodoro-de-pavia': [
+    {
+      title: 'Firmeza no Exílio',
+      text: 'Bispo de Pavia durante conflitos entre Francos e Lombardos, São Teodoro foi exilado por sua fidelidade à Igreja e ao povo de Deus.'
+    }
+  ],
+  'beato-guido-de-gheraldesca': [
+    {
+      title: 'Eremita na Toscana',
+      text: 'Beato Guido viveu como eremita em Castagneto, Itália. Conhecido por sua vida de oração, penitência e silêncio, faleceu por volta de 1134.'
+    }
+  ],
+  'beata-colomba-de-rieti': [
+    {
+      title: 'Pacificadora de Perúgia',
+      text: 'Beata Colomba (Ângela) de Rieti foi dominicana e mística. Promoveu a paz entre grupos em conflito na cidade e viveu em profunda união com Cristo.'
+    }
+  ],
+  'sao-protasio-chomg': [
+    {
+      title: 'Mártir Coreano',
+      text: 'Após ter abandonado a fé, São Protásio voltou ao cristianismo e confessou publicamente sua fé mesmo diante de terríveis torturas. Morreu mártir em 1839.'
+    }
+  ],
+  'beata-josefa-stenmanns': [
+    {
+      title: 'Missionária na Holanda',
+      text: 'Beata Josefa cofundou a Congregação das Irmãs Missionárias Servas do Espírito Santo. Viveu com dedicação à evangelização e ao serviço. Faleceu em 1903.'
+    }
+  ],
+  'santo-arcangelo-tadini': [
+    {
+      title: 'Padroeiro dos Operários',
+      text: 'Fundador das Irmãs Operárias da Santa Casa de Nazaré, dedicou sua vida à justiça social e à dignidade dos trabalhadores. Canonizado por seu compromisso cristão com os pobres.'
+    }
+  ],
+  'beato-luis-talamoni': [
+    {
+      title: 'Educador e Fundador',
+      text: 'Presbítero italiano e fundador das Irmãs Misericordinas de São Gerardo. Foi um grande educador e agente de transformação social, falecido em 1926.'
+    }
+  ]       
 }
+
 
 
 
