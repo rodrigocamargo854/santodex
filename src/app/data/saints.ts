@@ -519,6 +519,48 @@ export const saints = [
   image: '/saintthomasaquino.jpg',
   description: 'São Tomás de Aquino, conhecido como Doutor Angélico, é um dos maiores teólogos e filósofos da história da Igreja. Sua síntese entre fé e razão permanece até hoje como base da teologia católica.'
 }
+,
+{
+  id: 'sao-bento',
+  name: 'São Bento de Núrsia',
+  type: 'santo',
+  title: 'Pai do Monarquismo Ocidental',
+  birthDate: '480',
+  deathDate: '21/03/547',
+  feastDay: '11 de julho',
+  canonized: 'Pre-Congregação',
+  beatified: 'Pre-Congregação',
+  image: '/saobento.jpg',
+  description: 'São Bento de Núrsia é o fundador da Ordem dos Beneditinos e considerado o pai do monarquismo ocidental. Sua Regra para os monges influenciou profundamente a espiritualidade cristã e a organização dos mosteiros em todo o mundo.'
+}
+,
+{
+  id: 'santa-paulina',
+  name: 'Santa Paulina do Coração Agonizante de Jesus',
+  type: 'santa',
+  title: 'Fundadora das Irmãzinhas da Imaculada Conceição',
+  birthDate: '16/12/1865',
+  deathDate: '09/07/1942',
+  feastDay: '9 de julho',
+  canonized: '2002',
+  beatified: '1991',
+  image: '/santapaulina.jpg',
+  description: 'Santa Paulina, a primeira santa canonizada do Brasil, foi uma mulher de fé, coragem e caridade. Fundou a Congregação das Irmãzinhas da Imaculada Conceição e dedicou sua vida ao cuidado dos doentes, dos pobres e dos marginalizados.'
+},
+
+{
+  id: 'sao-maximiliano-kolbe',
+  name: 'São Maximiliano Kolbe',
+  type: 'santo',
+  title: 'Presbítero e Mártir',
+  birthDate: '08/01/1894',
+  deathDate: '14/08/1941',
+  feastDay: '14 de agosto',
+  canonized: '1982',
+  beatified: '1971',
+  image: '/maximilianokolbe.jpg',
+  description: 'São Maximiliano Kolbe foi um frade franciscano polonês, missionário e mártir da caridade. É conhecido por seu profundo amor à Imaculada Conceição e por ter se oferecido para morrer no lugar de um pai de família no campo de concentração de Auschwitz.'
+}
 
   
   

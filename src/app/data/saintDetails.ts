@@ -827,8 +827,87 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Morte e Devoção',
     text: 'Faleceu em 7 de março de 1274, a caminho do Concílio de Lyon. Foi canonizado em 1323 e proclamado Doutor da Igreja. É padroeiro das universidades, faculdades, estudantes e teólogos.'
   }
+],
+'sao-bento': [
+  {
+    title: 'Infância, Juventude e Vocação',
+    text: 'São Bento nasceu em Núrsia, na Itália, por volta do ano 480. Desde jovem, buscava uma vida de oração, silêncio e entrega total a Deus. Abandonou os estudos em Roma e viveu como eremita em Subíaco.'
+  },
+  {
+    title: 'Fundação dos Mosteiros',
+    text: 'Com o tempo, atraiu discípulos e fundou doze pequenos mosteiros na região de Subíaco. Posteriormente, estabeleceu-se em Monte Cassino, onde fundou um dos mosteiros mais importantes da história.'
+  },
+  {
+    title: 'A Regra de São Bento',
+    text: 'São Bento escreveu a famosa "Regra de São Bento", que equilibra oração, trabalho e estudo, estruturando a vida monástica. O lema beneditino é "Ora et Labora" (Reza e Trabalha), e até hoje sua Regra orienta milhares de monges no mundo inteiro.'
+  },
+  {
+    title: 'Livros e Obras',
+    text: '• Regra de São Bento (Regula Benedicti) — sua principal e mais influente obra, guia espiritual e prático para a vida monástica.\n• Sua biografia foi escrita por São Gregório Magno no "Livro dos Diálogos".'
+  },
+  {
+    title: 'Frases Marcantes',
+    text: '• “Ora et Labora.”\n• “Foge do mal e faze o bem.”\n• “Não antepor nada ao amor de Cristo.”\n• “A ociosidade é inimiga da alma.”'
+  },
+  {
+    title: 'Morte e Devoção',
+    text: 'São Bento faleceu em 21 de março de 547. É considerado padroeiro da Europa e protetor contra tentações, malefícios e ataques espirituais, especialmente por meio da Medalha de São Bento, reconhecida por sua poderosa proteção espiritual.'
+  }
 ]
+,'santa-paulina': [
+  {
+    title: 'Infância e Imigração',
+    text: 'Amabile Lucia Visintainer, conhecida como Santa Paulina, nasceu em 16 de dezembro de 1865 em Vigolo Vattaro, na Itália. Aos 10 anos, emigrou com sua família para Nova Trento, em Santa Catarina, Brasil.'
+  },
+  {
+    title: 'Vocação e Fundação da Congregação',
+    text: 'Desde jovem, sentiu um forte chamado à vida de caridade. Em 1890, junto com uma amiga, fundou a Congregação das Irmãzinhas da Imaculada Conceição, dedicada ao cuidado dos doentes, idosos e crianças órfãs.'
+  },
+  {
+    title: 'Vida de Serviço e Desafios',
+    text: 'Dedicou-se integralmente ao serviço dos mais necessitados, enfrentando dificuldades, perseguições e desafios internos na Congregação. Mesmo afastada da liderança por um tempo, manteve-se fiel à sua missão e à vida de oração.'
+  },
+  {
+    title: 'Livros e Escritos',
+    text: 'Santa Paulina não deixou livros publicados, mas são preservadas cartas, orientações espirituais e anotações que expressam sua profunda vida de oração, amor à Eucaristia e à Imaculada Conceição.'
+  },
+  {
+    title: 'Frases Marcantes',
+    text: '• “Nunca, jamais desanimemos, embora venham ventos contrários.”\n• “Fazer, em tudo, a vontade de Deus.”\n• “Colocar tudo nas mãos de Deus, tudo esperar dEle e nada de nós mesmos.”'
+  },
+  {
+    title: 'Morte e Devoção',
+    text: 'Faleceu em 9 de julho de 1942, em São Paulo. Foi beatificada em 1991 e canonizada em 2002 por São João Paulo II. É a primeira santa canonizada no Brasil e é padroeira dos doentes com diabetes e dos imigrantes.'
+  }
+]
+,
 
+'sao-maximiliano-kolbe': [
+  {
+    title: 'Infância, Vocação e Devoção Mariana',
+    text: 'Maximiliano Maria Kolbe nasceu em 8 de janeiro de 1894, na Polônia. Desde criança, teve uma profunda experiência espiritual com Nossa Senhora, que lhe ofereceu duas coroas: a branca (pureza) e a vermelha (martírio), às quais respondeu que queria ambas.'
+  },
+  {
+    title: 'Vida Religiosa e Missão',
+    text: 'Ingressou na Ordem dos Frades Menores Conventuais. Tornou-se sacerdote e dedicou sua vida à evangelização por meio da imprensa, rádio e missões. Fundou a "Milícia da Imaculada", um movimento de consagração total a Maria, e estabeleceu a Cidade da Imaculada, um dos maiores centros de evangelização mariana do mundo.'
+  },
+  {
+    title: 'Perseguição e Martírio',
+    text: 'Durante a Segunda Guerra Mundial, foi preso pelos nazistas e enviado ao campo de concentração de Auschwitz. Quando um prisioneiro fugiu, os oficiais escolheram dez homens para morrer de fome como punição. Kolbe se ofereceu para ocupar o lugar de um deles, que era pai de família. Após semanas sem comida, foi morto com uma injeção letal em 14 de agosto de 1941.'
+  },
+  {
+    title: 'Livros e Obras',
+    text: '• Escritos espirituais e cartas reunidas em diversas coletâneas.\n• Fundou e dirigiu a revista "Cavaleiro da Imaculada".\n• Obras sobre consagração total a Maria e a espiritualidade mariana, além de documentos e meditações sobre a Imaculada.'
+  },
+  {
+    title: 'Frases Marcantes',
+    text: '• “O ódio não é uma força criativa. Só o amor é criativo.”\n• “Para aqueles que amam, nada é impossível.”\n• “A única coisa necessária é fazer a vontade de Deus.”\n• “Sem sacrifício não há amor.”'
+  },
+  {
+    title: 'Morte e Devoção',
+    text: 'Foi canonizado em 1982 por São João Paulo II como mártir da caridade. É padroeiro dos jornalistas, da mídia católica, dos prisioneiros e dos movimentos pró-vida. Sua vida é um testemunho de amor, sacrifício e total entrega à Imaculada Conceição.'
+  }
+]
 
 
 }
