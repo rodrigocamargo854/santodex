@@ -777,7 +777,59 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Legado e Espiritualidade',
     text: '• Faleceu em 31 de julho de 1556, em Roma.\n• Foi canonizado em 1622 por Gregório XV.\n• É patrono dos exercícios espirituais, do discernimento e dos retiros espirituais.\n• Seu legado permanece vivo nas instituições de ensino, missões e na espiritualidade inaciana, praticada mundialmente.'
   }
+],'santo-agostinho': [
+  {
+    title: 'Infância, Juventude e Conversão',
+    text: 'Agostinho nasceu em 354, em Tagaste (atual Argélia). Teve uma juventude marcada pela busca desenfreada de prazeres, reconhecimento e respostas filosóficas. Por influência de sua mãe, Santa Mônica, e após um longo caminho de inquietações, converteu-se ao cristianismo em 387, batizado por Santo Ambrósio.'
+  },
+  {
+    title: 'Ministério e Atuação como Bispo',
+    text: 'Após sua conversão, Agostinho retornou à África, foi ordenado sacerdote e, posteriormente, bispo de Hipona. Atuou fortemente contra heresias como o maniqueísmo, donatismo e pelagianismo, sempre buscando defender a verdade da fé.'
+  },
+  {
+    title: 'Obras e Legado Intelectual',
+    text: 'Santo Agostinho é autor de obras fundamentais para a teologia cristã e filosofia ocidental. Suas reflexões sobre graça, livre-arbítrio, tempo e a busca de Deus moldaram séculos de pensamento.'
+  },
+  {
+    title: 'Livros Principais',
+    text: '• Confissões\n• A Cidade de Deus\n• De Trinitate (Sobre a Trindade)\n• Sobre o Livre Arbítrio\n• Sobre o Catecumenato dos Simples\n• Sermões, cartas e tratados diversos'
+  },
+  {
+    title: 'Frases Marcantes',
+    text: '• “Fizeste-nos para Ti, Senhor, e inquieto está o nosso coração enquanto não repousa em Ti.”\n• “Tarde te amei, ó Beleza tão antiga e tão nova, tarde te amei.”\n• “Ama e faze o que quiseres.”'
+  },
+  {
+    title: 'Morte e Devoção',
+    text: 'Faleceu em 28 de agosto de 430, durante o cerco de Hipona pelos vândalos. É venerado como um dos maiores Doutores da Igreja e padroeiro dos teólogos e filósofos.'
+  }
+],'sao-tomas-de-aquino': [
+  {
+    title: 'Infância e Formação',
+    text: 'Tomás nasceu em 1225, no castelo de Roccasecca, Itália, em uma família nobre. Desde jovem demonstrou enorme inteligência e desejo pela vida religiosa. Estudou no Mosteiro de Montecassino e depois na Universidade de Nápoles, onde entrou na Ordem dos Dominicanos.'
+  },
+  {
+    title: 'Vida Acadêmica e Ministério',
+    text: 'Teve como mestres Alberto Magno e se destacou em Paris e Roma como professor e pensador. Sua missão foi demonstrar que a fé e a razão caminham juntas, respondendo aos desafios do pensamento de sua época.'
+  },
+  {
+    title: 'Obras e Contribuição Intelectual',
+    text: 'São Tomás é autor de uma obra monumental que busca explicar e sistematizar a fé cristã de forma lógica e filosófica, utilizando especialmente a filosofia de Aristóteles.'
+  },
+  {
+    title: 'Livros Principais',
+    text: '• Suma Teológica\n• Suma Contra os Gentios\n• Comentários à obra de Aristóteles (Ética, Metafísica, Física, Política)\n• Sobre o Ser e a Essência\n• Diversas questões disputadas e opúsculos teológicos'
+  },
+  {
+    title: 'Frases Marcantes',
+    text: '• “A fé e a razão são como duas asas pelas quais o espírito humano se eleva à contemplação da verdade.”\n• “Quem não vive para servir, não serve para viver.”\n• “Nada há no intelecto que não tenha passado pelos sentidos.”\n• “A contemplação das coisas divinas é a finalidade última do homem.”'
+  },
+  {
+    title: 'Morte e Devoção',
+    text: 'Faleceu em 7 de março de 1274, a caminho do Concílio de Lyon. Foi canonizado em 1323 e proclamado Doutor da Igreja. É padroeiro das universidades, faculdades, estudantes e teólogos.'
+  }
 ]
+
+
 
 }
 

@@ -492,6 +492,33 @@ export const saints = [
   image: '/santoinaciodeloyola.jpg',
   description: 'Santo Inácio de Loyola foi o fundador da Companhia de Jesus (Jesuítas) e um dos grandes mestres da espiritualidade cristã. Antigo militar, converteu-se após uma grave lesão de guerra e dedicou sua vida a Deus, desenvolvendo os Exercícios Espirituais, que são praticados no mundo inteiro até hoje.'
 }
+,{
+  id: 'santo-agostinho',
+  name: 'Santo Agostinho',
+  type: 'santo',
+  title: 'Bispo e Doutor da Igreja',
+  birthDate: '13/11/354',
+  deathDate: '28/08/430',
+  feastDay: '28 de agosto',
+  canonized: 'Pre-Congregação',
+  beatified: 'Pre-Congregação',
+  image: '/santoagostinho.jpg',
+  description: 'Santo Agostinho, Bispo de Hipona, é um dos maiores pensadores da história da Igreja. Sua vida é marcada por uma profunda conversão e pela elaboração de uma teologia que influenciou todo o Ocidente. É conhecido como Doutor da Graça.'
+}
+,
+{
+  id: 'sao-tomas-de-aquino',
+  name: 'São Tomás de Aquino',
+  type: 'santo',
+  title: 'Presbítero, Teólogo e Doutor da Igreja',
+  birthDate: '1225',
+  deathDate: '07/03/1274',
+  feastDay: '28 de janeiro',
+  canonized: '1323',
+  beatified: 'Pre-Congregação',
+  image: '/saintthomasaquino.jpg',
+  description: 'São Tomás de Aquino, conhecido como Doutor Angélico, é um dos maiores teólogos e filósofos da história da Igreja. Sua síntese entre fé e razão permanece até hoje como base da teologia católica.'
+}
 
   
   
