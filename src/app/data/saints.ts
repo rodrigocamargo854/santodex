@@ -466,7 +466,20 @@ export const saints = [
   image: '/bernadinosena.jpeg',
   description:
     'São Bernardino de Sena foi um notável pregador franciscano italiano, conhecido por sua eloqüência, carisma e zelo missionário. Percorreu a Itália pregando sobre a conversão, a paz, a justiça e o Santíssimo Nome de Jesus, que promovia com um símbolo IHS. Rejeitou honrarias e cargos altos, dedicando-se ao povo simples. Sua pregação influenciou reformas sociais e espirituais. É padroeiro dos publicitários e pregadores.'
+},{
+  id: 'santa-rita-de-cassia',
+  name: 'Santa Rita de Cássia',
+  type: 'santa',
+  title: 'Religiosa Agostiniana',
+  birthDate: '1381',
+  deathDate: '22/05/1457',
+  feastDay: '22 de maio',
+  canonized: '1900',
+  beatified: '1627',
+  image: '/santaritadecassia.jpeg',
+  description: 'Santa Rita de Cássia é conhecida como a santa das causas impossíveis. Viveu como esposa, mãe, viúva e religiosa agostiniana, enfrentando inúmeras adversidades com fé, perdão e amor. É venerada mundialmente por sua intercessão poderosa nas situações mais difíceis.'
 }
+
   
   
   

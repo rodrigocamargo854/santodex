@@ -734,7 +734,29 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: 'Educador e Fundador',
       text: 'Presbítero italiano e fundador das Irmãs Misericordinas de São Gerardo. Foi um grande educador e agente de transformação social, falecido em 1926.'
     }
-  ]       
+  ]      ,'santa-rita-de-cassia': [
+  {
+    title: 'Infância e Vocação',
+    text: 'Santa Rita nasceu em 1381, em Roccaporena, uma aldeia próxima de Cássia, na Itália. Desde a infância, demonstrava grande inclinação à vida de oração, caridade e desejo de consagração a Deus, embora tenha seguido o caminho do matrimônio devido à vontade dos pais.'
+  },
+  {
+    title: 'Vida de Casada e Maternidade',
+    text: 'Rita se casou com Paolo Mancini, um homem de temperamento difícil, com quem teve dois filhos. Suportou durante anos agressões verbais e comportamentos violentos, sempre oferecendo sua vida a Deus em espírito de paciência, oração e caridade.'
+  },
+  {
+    title: 'Perdão e Viúva',
+    text: 'Após a morte violenta de seu marido, vítima de uma emboscada, Rita enfrentou ainda a dor da morte precoce de seus dois filhos. Demonstrou então um perdão radical, intercedendo pela conversão dos assassinos e abandonando-se totalmente à vontade de Deus.'
+  },
+  {
+    title: 'Vida Religiosa e Estigma',
+    text: 'Com a entrada no Mosteiro Agostiniano de Cássia, entregou-se à vida de oração, penitência e contemplação. Recebeu um estigma na testa, semelhante a um espinho da coroa de Cristo, que permaneceu até sua morte, sinal de sua profunda união com a Paixão de Jesus.'
+  },
+  {
+    title: 'Morte, Legado e Devoção',
+    text: '• Faleceu em 22 de maio de 1457.\n• É conhecida como a “Santa das Causas Impossíveis”.\n• Seus devotos recorrem a ela especialmente em situações desesperadoras.\n• Seu corpo permanece incorrupto no Santuário de Cássia, atraindo milhares de peregrinos todos os anos.'
+  }
+]
+ 
 }
 
 
