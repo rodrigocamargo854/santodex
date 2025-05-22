@@ -756,7 +756,29 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: '• Faleceu em 22 de maio de 1457.\n• É conhecida como a “Santa das Causas Impossíveis”.\n• Seus devotos recorrem a ela especialmente em situações desesperadoras.\n• Seu corpo permanece incorrupto no Santuário de Cássia, atraindo milhares de peregrinos todos os anos.'
   }
 ]
- 
+ ,'santo-inacio-de-loyola': [
+  {
+    title: 'Infância, Juventude e Carreira Militar',
+    text: 'Nascido em 24 de outubro de 1491, na Espanha, Inácio (Iñigo López de Loyola) pertencia a uma família nobre e sonhava com glórias militares. Viveu uma juventude marcada por busca de prestígio, honra e combates.'
+  },
+  {
+    title: 'Conversão e Experiência Mística',
+    text: 'Durante a defesa da cidade de Pamplona, foi gravemente ferido por uma bala de canhão que quebrou sua perna. Durante a longa recuperação, leu a vida de Cristo e dos santos, o que provocou uma profunda conversão espiritual.'
+  },
+  {
+    title: 'Caminho Espiritual e Exercícios',
+    text: 'Inácio se retirou para Manresa, onde viveu um intenso período de oração, penitência e discernimento espiritual. Foi nesse tempo que começou a sistematizar os Exercícios Espirituais, método de oração, meditação e exame interior.'
+  },
+  {
+    title: 'Fundação da Companhia de Jesus',
+    text: 'Após estudar filosofia e teologia em Paris, formou um grupo de companheiros comprometidos com a missão de evangelização, fundando a Companhia de Jesus (Jesuítas) em 1540. A ordem tornou-se uma das maiores forças missionárias, educacionais e de reforma da Igreja Católica.'
+  },
+  {
+    title: 'Legado e Espiritualidade',
+    text: '• Faleceu em 31 de julho de 1556, em Roma.\n• Foi canonizado em 1622 por Gregório XV.\n• É patrono dos exercícios espirituais, do discernimento e dos retiros espirituais.\n• Seu legado permanece vivo nas instituições de ensino, missões e na espiritualidade inaciana, praticada mundialmente.'
+  }
+]
+
 }
 
 

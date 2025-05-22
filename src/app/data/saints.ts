@@ -479,6 +479,19 @@ export const saints = [
   image: '/santaritadecassia.jpeg',
   description: 'Santa Rita de Cássia é conhecida como a santa das causas impossíveis. Viveu como esposa, mãe, viúva e religiosa agostiniana, enfrentando inúmeras adversidades com fé, perdão e amor. É venerada mundialmente por sua intercessão poderosa nas situações mais difíceis.'
 }
+,{
+  id: 'santo-inacio-de-loyola',
+  name: 'Santo Inácio de Loyola',
+  type: 'santo',
+  title: 'Fundador da Companhia de Jesus (Jesuítas)',
+  birthDate: '24/10/1491',
+  deathDate: '31/07/1556',
+  feastDay: '31 de julho',
+  canonized: '1622',
+  beatified: '1609',
+  image: '/santoinaciodeloyola.jpg',
+  description: 'Santo Inácio de Loyola foi o fundador da Companhia de Jesus (Jesuítas) e um dos grandes mestres da espiritualidade cristã. Antigo militar, converteu-se após uma grave lesão de guerra e dedicou sua vida a Deus, desenvolvendo os Exercícios Espirituais, que são praticados no mundo inteiro até hoje.'
+}
 
   
   
