@@ -562,6 +562,23 @@ export const saints = [
   description: 'São Maximiliano Kolbe foi um frade franciscano polonês, missionário e mártir da caridade. É conhecido por seu profundo amor à Imaculada Conceição e por ter se oferecido para morrer no lugar de um pai de família no campo de concentração de Auschwitz.'
 }
 
+  ,
+  
+  {
+    id: 'sao-joao-batista-de-rossi',
+    name: 'São João Batista de Rossi',
+    type: 'santo',
+    title: 'Presbítero',
+    birthDate: '22/02/1698',
+    deathDate: '23/05/1764',
+    feastDay: '23 de maio',
+    canonized: '1881',
+    beatified: '1860',
+    image: '/joaobatistade.jpg',
+    description: 'São João Batista de Rossi foi um sacerdote italiano, conhecido por seu incansável trabalho com os pobres, doentes e prisioneiros em Roma. Mesmo sofrendo de epilepsia, dedicou sua vida ao serviço dos mais necessitados, tornando-se exemplo de caridade, misericórdia e humildade.'
+  }
+  
+  ];
   
   
   
@@ -570,4 +587,3 @@ export const saints = [
   
   
   
-]

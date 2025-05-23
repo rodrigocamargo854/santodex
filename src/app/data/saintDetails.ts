@@ -907,7 +907,30 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Morte e Devoção',
     text: 'Foi canonizado em 1982 por São João Paulo II como mártir da caridade. É padroeiro dos jornalistas, da mídia católica, dos prisioneiros e dos movimentos pró-vida. Sua vida é um testemunho de amor, sacrifício e total entrega à Imaculada Conceição.'
   }
+],
+'sao-joao-batista-de-rossi': [
+  {
+    title: 'Infância e Vocação',
+    text: 'João Batista de Rossi nasceu em 22 de fevereiro de 1698, em Voltaggio, na Itália. Desde jovem sentiu o chamado de Deus e se dedicou aos estudos e à vida espiritual, mesmo enfrentando dificuldades como a epilepsia, que o acompanhou por toda a vida.'
+  },
+  {
+    title: 'Vida Sacerdotal e Missão',
+    text: 'Foi ordenado sacerdote e logo se destacou por seu trabalho com os pobres, os doentes e os encarcerados em Roma. Tinha uma enorme capacidade de escuta e acolhimento, sendo procurado por inúmeros penitentes que buscavam direção espiritual e consolo.'
+  },
+  {
+    title: 'Obras e Atividades',
+    text: 'Fundou a Pia União dos Sacerdotes Seculares e esteve à frente de diversas obras de caridade. Atuou como capelão de hospitais, asilos e prisões, levando esperança e conforto aos mais marginalizados da sociedade romana.'
+  },
+  {
+    title: 'Frases Marcantes',
+    text: '• “O sofrimento dos pobres é o sofrimento do próprio Cristo.”\n• “Quanto maior a miséria, maior deve ser a misericórdia.”'
+  },
+  {
+    title: 'Morte e Canonização',
+    text: 'Faleceu no dia 23 de maio de 1764, em Roma. Foi beatificado em 1860 e canonizado em 1881 pelo Papa Leão XIII. Sua festa é celebrada no dia 23 de maio. É considerado padroeiro dos doentes e dos que sofrem de epilepsia.'
+  }
 ]
+
 
 
 }
