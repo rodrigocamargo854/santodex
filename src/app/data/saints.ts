@@ -160,7 +160,7 @@ export const saints = [
     feastDay: '16 de maio',
     canonized: '',
     beatified: '',
-    image: '/felixeganadio.png',
+    image: '/noimage.png',
     description: 'Mártires em Uzális, na África Proconsular (atual Tunísia), cuja memória é celebrada pela Igreja.'
   },
   {
@@ -577,6 +577,226 @@ export const saints = [
     image: '/joaobatistade.jpg',
     description: 'São João Batista de Rossi foi um sacerdote italiano, conhecido por seu incansável trabalho com os pobres, doentes e prisioneiros em Roma. Mesmo sofrendo de epilepsia, dedicou sua vida ao serviço dos mais necessitados, tornando-se exemplo de caridade, misericórdia e humildade.'
   }
+  ,{
+    id: 'santa-julia',
+    name: 'Santa Júlia',
+    type: 'santa',
+    title: 'Mártir',
+    birthDate: 'Ano desconhecido',
+    deathDate: 'c. 440',
+    feastDay: '22 de maio',
+    canonized: 'Pré-congregação',
+    image: '/santajulia.jpg',
+    description: 'Santa Júlia foi uma jovem cristã martirizada na Córsega por se recusar a renunciar à sua fé. É considerada padroeira da Córsega e símbolo de fidelidade a Cristo, mesmo diante da perseguição.'
+  },
+  {
+    id: 'santa-maria-madalena-de-pazzi',
+    name: 'Santa Maria Madalena de Pazzi',
+    type: 'santa',
+    title: 'Virgem e Carmelita',
+    birthDate: '02/04/1566',
+    deathDate: '25/05/1607',
+    feastDay: '25 de maio',
+    canonized: '1669',
+    beatified: '1626',
+    image: '/noimage.png',
+    description: 'Santa Maria Madalena de Pazzi foi uma carmelita italiana, mística e contemplativa, conhecida por suas experiências místicas profundas e seu grande amor por Jesus Cristo e pela Igreja. É um exemplo de vida de oração, penitência e caridade.'
+  },
+    {
+      id: 'sao-beda-veneravel',
+      name: 'São Beda Venerável',
+      type: 'santo',
+      title: 'Presbítero e Doutor da Igreja',
+      birthDate: 'c. 672',
+      deathDate: '25/05/735',
+      feastDay: '25 de maio',
+      canonized: '1899',
+      image: '/saobeda.jpg',
+      description: 'São Beda Venerável foi um monge beneditino, teólogo e historiador da Inglaterra, famoso por sua dedicação à Sagrada Escritura e por sua obra "História Eclesiástica do Povo Inglês".'
+    },
+    {
+      id: 'sao-gregorio-vii',
+      name: 'São Gregório VII',
+      type: 'santo',
+      title: 'Papa',
+      birthDate: 'c. 1020',
+      deathDate: '25/05/1085',
+      feastDay: '25 de maio',
+      canonized: '1728',
+      image: '/saogregoriovII.jpeg',
+      description: 'São Gregório VII foi papa e reformador da Igreja, conhecido por defender a liberdade da Igreja frente ao poder civil e pela reforma gregoriana, que buscava purificar o clero.'
+    },
+    {
+      id: 'sao-canion',
+      name: 'São Canião',
+      type: 'santo',
+      title: 'Bispo e Mártir',
+      birthDate: 'Desconhecido',
+      deathDate: 'séc. III/IV',
+      feastDay: '25 de maio',
+      canonized: 'Pré-congregação',
+      image: '/noimage.png',
+      description: 'São Canião foi bispo e mártir em Atella, na Itália, conhecido pela firmeza na fé e pelo testemunho até o martírio.'
+    },
+    {
+      id: 'sao-dionisio',
+      name: 'São Dionísio',
+      type: 'santo',
+      title: 'Bispo e Mártir',
+      birthDate: 'Desconhecido',
+      deathDate: 'c. 361',
+      feastDay: '25 de maio',
+      canonized: 'Pré-congregação',
+      image: '/saodionisio.jpg',
+      description: 'São Dionísio foi bispo na Itália, exilado na Armênia por causa da fé, onde morreu como mártir pela defesa do Cristianismo.'
+    },
+    {
+      id: 'sao-zenobio',
+      name: 'São Zenóbio',
+      type: 'santo',
+      title: 'Bispo',
+      birthDate: 'Desconhecido',
+      deathDate: 'séc. IV/V',
+      feastDay: '25 de maio',
+      canonized: 'Pré-congregação',
+      image: '/saozenobio.jpg',
+      description: 'São Zenóbio foi bispo de Florença, na Itália, conhecido por sua caridade e pelo cuidado dos pobres e doentes.'
+    },
+    {
+      id: 'sao-leao',
+      name: 'São Leão',
+      type: 'santo',
+      title: 'Abade',
+      birthDate: 'Desconhecido',
+      deathDate: 'séc. VII',
+      feastDay: '25 de maio',
+      canonized: 'Pré-congregação',
+      image: '/noimage.png',
+      description: 'São Leão foi abade na França, conhecido por sua vida de oração, penitência e exemplo de santidade para sua comunidade monástica.'
+    },
+    {
+      id: 'santo-aldelmo',
+      name: 'Santo Aldelmo',
+      type: 'santo',
+      title: 'Bispo',
+      birthDate: 'c. 639',
+      deathDate: '25/05/709',
+      feastDay: '25 de maio',
+      canonized: 'Pré-congregação',
+      image: '/noimage.png',
+      description: 'Santo Aldelmo foi o primeiro bispo de Sherborne, na Inglaterra, conhecido por sua erudição, poesia e zelo pastoral.'
+    },
+    {
+      id: 'sao-genadio',
+      name: 'São Genádio',
+      type: 'santo',
+      title: 'Monge',
+      birthDate: 'Desconhecido',
+      deathDate: 'c. 925',
+      feastDay: '25 de maio',
+      canonized: 'Pré-congregação',
+      image: '/saogenadio.jpg',
+      description: 'São Genádio foi bispo e conselheiro real na Espanha. Renunciou ao episcopado para viver como monge em busca de maior união com Deus.'
+    },
+    {
+      id: 'beato-gerardo-mecatti',
+      name: 'Beato Gerardo Mecátti',
+      type: 'beato',
+      title: 'Leigo',
+      birthDate: 'Desconhecido',
+      deathDate: 'c. 1245',
+      feastDay: '25 de maio',
+      canonized: 'Culto confirmado',
+      image: '/noimage.png',
+      description: 'Beato Gerardo Mecátti viveu na Toscana e dedicou sua vida aos pobres, peregrinos e enfermos, depois de distribuir seus bens aos necessitados.'
+    },
+    {
+      id: 'sao-gerio',
+      name: 'São Gério',
+      type: 'santo',
+      title: 'Eremita',
+      birthDate: 'Desconhecido',
+      deathDate: 'c. 1270',
+      feastDay: '25 de maio',
+      canonized: 'Pré-congregação',
+      image: '/noimage.png',
+      description: 'São Gério foi conde de Lunel e, depois de abandonar suas posses, abraçou a vida eremítica, morrendo em peregrinação.'
+    },
+    {
+      id: 'beato-tiago-filipe-bertoni',
+      name: 'Beato Tiago Filipe Bertóni (André)',
+      type: 'beato',
+      title: 'Presbítero',
+      birthDate: 'Desconhecido',
+      deathDate: '25/05/1483',
+      feastDay: '25 de maio',
+      canonized: 'Culto confirmado',
+      image: '/noimage.png',
+      description: 'Beato Tiago Filipe Bertóni, chamado André, foi presbítero da Ordem dos Servos de Maria, conhecido por sua vida de oração e caridade.'
+    },
+    {
+      id: 'sao-pedro-doan-van-van',
+      name: 'São Pedro Doan Van Van',
+      type: 'santo',
+      title: 'Mártir',
+      birthDate: 'Desconhecido',
+      deathDate: '1857',
+      feastDay: '25 de maio',
+      canonized: '1988',
+      image: '/noimage.png',
+      description: 'São Pedro Doan Van Van foi catequista no Vietnã e sofreu o martírio por causa da sua fé cristã durante as perseguições religiosas.'
+    },
+    {
+      id: 'santa-madalena-sofia-barat',
+      name: 'Santa Madalena Sofia Barat',
+      type: 'santa',
+      title: 'Virgem',
+      birthDate: '12/12/1779',
+      deathDate: '25/05/1865',
+      feastDay: '25 de maio',
+      canonized: '1925',
+      image: '/santamariamadalenacarmelita.jpg',
+      description: 'Santa Madalena Sofia Barat foi fundadora da Sociedade do Sagrado Coração de Jesus, dedicada à educação de jovens, especialmente meninas.'
+    },
+    {
+      id: 'sao-dionisio-ssebuggwawo',
+      name: 'São Dionísio Ssebuggwawo',
+      type: 'santo',
+      title: 'Mártir',
+      birthDate: 'c. 1860',
+      deathDate: '1886',
+      feastDay: '25 de maio',
+      canonized: '1964',
+      image: '/noimage.png',
+      description: 'São Dionísio Ssebuggwawo foi um dos mártires de Uganda, degolado por ensinar a fé cristã a pajens da corte.'
+    },
+    {
+      id: 'santos-cristovao-magallanes-e-agostinho-caloca',
+      name: 'Santos Cristóvão Magallanes e Agostinho Caloca',
+      type: 'santos',
+      title: 'Presbíteros e Mártires',
+      birthDate: 'Cristóvão: 1869 | Agostinho: 1898',
+      deathDate: '1927',
+      feastDay: '25 de maio',
+      canonized: '2000',
+      image: '/noimage.png',
+      description: 'Santos Cristóvão Magallanes e Agostinho Caloca foram presbíteros mexicanos martirizados durante a perseguição anticatólica no México, confiando firmemente em Cristo Rei.'
+    },
+    {
+      id: 'beato-nicolau-cehelskyj',
+      name: 'Beato Nicolau Cehelskyj',
+      type: 'beato',
+      title: 'Presbítero e Mártir',
+      birthDate: 'Desconhecido',
+      deathDate: '1951',
+      feastDay: '25 de maio',
+      canonized: '2001',
+      image: '/noimage.png',
+      description: 'Beato Nicolau Cehelskyj foi presbítero da Igreja Greco-Católica Ucraniana, que morreu mártir nas prisões durante o regime comunista.'
+    }
+  
+  
+  
   
   ];
   

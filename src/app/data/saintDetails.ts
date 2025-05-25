@@ -929,7 +929,49 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Morte e Canonização',
     text: 'Faleceu no dia 23 de maio de 1764, em Roma. Foi beatificado em 1860 e canonizado em 1881 pelo Papa Leão XIII. Sua festa é celebrada no dia 23 de maio. É considerado padroeiro dos doentes e dos que sofrem de epilepsia.'
   }
+],
+'santa-julia': [
+  {
+    title: 'Infância e Origem',
+    text: 'Pouco se sabe sobre a infância de Santa Júlia. Ela nasceu no Norte da África e, durante uma invasão, foi capturada e vendida como escrava.'
+  },
+  {
+    title: 'Fé Inabalável',
+    text: 'Mesmo sendo escrava, Júlia nunca abandonou sua fé cristã. Dedicava-se ao trabalho com alegria e rezava constantemente, dando testemunho de sua fé.'
+  },
+  {
+    title: 'Martírio',
+    text: 'Durante uma viagem de seu senhor à Córsega, Júlia se recusou a participar de um sacrifício pagão. Por isso, foi torturada cruelmente e crucificada, entregando sua vida por amor a Cristo.'
+  },
+  {
+    title: 'Devoção e Legado',
+    text: 'Santa Júlia é venerada como padroeira da Córsega. Sua fidelidade e coragem são inspiração para os cristãos até hoje. Seu corpo está conservado em uma basílica na cidade de Brescia, na Itália.'
+  }
+],
+'santa-maria-madalena-de-pazzi': [
+  {
+    title: 'Infância e Vocação',
+    text: 'Nascida em Florença, na Itália, em 1566, Maria Madalena de Pazzi desde cedo demonstrou grande amor pela oração e pela Eucaristia. Aos 16 anos, entrou no convento carmelita de Santa Maria dos Anjos.'
+  },
+  {
+    title: 'Experiências Místicas',
+    text: 'Durante sua vida, recebeu graças extraordinárias, como êxtases, visões e locuções interiores. Essas experiências a uniam profundamente a Cristo, especialmente em sua paixão, e a motivavam a rezar intensamente pela renovação da Igreja.'
+  },
+  {
+    title: 'Vida no Carmelo',
+    text: 'Apesar das experiências místicas, viveu com humildade, simplicidade e obediência no convento. Praticava penitências rigorosas, servia as irmãs e se oferecia constantemente a Deus em espírito de amor e reparação.'
+  },
+  {
+    title: 'Morte e Legado',
+    text: 'Faleceu em 25 de maio de 1607. Foi beatificada em 1626 e canonizada em 1669. Santa Maria Madalena de Pazzi deixou escritos espirituais profundos e é modelo de amor ardente a Deus, de vida contemplativa e de intercessão pela Igreja.'
+  },
+  {
+    title: 'Frases e Legado Espiritual',
+    text: 'Santa Maria Madalena de Pazzi é conhecida por suas expressões místicas e seu ardente amor por Deus. Entre suas frases mais marcantes estão:\n\n- "Ó Amor, não és conhecido, não és amado!"\n- "Sofrer, não morrer."\n- "Ó amor, ó amor! Quem poderia não te amar? Somente aquele que nunca te conheceu."\n- "Ó almas, amai o Amor, pois o Amor não é amado."\n\nSeu legado é um apelo à vida de oração profunda, contemplação, sacrifício e amor total a Deus.'
+  }
 ]
+
+
 
 
 
