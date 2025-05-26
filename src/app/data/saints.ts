@@ -9,7 +9,7 @@ export const saints = [
     feastDay: '1 de outubro',
     canonized: '1925',
     beatified: '1923',
-    image: '/santateresinha.png', 
+    image: '/santateresinha.png',
     description:
       "Santa Teresinha do Menino Jesus, também conhecida como a Pequena Flor, foi uma carmelita francesa conhecida por sua 'pequena via' de confiança e abandono em Deus. Foi declarada Doutora da Igreja por São João Paulo II em 1997."
   },
@@ -65,10 +65,10 @@ export const saints = [
     feastDay: '11 de abril',
     canonized: '1940',
     beatified: '1933',
-    image: '/gemma2.png', 
+    image: '/gemma2.png',
     description:
       'Santa Gemma Galgani foi uma mística italiana do século XIX, conhecida por suas experiências espirituais profundas e pelos estigmas que recebeu. Viveu uma vida de intensa oração, penitência e união com Cristo Crucificado. Apesar de não ter conseguido entrar em um convento, ofereceu sua vida em sacrifício e intercessão pela conversão dos pecadores. É chamada de "Filha da Paixão" e considerada uma das maiores místicas modernas.'
-  },{
+  }, {
     id: 'sandra-sabattini',
     name: 'Beata Sandra Sabattini',
     type: 'Beata',
@@ -81,7 +81,7 @@ export const saints = [
     image: '/beatasandra.png',
     description:
       'Beata Sandra Sabattini foi uma jovem italiana que viveu uma fé profunda e um amor concreto pelos mais necessitados. Membro da Comunidade Papa João XXIII, dedicou-se ao serviço dos pobres, deficientes e dependentes químicos. Estudante de medicina, sonhava ser missionária na África. Faleceu tragicamente aos 22 anos em um acidente de carro. Foi beatificada em 2021, tornando-se a primeira noiva beatificada na história da Igreja.'
-  },{
+  }, {
     id: 'vitaliy-humeniuk',
     name: ' Vitaliy Humenyuk',
     type: 'santo',
@@ -94,7 +94,7 @@ export const saints = [
     image: '/sao_vladmir.png',
     description:
       'O Beato Vitaliy Humenyuk foi um monge da Igreja Greco-Católica Ucraniana e mártir da fé durante a repressão comunista na União Soviética. Fiel à sua vocação e comunhão com Roma, recusou-se a aderir à Igreja Ortodoxa controlada pelo Estado. Por sua firmeza, foi preso e morreu devido às torturas e privações. Foi beatificado pelo Papa João Paulo II em 2001 junto a outros mártires ucranianos, tornando-se símbolo da resistência e fidelidade da Igreja do Silêncio na Europa Oriental.'
-  },{
+  }, {
     id: 'tarcisio',
     name: 'São Tarcísio',
     type: 'santo',
@@ -267,7 +267,7 @@ export const saints = [
     image: '/vital.gif',
     description: 'Monge e mártir ucraniano, vítima da perseguição soviética, beatificado em 27 de junho de 2001.'
   }
-  ,{
+  , {
     id: 'sao-jorge',
     name: 'São Jorge',
     type: 'santo',
@@ -277,9 +277,9 @@ export const saints = [
     feastDay: '23 de abril',
     canonized: 'Pré-Congregação',
     beatified: 'Pré-Congregação',
-    image: '/saintjorge.jpeg', 
+    image: '/saintjorge.jpeg',
     description: 'São Jorge foi um soldado romano martirizado por sua fé cristã no século IV. É um dos santos mais venerados no mundo, especialmente no Oriente e entre os cristãos ortodoxos. Seu culto se difundiu também no Ocidente e ele é conhecido como um guerreiro da fé, símbolo de coragem diante da perseguição e defensor dos que sofrem.'
-  },{
+  }, {
     id: 'padre-pio',
     name: 'São Padre Pio de Pietrelcina',
     type: 'santo',
@@ -289,7 +289,7 @@ export const saints = [
     feastDay: '23 de setembro',
     canonized: '2002',
     beatified: '1999',
-    image: '/padrepio.png', 
+    image: '/padrepio.png',
     description: 'São Padre Pio de Pietrelcina foi um sacerdote capuchinho italiano, conhecido mundialmente por suas virtudes heroicas, dons místicos e pelos estigmas que carregou por 50 anos. Foi um incansável confessor, fundador de obras sociais e espirituais, e exemplo de vida profundamente eucarística e mariana.'
   }
   ,
@@ -303,10 +303,10 @@ export const saints = [
     feastDay: '6 de maio',
     canonized: '1954',
     beatified: '1950',
-    image: '/domingos-savio.jpg', 
+    image: '/domingos-savio.jpg',
     description: 'São Domingos Sávio foi um jovem italiano, aluno de Dom Bosco e modelo de santidade juvenil. Com apenas 15 anos de vida, destacou-se por sua pureza, caridade e espírito de oração. Viveu com intensidade a espiritualidade salesiana, oferecendo sua curta existência por amor a Deus e pela conversão dos pecadores. Foi canonizado por Pio XII como um dos mais jovens santos não-mártires da Igreja.'
   }
-  ,{
+  , {
     id: 'santo-antao-do-deserto',
     name: 'Santo Antão do Deserto',
     type: 'santo',
@@ -349,7 +349,7 @@ export const saints = [
     description:
       'Santa Joana d’Arc foi uma camponesa francesa que, guiada por visões e vozes de santos, liderou o exército francês durante a Guerra dos Cem Anos, contribuindo decisivamente para a coroação de Carlos VII. Foi capturada, julgada injustamente e queimada viva aos 19 anos. Séculos depois, foi reabilitada pela Igreja e canonizada como mártir e heroína da fé. É padroeira da França e símbolo de coragem e fidelidade à missão divina.'
   }
-  ,{
+  , {
     id: 'santa-teresa-davila',
     name: 'Santa Teresa d’Ávila',
     type: 'santa',
@@ -453,117 +453,117 @@ export const saints = [
     image: '/saocripimdevierbo.jpg',
     description: 'São Crispim de Viterbo foi um frade capuchinho conhecido por sua humildade, alegria e espírito de serviço. Atuava como porteiro e esmoleiro do convento, sempre levando consolo espiritual às famílias. Foi o primeiro santo canonizado por São João Paulo II.'
   }
-,{
-  id: 'bernardino-de-sena',
-  name: 'São Bernardino de Sena',
-  type: 'santo',
-  title: 'Pregador Franciscano',
-  birthDate: '08/09/1380',
-  deathDate: '20/05/1444',
-  feastDay: '20 de maio',
-  canonized: '1450',
-  beatified: '1450',
-  image: '/bernadinosena.jpeg',
-  description:
-    'São Bernardino de Sena foi um notável pregador franciscano italiano, conhecido por sua eloqüência, carisma e zelo missionário. Percorreu a Itália pregando sobre a conversão, a paz, a justiça e o Santíssimo Nome de Jesus, que promovia com um símbolo IHS. Rejeitou honrarias e cargos altos, dedicando-se ao povo simples. Sua pregação influenciou reformas sociais e espirituais. É padroeiro dos publicitários e pregadores.'
-},{
-  id: 'santa-rita-de-cassia',
-  name: 'Santa Rita de Cássia',
-  type: 'santa',
-  title: 'Religiosa Agostiniana',
-  birthDate: '1381',
-  deathDate: '22/05/1457',
-  feastDay: '22 de maio',
-  canonized: '1900',
-  beatified: '1627',
-  image: '/santaritadecassia.jpeg',
-  description: 'Santa Rita de Cássia é conhecida como a santa das causas impossíveis. Viveu como esposa, mãe, viúva e religiosa agostiniana, enfrentando inúmeras adversidades com fé, perdão e amor. É venerada mundialmente por sua intercessão poderosa nas situações mais difíceis.'
-}
-,{
-  id: 'santo-inacio-de-loyola',
-  name: 'Santo Inácio de Loyola',
-  type: 'santo',
-  title: 'Fundador da Companhia de Jesus (Jesuítas)',
-  birthDate: '24/10/1491',
-  deathDate: '31/07/1556',
-  feastDay: '31 de julho',
-  canonized: '1622',
-  beatified: '1609',
-  image: '/santoinaciodeloyola.jpg',
-  description: 'Santo Inácio de Loyola foi o fundador da Companhia de Jesus (Jesuítas) e um dos grandes mestres da espiritualidade cristã. Antigo militar, converteu-se após uma grave lesão de guerra e dedicou sua vida a Deus, desenvolvendo os Exercícios Espirituais, que são praticados no mundo inteiro até hoje.'
-}
-,{
-  id: 'santo-agostinho',
-  name: 'Santo Agostinho',
-  type: 'santo',
-  title: 'Bispo e Doutor da Igreja',
-  birthDate: '13/11/354',
-  deathDate: '28/08/430',
-  feastDay: '28 de agosto',
-  canonized: 'Pre-Congregação',
-  beatified: 'Pre-Congregação',
-  image: '/santoagostinho.jpg',
-  description: 'Santo Agostinho, Bispo de Hipona, é um dos maiores pensadores da história da Igreja. Sua vida é marcada por uma profunda conversão e pela elaboração de uma teologia que influenciou todo o Ocidente. É conhecido como Doutor da Graça.'
-}
-,
-{
-  id: 'sao-tomas-de-aquino',
-  name: 'São Tomás de Aquino',
-  type: 'santo',
-  title: 'Presbítero, Teólogo e Doutor da Igreja',
-  birthDate: '1225',
-  deathDate: '07/03/1274',
-  feastDay: '28 de janeiro',
-  canonized: '1323',
-  beatified: 'Pre-Congregação',
-  image: '/saintthomasaquino.jpg',
-  description: 'São Tomás de Aquino, conhecido como Doutor Angélico, é um dos maiores teólogos e filósofos da história da Igreja. Sua síntese entre fé e razão permanece até hoje como base da teologia católica.'
-}
-,
-{
-  id: 'sao-bento',
-  name: 'São Bento de Núrsia',
-  type: 'santo',
-  title: 'Pai do Monarquismo Ocidental',
-  birthDate: '480',
-  deathDate: '21/03/547',
-  feastDay: '11 de julho',
-  canonized: 'Pre-Congregação',
-  beatified: 'Pre-Congregação',
-  image: '/saobento.jpg',
-  description: 'São Bento de Núrsia é o fundador da Ordem dos Beneditinos e considerado o pai do monarquismo ocidental. Sua Regra para os monges influenciou profundamente a espiritualidade cristã e a organização dos mosteiros em todo o mundo.'
-}
-,
-{
-  id: 'santa-paulina',
-  name: 'Santa Paulina do Coração Agonizante de Jesus',
-  type: 'santa',
-  title: 'Fundadora das Irmãzinhas da Imaculada Conceição',
-  birthDate: '16/12/1865',
-  deathDate: '09/07/1942',
-  feastDay: '9 de julho',
-  canonized: '2002',
-  beatified: '1991',
-  image: '/santapaulina.jpg',
-  description: 'Santa Paulina, a primeira santa canonizada do Brasil, foi uma mulher de fé, coragem e caridade. Fundou a Congregação das Irmãzinhas da Imaculada Conceição e dedicou sua vida ao cuidado dos doentes, dos pobres e dos marginalizados.'
-},
+  , {
+    id: 'bernardino-de-sena',
+    name: 'São Bernardino de Sena',
+    type: 'santo',
+    title: 'Pregador Franciscano',
+    birthDate: '08/09/1380',
+    deathDate: '20/05/1444',
+    feastDay: '20 de maio',
+    canonized: '1450',
+    beatified: '1450',
+    image: '/bernadinosena.jpeg',
+    description:
+      'São Bernardino de Sena foi um notável pregador franciscano italiano, conhecido por sua eloqüência, carisma e zelo missionário. Percorreu a Itália pregando sobre a conversão, a paz, a justiça e o Santíssimo Nome de Jesus, que promovia com um símbolo IHS. Rejeitou honrarias e cargos altos, dedicando-se ao povo simples. Sua pregação influenciou reformas sociais e espirituais. É padroeiro dos publicitários e pregadores.'
+  }, {
+    id: 'santa-rita-de-cassia',
+    name: 'Santa Rita de Cássia',
+    type: 'santa',
+    title: 'Religiosa Agostiniana',
+    birthDate: '1381',
+    deathDate: '22/05/1457',
+    feastDay: '22 de maio',
+    canonized: '1900',
+    beatified: '1627',
+    image: '/santaritadecassia.jpeg',
+    description: 'Santa Rita de Cássia é conhecida como a santa das causas impossíveis. Viveu como esposa, mãe, viúva e religiosa agostiniana, enfrentando inúmeras adversidades com fé, perdão e amor. É venerada mundialmente por sua intercessão poderosa nas situações mais difíceis.'
+  }
+  , {
+    id: 'santo-inacio-de-loyola',
+    name: 'Santo Inácio de Loyola',
+    type: 'santo',
+    title: 'Fundador da Companhia de Jesus (Jesuítas)',
+    birthDate: '24/10/1491',
+    deathDate: '31/07/1556',
+    feastDay: '31 de julho',
+    canonized: '1622',
+    beatified: '1609',
+    image: '/santoinaciodeloyola.jpg',
+    description: 'Santo Inácio de Loyola foi o fundador da Companhia de Jesus (Jesuítas) e um dos grandes mestres da espiritualidade cristã. Antigo militar, converteu-se após uma grave lesão de guerra e dedicou sua vida a Deus, desenvolvendo os Exercícios Espirituais, que são praticados no mundo inteiro até hoje.'
+  }
+  , {
+    id: 'santo-agostinho',
+    name: 'Santo Agostinho',
+    type: 'santo',
+    title: 'Bispo e Doutor da Igreja',
+    birthDate: '13/11/354',
+    deathDate: '28/08/430',
+    feastDay: '28 de agosto',
+    canonized: 'Pre-Congregação',
+    beatified: 'Pre-Congregação',
+    image: '/santoagostinho.jpg',
+    description: 'Santo Agostinho, Bispo de Hipona, é um dos maiores pensadores da história da Igreja. Sua vida é marcada por uma profunda conversão e pela elaboração de uma teologia que influenciou todo o Ocidente. É conhecido como Doutor da Graça.'
+  }
+  ,
+  {
+    id: 'sao-tomas-de-aquino',
+    name: 'São Tomás de Aquino',
+    type: 'santo',
+    title: 'Presbítero, Teólogo e Doutor da Igreja',
+    birthDate: '1225',
+    deathDate: '07/03/1274',
+    feastDay: '28 de janeiro',
+    canonized: '1323',
+    beatified: 'Pre-Congregação',
+    image: '/saintthomasaquino.jpg',
+    description: 'São Tomás de Aquino, conhecido como Doutor Angélico, é um dos maiores teólogos e filósofos da história da Igreja. Sua síntese entre fé e razão permanece até hoje como base da teologia católica.'
+  }
+  ,
+  {
+    id: 'sao-bento',
+    name: 'São Bento de Núrsia',
+    type: 'santo',
+    title: 'Pai do Monarquismo Ocidental',
+    birthDate: '480',
+    deathDate: '21/03/547',
+    feastDay: '11 de julho',
+    canonized: 'Pre-Congregação',
+    beatified: 'Pre-Congregação',
+    image: '/saobento.jpg',
+    description: 'São Bento de Núrsia é o fundador da Ordem dos Beneditinos e considerado o pai do monarquismo ocidental. Sua Regra para os monges influenciou profundamente a espiritualidade cristã e a organização dos mosteiros em todo o mundo.'
+  }
+  ,
+  {
+    id: 'santa-paulina',
+    name: 'Santa Paulina do Coração Agonizante de Jesus',
+    type: 'santa',
+    title: 'Fundadora das Irmãzinhas da Imaculada Conceição',
+    birthDate: '16/12/1865',
+    deathDate: '09/07/1942',
+    feastDay: '9 de julho',
+    canonized: '2002',
+    beatified: '1991',
+    image: '/santapaulina.jpg',
+    description: 'Santa Paulina, a primeira santa canonizada do Brasil, foi uma mulher de fé, coragem e caridade. Fundou a Congregação das Irmãzinhas da Imaculada Conceição e dedicou sua vida ao cuidado dos doentes, dos pobres e dos marginalizados.'
+  },
 
-{
-  id: 'sao-maximiliano-kolbe',
-  name: 'São Maximiliano Kolbe',
-  type: 'santo',
-  title: 'Presbítero e Mártir',
-  birthDate: '08/01/1894',
-  deathDate: '14/08/1941',
-  feastDay: '14 de agosto',
-  canonized: '1982',
-  beatified: '1971',
-  image: '/maximilianokolbe.jpg',
-  description: 'São Maximiliano Kolbe foi um frade franciscano polonês, missionário e mártir da caridade. É conhecido por seu profundo amor à Imaculada Conceição e por ter se oferecido para morrer no lugar de um pai de família no campo de concentração de Auschwitz.'
-}
+  {
+    id: 'sao-maximiliano-kolbe',
+    name: 'São Maximiliano Kolbe',
+    type: 'santo',
+    title: 'Presbítero e Mártir',
+    birthDate: '08/01/1894',
+    deathDate: '14/08/1941',
+    feastDay: '14 de agosto',
+    canonized: '1982',
+    beatified: '1971',
+    image: '/maximilianokolbe.jpg',
+    description: 'São Maximiliano Kolbe foi um frade franciscano polonês, missionário e mártir da caridade. É conhecido por seu profundo amor à Imaculada Conceição e por ter se oferecido para morrer no lugar de um pai de família no campo de concentração de Auschwitz.'
+  }
 
   ,
-  
+
   {
     id: 'sao-joao-batista-de-rossi',
     name: 'São João Batista de Rossi',
@@ -577,7 +577,7 @@ export const saints = [
     image: '/joaobatistade.jpg',
     description: 'São João Batista de Rossi foi um sacerdote italiano, conhecido por seu incansável trabalho com os pobres, doentes e prisioneiros em Roma. Mesmo sofrendo de epilepsia, dedicou sua vida ao serviço dos mais necessitados, tornando-se exemplo de caridade, misericórdia e humildade.'
   }
-  ,{
+  , {
     id: 'santa-julia',
     name: 'Santa Júlia',
     type: 'santa',
@@ -602,208 +602,233 @@ export const saints = [
     image: '/noimage.png',
     description: 'Santa Maria Madalena de Pazzi foi uma carmelita italiana, mística e contemplativa, conhecida por suas experiências místicas profundas e seu grande amor por Jesus Cristo e pela Igreja. É um exemplo de vida de oração, penitência e caridade.'
   },
-    {
-      id: 'sao-beda-veneravel',
-      name: 'São Beda Venerável',
-      type: 'santo',
-      title: 'Presbítero e Doutor da Igreja',
-      birthDate: 'c. 672',
-      deathDate: '25/05/735',
-      feastDay: '25 de maio',
-      canonized: '1899',
-      image: '/saobeda.jpg',
-      description: 'São Beda Venerável foi um monge beneditino, teólogo e historiador da Inglaterra, famoso por sua dedicação à Sagrada Escritura e por sua obra "História Eclesiástica do Povo Inglês".'
-    },
-    {
-      id: 'sao-gregorio-vii',
-      name: 'São Gregório VII',
-      type: 'santo',
-      title: 'Papa',
-      birthDate: 'c. 1020',
-      deathDate: '25/05/1085',
-      feastDay: '25 de maio',
-      canonized: '1728',
-      image: '/saogregoriovII.jpeg',
-      description: 'São Gregório VII foi papa e reformador da Igreja, conhecido por defender a liberdade da Igreja frente ao poder civil e pela reforma gregoriana, que buscava purificar o clero.'
-    },
-    {
-      id: 'sao-canion',
-      name: 'São Canião',
-      type: 'santo',
-      title: 'Bispo e Mártir',
-      birthDate: 'Desconhecido',
-      deathDate: 'séc. III/IV',
-      feastDay: '25 de maio',
-      canonized: 'Pré-congregação',
-      image: '/noimage.png',
-      description: 'São Canião foi bispo e mártir em Atella, na Itália, conhecido pela firmeza na fé e pelo testemunho até o martírio.'
-    },
-    {
-      id: 'sao-dionisio',
-      name: 'São Dionísio',
-      type: 'santo',
-      title: 'Bispo e Mártir',
-      birthDate: 'Desconhecido',
-      deathDate: 'c. 361',
-      feastDay: '25 de maio',
-      canonized: 'Pré-congregação',
-      image: '/saodionisio.jpg',
-      description: 'São Dionísio foi bispo na Itália, exilado na Armênia por causa da fé, onde morreu como mártir pela defesa do Cristianismo.'
-    },
-    {
-      id: 'sao-zenobio',
-      name: 'São Zenóbio',
-      type: 'santo',
-      title: 'Bispo',
-      birthDate: 'Desconhecido',
-      deathDate: 'séc. IV/V',
-      feastDay: '25 de maio',
-      canonized: 'Pré-congregação',
-      image: '/saozenobio.jpg',
-      description: 'São Zenóbio foi bispo de Florença, na Itália, conhecido por sua caridade e pelo cuidado dos pobres e doentes.'
-    },
-    {
-      id: 'sao-leao',
-      name: 'São Leão',
-      type: 'santo',
-      title: 'Abade',
-      birthDate: 'Desconhecido',
-      deathDate: 'séc. VII',
-      feastDay: '25 de maio',
-      canonized: 'Pré-congregação',
-      image: '/noimage.png',
-      description: 'São Leão foi abade na França, conhecido por sua vida de oração, penitência e exemplo de santidade para sua comunidade monástica.'
-    },
-    {
-      id: 'santo-aldelmo',
-      name: 'Santo Aldelmo',
-      type: 'santo',
-      title: 'Bispo',
-      birthDate: 'c. 639',
-      deathDate: '25/05/709',
-      feastDay: '25 de maio',
-      canonized: 'Pré-congregação',
-      image: '/noimage.png',
-      description: 'Santo Aldelmo foi o primeiro bispo de Sherborne, na Inglaterra, conhecido por sua erudição, poesia e zelo pastoral.'
-    },
-    {
-      id: 'sao-genadio',
-      name: 'São Genádio',
-      type: 'santo',
-      title: 'Monge',
-      birthDate: 'Desconhecido',
-      deathDate: 'c. 925',
-      feastDay: '25 de maio',
-      canonized: 'Pré-congregação',
-      image: '/saogenadio.jpg',
-      description: 'São Genádio foi bispo e conselheiro real na Espanha. Renunciou ao episcopado para viver como monge em busca de maior união com Deus.'
-    },
-    {
-      id: 'beato-gerardo-mecatti',
-      name: 'Beato Gerardo Mecátti',
-      type: 'beato',
-      title: 'Leigo',
-      birthDate: 'Desconhecido',
-      deathDate: 'c. 1245',
-      feastDay: '25 de maio',
-      canonized: 'Culto confirmado',
-      image: '/noimage.png',
-      description: 'Beato Gerardo Mecátti viveu na Toscana e dedicou sua vida aos pobres, peregrinos e enfermos, depois de distribuir seus bens aos necessitados.'
-    },
-    {
-      id: 'sao-gerio',
-      name: 'São Gério',
-      type: 'santo',
-      title: 'Eremita',
-      birthDate: 'Desconhecido',
-      deathDate: 'c. 1270',
-      feastDay: '25 de maio',
-      canonized: 'Pré-congregação',
-      image: '/noimage.png',
-      description: 'São Gério foi conde de Lunel e, depois de abandonar suas posses, abraçou a vida eremítica, morrendo em peregrinação.'
-    },
-    {
-      id: 'beato-tiago-filipe-bertoni',
-      name: 'Beato Tiago Filipe Bertóni (André)',
-      type: 'beato',
-      title: 'Presbítero',
-      birthDate: 'Desconhecido',
-      deathDate: '25/05/1483',
-      feastDay: '25 de maio',
-      canonized: 'Culto confirmado',
-      image: '/noimage.png',
-      description: 'Beato Tiago Filipe Bertóni, chamado André, foi presbítero da Ordem dos Servos de Maria, conhecido por sua vida de oração e caridade.'
-    },
-    {
-      id: 'sao-pedro-doan-van-van',
-      name: 'São Pedro Doan Van Van',
-      type: 'santo',
-      title: 'Mártir',
-      birthDate: 'Desconhecido',
-      deathDate: '1857',
-      feastDay: '25 de maio',
-      canonized: '1988',
-      image: '/noimage.png',
-      description: 'São Pedro Doan Van Van foi catequista no Vietnã e sofreu o martírio por causa da sua fé cristã durante as perseguições religiosas.'
-    },
-    {
-      id: 'santa-madalena-sofia-barat',
-      name: 'Santa Madalena Sofia Barat',
-      type: 'santa',
-      title: 'Virgem',
-      birthDate: '12/12/1779',
-      deathDate: '25/05/1865',
-      feastDay: '25 de maio',
-      canonized: '1925',
-      image: '/santamariamadalenacarmelita.jpg',
-      description: 'Santa Madalena Sofia Barat foi fundadora da Sociedade do Sagrado Coração de Jesus, dedicada à educação de jovens, especialmente meninas.'
-    },
-    {
-      id: 'sao-dionisio-ssebuggwawo',
-      name: 'São Dionísio Ssebuggwawo',
-      type: 'santo',
-      title: 'Mártir',
-      birthDate: 'c. 1860',
-      deathDate: '1886',
-      feastDay: '25 de maio',
-      canonized: '1964',
-      image: '/noimage.png',
-      description: 'São Dionísio Ssebuggwawo foi um dos mártires de Uganda, degolado por ensinar a fé cristã a pajens da corte.'
-    },
-    {
-      id: 'santos-cristovao-magallanes-e-agostinho-caloca',
-      name: 'Santos Cristóvão Magallanes e Agostinho Caloca',
-      type: 'santos',
-      title: 'Presbíteros e Mártires',
-      birthDate: 'Cristóvão: 1869 | Agostinho: 1898',
-      deathDate: '1927',
-      feastDay: '25 de maio',
-      canonized: '2000',
-      image: '/noimage.png',
-      description: 'Santos Cristóvão Magallanes e Agostinho Caloca foram presbíteros mexicanos martirizados durante a perseguição anticatólica no México, confiando firmemente em Cristo Rei.'
-    },
-    {
-      id: 'beato-nicolau-cehelskyj',
-      name: 'Beato Nicolau Cehelskyj',
-      type: 'beato',
-      title: 'Presbítero e Mártir',
-      birthDate: 'Desconhecido',
-      deathDate: '1951',
-      feastDay: '25 de maio',
-      canonized: '2001',
-      image: '/noimage.png',
-      description: 'Beato Nicolau Cehelskyj foi presbítero da Igreja Greco-Católica Ucraniana, que morreu mártir nas prisões durante o regime comunista.'
-    }
-  
-  
-  
-  
-  ];
-  
-  
-  
-  
-  
-  
-  
-  
+  {
+    id: 'sao-beda-veneravel',
+    name: 'São Beda Venerável',
+    type: 'santo',
+    title: 'Presbítero e Doutor da Igreja',
+    birthDate: 'c. 672',
+    deathDate: '25/05/735',
+    feastDay: '25 de maio',
+    canonized: '1899',
+    image: '/saobeda.jpg',
+    description: 'São Beda Venerável foi um monge beneditino, teólogo e historiador da Inglaterra, famoso por sua dedicação à Sagrada Escritura e por sua obra "História Eclesiástica do Povo Inglês".'
+  },
+  {
+    id: 'sao-gregorio-vii',
+    name: 'São Gregório VII',
+    type: 'santo',
+    title: 'Papa',
+    birthDate: 'c. 1020',
+    deathDate: '25/05/1085',
+    feastDay: '25 de maio',
+    canonized: '1728',
+    image: '/saogregoriovII.jpeg',
+    description: 'São Gregório VII foi papa e reformador da Igreja, conhecido por defender a liberdade da Igreja frente ao poder civil e pela reforma gregoriana, que buscava purificar o clero.'
+  },
+  {
+    id: 'sao-canion',
+    name: 'São Canião',
+    type: 'santo',
+    title: 'Bispo e Mártir',
+    birthDate: 'Desconhecido',
+    deathDate: 'séc. III/IV',
+    feastDay: '25 de maio',
+    canonized: 'Pré-congregação',
+    image: '/noimage.png',
+    description: 'São Canião foi bispo e mártir em Atella, na Itália, conhecido pela firmeza na fé e pelo testemunho até o martírio.'
+  },
+  {
+    id: 'sao-dionisio',
+    name: 'São Dionísio',
+    type: 'santo',
+    title: 'Bispo e Mártir',
+    birthDate: 'Desconhecido',
+    deathDate: 'c. 361',
+    feastDay: '25 de maio',
+    canonized: 'Pré-congregação',
+    image: '/saodionisio.jpg',
+    description: 'São Dionísio foi bispo na Itália, exilado na Armênia por causa da fé, onde morreu como mártir pela defesa do Cristianismo.'
+  },
+  {
+    id: 'sao-zenobio',
+    name: 'São Zenóbio',
+    type: 'santo',
+    title: 'Bispo',
+    birthDate: 'Desconhecido',
+    deathDate: 'séc. IV/V',
+    feastDay: '25 de maio',
+    canonized: 'Pré-congregação',
+    image: '/saozenobio.jpg',
+    description: 'São Zenóbio foi bispo de Florença, na Itália, conhecido por sua caridade e pelo cuidado dos pobres e doentes.'
+  },
+  {
+    id: 'sao-leao',
+    name: 'São Leão',
+    type: 'santo',
+    title: 'Abade',
+    birthDate: 'Desconhecido',
+    deathDate: 'séc. VII',
+    feastDay: '25 de maio',
+    canonized: 'Pré-congregação',
+    image: '/noimage.png',
+    description: 'São Leão foi abade na França, conhecido por sua vida de oração, penitência e exemplo de santidade para sua comunidade monástica.'
+  },
+  {
+    id: 'santo-aldelmo',
+    name: 'Santo Aldelmo',
+    type: 'santo',
+    title: 'Bispo',
+    birthDate: 'c. 639',
+    deathDate: '25/05/709',
+    feastDay: '25 de maio',
+    canonized: 'Pré-congregação',
+    image: '/noimage.png',
+    description: 'Santo Aldelmo foi o primeiro bispo de Sherborne, na Inglaterra, conhecido por sua erudição, poesia e zelo pastoral.'
+  },
+  {
+    id: 'sao-genadio',
+    name: 'São Genádio',
+    type: 'santo',
+    title: 'Monge',
+    birthDate: 'Desconhecido',
+    deathDate: 'c. 925',
+    feastDay: '25 de maio',
+    canonized: 'Pré-congregação',
+    image: '/saogenadio.jpg',
+    description: 'São Genádio foi bispo e conselheiro real na Espanha. Renunciou ao episcopado para viver como monge em busca de maior união com Deus.'
+  },
+  {
+    id: 'beato-gerardo-mecatti',
+    name: 'Beato Gerardo Mecátti',
+    type: 'beato',
+    title: 'Leigo',
+    birthDate: 'Desconhecido',
+    deathDate: 'c. 1245',
+    feastDay: '25 de maio',
+    canonized: 'Culto confirmado',
+    image: '/noimage.png',
+    description: 'Beato Gerardo Mecátti viveu na Toscana e dedicou sua vida aos pobres, peregrinos e enfermos, depois de distribuir seus bens aos necessitados.'
+  },
+  {
+    id: 'sao-gerio',
+    name: 'São Gério',
+    type: 'santo',
+    title: 'Eremita',
+    birthDate: 'Desconhecido',
+    deathDate: 'c. 1270',
+    feastDay: '25 de maio',
+    canonized: 'Pré-congregação',
+    image: '/noimage.png',
+    description: 'São Gério foi conde de Lunel e, depois de abandonar suas posses, abraçou a vida eremítica, morrendo em peregrinação.'
+  },
+  {
+    id: 'beato-tiago-filipe-bertoni',
+    name: 'Beato Tiago Filipe Bertóni (André)',
+    type: 'beato',
+    title: 'Presbítero',
+    birthDate: 'Desconhecido',
+    deathDate: '25/05/1483',
+    feastDay: '25 de maio',
+    canonized: 'Culto confirmado',
+    image: '/noimage.png',
+    description: 'Beato Tiago Filipe Bertóni, chamado André, foi presbítero da Ordem dos Servos de Maria, conhecido por sua vida de oração e caridade.'
+  },
+  {
+    id: 'sao-pedro-doan-van-van',
+    name: 'São Pedro Doan Van Van',
+    type: 'santo',
+    title: 'Mártir',
+    birthDate: 'Desconhecido',
+    deathDate: '1857',
+    feastDay: '25 de maio',
+    canonized: '1988',
+    image: '/noimage.png',
+    description: 'São Pedro Doan Van Van foi catequista no Vietnã e sofreu o martírio por causa da sua fé cristã durante as perseguições religiosas.'
+  },
+  {
+    id: 'santa-madalena-sofia-barat',
+    name: 'Santa Madalena Sofia Barat',
+    type: 'santa',
+    title: 'Virgem',
+    birthDate: '12/12/1779',
+    deathDate: '25/05/1865',
+    feastDay: '25 de maio',
+    canonized: '1925',
+    image: '/santamariamadalenacarmelita.jpg',
+    description: 'Santa Madalena Sofia Barat foi fundadora da Sociedade do Sagrado Coração de Jesus, dedicada à educação de jovens, especialmente meninas.'
+  },
+  {
+    id: 'sao-dionisio-ssebuggwawo',
+    name: 'São Dionísio Ssebuggwawo',
+    type: 'santo',
+    title: 'Mártir',
+    birthDate: 'c. 1860',
+    deathDate: '1886',
+    feastDay: '25 de maio',
+    canonized: '1964',
+    image: '/noimage.png',
+    description: 'São Dionísio Ssebuggwawo foi um dos mártires de Uganda, degolado por ensinar a fé cristã a pajens da corte.'
+  },
+  {
+    id: 'santos-cristovao-magallanes-e-agostinho-caloca',
+    name: 'Santos Cristóvão Magallanes e Agostinho Caloca',
+    type: 'santos',
+    title: 'Presbíteros e Mártires',
+    birthDate: 'Cristóvão: 1869 | Agostinho: 1898',
+    deathDate: '1927',
+    feastDay: '25 de maio',
+    canonized: '2000',
+    image: '/noimage.png',
+    description: 'Santos Cristóvão Magallanes e Agostinho Caloca foram presbíteros mexicanos martirizados durante a perseguição anticatólica no México, confiando firmemente em Cristo Rei.'
+  },
+  {
+    id: 'beato-nicolau-cehelskyj',
+    name: 'Beato Nicolau Cehelskyj',
+    type: 'beato',
+    title: 'Presbítero e Mártir',
+    birthDate: 'Desconhecido',
+    deathDate: '1951',
+    feastDay: '25 de maio',
+    canonized: '2001',
+    image: '/noimage.png',
+    description: 'Beato Nicolau Cehelskyj foi presbítero da Igreja Greco-Católica Ucraniana, que morreu mártir nas prisões durante o regime comunista.'
+  }
+
+  , {
+    id: 'sao-filipe-neri',
+    name: 'São Filipe Néri',
+    type: 'santo',
+    title: 'Presbítero',
+    birthDate: '21/07/1515',
+    deathDate: '26/05/1595',
+    feastDay: '26 de maio',
+    canonized: '1622',
+    image: '/saofilipineri.jpeg',
+    description: 'São Filipe Néri, conhecido como o "Santo da Alegria", foi um sacerdote italiano, fundador da Congregação do Oratório. Viveu em Roma, dedicando sua vida à formação espiritual dos jovens, ao serviço dos pobres e à evangelização marcada pela alegria e humor cristão.'
+  }
+  ,
+  {
+    id: 'sao-eleuterio',
+    name: 'São Eleutério',
+    type: 'santo',
+    title: 'Papa',
+    birthDate: 'Data desconhecida',
+    deathDate: 'c. 189',
+    feastDay: '26 de maio',
+    canonized: 'Pré-congregação',
+    image: '/saoeleoterio.webp',
+    description: 'São Eleutério foi o 13º Papa da Igreja Católica, servindo de cerca de 174 até 189. Durante seu pontificado, fortaleceu a unidade da Igreja e enfrentou desafios como heresias e perseguições. É lembrado pela defesa da fé e pela caridade pastoral.'
+  }
+
+
+
+];
+
+
+
+
+
+
+
+

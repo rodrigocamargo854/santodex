@@ -970,6 +970,46 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: 'Santa Maria Madalena de Pazzi é conhecida por suas expressões místicas e seu ardente amor por Deus. Entre suas frases mais marcantes estão:\n\n- "Ó Amor, não és conhecido, não és amado!"\n- "Sofrer, não morrer."\n- "Ó amor, ó amor! Quem poderia não te amar? Somente aquele que nunca te conheceu."\n- "Ó almas, amai o Amor, pois o Amor não é amado."\n\nSeu legado é um apelo à vida de oração profunda, contemplação, sacrifício e amor total a Deus.'
   }
 ]
+,'sao-filipe-neri': [
+  {
+    title: 'Infância e Vocação',
+    text: 'Nascido em Florença, Itália, em 1515, São Filipe Néri foi desde jovem marcado por uma vida de simplicidade e profunda espiritualidade. Mudou-se para Roma com o objetivo de buscar uma vida dedicada a Deus.'
+  },
+  {
+    title: 'Missão em Roma',
+    text: 'Em Roma, Filipe se dedicou à evangelização dos jovens, dos pobres e dos doentes. Fundou a Congregação do Oratório, que promovia encontros de oração, estudo, canto e obras de caridade.'
+  },
+  {
+    title: 'O Santo da Alegria',
+    text: 'Filipe era conhecido por seu grande senso de humor e alegria. Ensinava que a santidade deveria ser vivida de forma leve e alegre, evitando a tristeza e o desânimo espiritual.'
+  },
+  {
+    title: 'Morte e Canonização',
+    text: 'São Filipe Néri faleceu em Roma no dia 26 de maio de 1595. Foi canonizado em 1622 pelo Papa Gregório XV. É conhecido como o "Apóstolo de Roma" e padroeiro dos educadores e dos humoristas cristãos.'
+  },
+  {
+    title: 'Frases e Legado Espiritual',
+    text: 'Entre suas frases mais conhecidas estão:\n\n- "Longe de mim o pecado e a tristeza."\n- "Contanto que não façam pecados, de boa vontade suportarei que rachem lenha em cima das minhas costas."\n- "Sede humildes e obedecei sempre, e jamais tereis remorsos."\n\nSeu legado é um convite à alegria cristã, à caridade e à busca da santidade no cotidiano.'
+  }
+],'sao-eleuterio': [
+  {
+    title: 'Vida e Pontificado',
+    text: 'Natural da Grécia, São Eleutério foi eleito Papa em um tempo de desafios, especialmente pela expansão de heresias e pelas perseguições aos cristãos. Liderou a Igreja entre os anos de 174 a 189.'
+  },
+  {
+    title: 'Defensor da Fé',
+    text: 'Durante seu pontificado, combateu seitas heréticas que ameaçavam a unidade da fé. Trabalhou para manter a doutrina e fortalecer os cristãos dispersos pelo Império Romano.'
+  },
+  {
+    title: 'Contribuições',
+    text: 'Foi durante seu pontificado que surgiram os primeiros registros do envio de missionários para a Grã-Bretanha, segundo algumas tradições. Também concedeu orientações sobre práticas alimentares, defendendo que os cristãos não estavam obrigados a seguir as leis alimentares judaicas.'
+  },
+  {
+    title: 'Morte e Legado',
+    text: 'São Eleutério faleceu por volta do ano 189, sendo venerado como mártir, embora não haja relatos detalhados sobre sua morte. Seu legado está na defesa da ortodoxia da fé e no cuidado com a Igreja em tempos difíceis.'
+  }
+]
+
 
 
 

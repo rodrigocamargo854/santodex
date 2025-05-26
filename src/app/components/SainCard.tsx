@@ -11,7 +11,7 @@ type Saint = {
   deathDate: string
   feastDay: string
   canonized: string
-  beatified: string
+  beatified?: string
   image: string
   description: string
 }
