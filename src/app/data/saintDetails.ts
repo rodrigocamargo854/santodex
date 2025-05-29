@@ -1009,6 +1009,29 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: 'São Eleutério faleceu por volta do ano 189, sendo venerado como mártir, embora não haja relatos detalhados sobre sua morte. Seu legado está na defesa da ortodoxia da fé e no cuidado com a Igreja em tempos difíceis.'
   }
 ]
+,
+'santa-ursula-ledochowska': [
+  {
+    title: 'Infância e Vocação',
+    text: 'Nascida em 17 de abril de 1865, na Áustria, Júlia Ledochowska cresceu em uma família nobre e católica. Desde jovem demonstrou profunda espiritualidade e desejo de servir a Deus, ingressando na vida religiosa na Congregação das Ursulinas e adotando o nome Úrsula.'
+  },
+  {
+    title: 'Missão e Fundadora',
+    text: 'Atuou como educadora e missionária em diversos países da Europa, incluindo Rússia, Suécia e Finlândia. Dedicou-se à formação cristã da juventude e ao cuidado dos mais pobres. Em 1920, fundou a Congregação das Ursulinas do Sagrado Coração Agonizante de Jesus.'
+  },
+  {
+    title: 'Vida de Serviço',
+    text: 'Com coragem e criatividade, enfrentou perseguições políticas e religiosas, mantendo seu trabalho evangelizador mesmo em tempos difíceis. Tornou-se referência de liderança feminina na Igreja e no serviço social cristão.'
+  },
+  {
+    title: 'Morte e Canonização',
+    text: 'Faleceu em Roma, no dia 29 de maio de 1939. Foi beatificada em 1983 e canonizada em 2003 por São João Paulo II, sendo celebrada como exemplo de fé ativa, coragem missionária e amor aos pobres.'
+  },
+  {
+    title: 'Frases e Legado Espiritual',
+    text: 'Entre seus ensinamentos mais lembrados está:\n\n- "A alegria é o sinal de um coração que ama a Deus."\n\nSeu legado permanece vivo na atuação de sua congregação e no testemunho de uma vida entregue à missão evangelizadora.'
+  }
+]
 
 
 

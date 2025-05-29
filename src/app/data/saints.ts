@@ -809,18 +809,30 @@ export const saints = [
   }
   ,
   {
-    id: 'sao-eleuterio',
-    name: 'São Eleutério',
-    type: 'santo',
-    title: 'Papa',
-    birthDate: 'Data desconhecida',
-    deathDate: 'c. 189',
-    feastDay: '26 de maio',
-    canonized: 'Pré-congregação',
-    image: '/saoeleoterio.webp',
-    description: 'São Eleutério foi o 13º Papa da Igreja Católica, servindo de cerca de 174 até 189. Durante seu pontificado, fortaleceu a unidade da Igreja e enfrentou desafios como heresias e perseguições. É lembrado pela defesa da fé e pela caridade pastoral.'
+    id: 'santa-ursula-ledochowska',
+    name: 'Santa Úrsula Ledochowska',
+    type: 'santa',
+    title: 'Fundadora',
+    birthDate: '17 de abril de 1865',
+    deathDate: '29 de maio de 1939',
+    feastDay: '29 de maio',
+    canonized: '2003 por São João Paulo II',
+    image: '/santaursula.jpg',
+    description: 'Santa Úrsula Ledochowska foi uma religiosa austríaca e fundadora da Congregação das Ursulinas do Sagrado Coração Agonizante. Atuou como educadora e missionária em diversos países europeus, promovendo a fé, a caridade e a educação cristã. É lembrada por sua coragem e dedicação aos pobres e à juventude.'
   }
-
+,
+{
+  id: 'sao-eleuterio',
+  name: 'São Eleutério',
+  type: 'santo',
+  title: 'Papa',
+  birthDate: 'Data desconhecida',
+  deathDate: 'c. 189',
+  feastDay: '26 de maio',
+  canonized: 'Pré-congregação',
+  image: '/eleoterio.jpeg',
+  description: 'São Eleutério foi o 13º Papa da Igreja Católica, servindo de cerca de 174 até 189. Durante seu pontificado, fortaleceu a unidade da Igreja e enfrentou desafios como heresias e perseguições. É lembrado pela defesa da fé e pela caridade pastoral.'
+}
 
 
 ];
