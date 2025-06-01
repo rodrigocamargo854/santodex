@@ -1032,6 +1032,177 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: 'Entre seus ensinamentos mais lembrados está:\n\n- "A alegria é o sinal de um coração que ama a Deus."\n\nSeu legado permanece vivo na atuação de sua congregação e no testemunho de uma vida entregue à missão evangelizadora.'
   }
 ]
+,
+'visitacao-de-nossa-senhora': [
+  {
+    title: 'Contexto Bíblico',
+    text: 'A festa da Visitação recorda o episódio do Evangelho de Lucas em que Maria visita sua prima Isabel, que também está grávida. Ao saudá-la, Isabel reconhece a presença do Salvador no ventre de Maria, e ela entoa o cântico do Magnificat.'
+  },
+  {
+    title: 'Significado Espiritual',
+    text: 'A Visitação expressa a caridade de Maria, que mesmo grávida, se dispõe a ajudar Isabel. Também celebra a presença do Espírito Santo que age no encontro das duas mulheres. É uma festa mariana de profunda alegria e esperança.'
+  },
+  {
+    title: 'Celebração Litúrgica',
+    text: 'A Visitação é celebrada no dia 31 de maio e encerra o mês mariano. Foi introduzida no calendário litúrgico no século XIII por São Boaventura e confirmada pelo Papa Urbano VI.'
+  }
+],
+'sao-felix-de-nicosia': [
+  {
+    title: 'Vida e Vocação',
+    text: 'Nascido na Sicília em 1715, Félix ingressou jovem na Ordem dos Capuchinhos como irmão leigo. Era analfabeto, mas muito piedoso e desejava apenas servir humildemente a Deus e aos irmãos.'
+  },
+  {
+    title: 'Serviço no Convento',
+    text: 'Foi porteiro, sapateiro e enfermeiro no convento de Nicósia. Suportou humilhações com paciência e era conhecido por sua alegria e simplicidade. Muitos recorriam a ele pedindo conselhos e orações.'
+  },
+  {
+    title: 'Fé e Milagres',
+    text: 'Era visto como santo ainda em vida, e após sua morte começaram a ser relatados diversos milagres. Viveu com profunda união com Cristo crucificado, oferecendo tudo por amor.'
+  },
+  {
+    title: 'Canonização',
+    text: 'Félix faleceu em 1787 e foi canonizado por Bento XVI em 2005. É exemplo de humildade, obediência e caridade silenciosa.'
+  }
+]
+,'santa-cecilia': [
+  {
+    title: 'Contexto Histórico',
+    text: 'Santa Cecília viveu provavelmente entre os séculos II e III, durante o período das perseguições romanas aos cristãos. Ela pertencia a uma família nobre de Roma e, mesmo prometida em casamento, consagrou secretamente sua virgindade a Cristo.'
+  },
+  {
+    title: 'Casamento e Conversão de Valeriano',
+    text: 'Durante o casamento com Valeriano, Cecília revelou que havia consagrado sua virgindade a Deus e que um anjo a protegia. Impressionado, Valeriano se converteu ao cristianismo e foi batizado junto com seu irmão Tibúrcio. Ambos foram depois martirizados por sua fé.'
+  },
+  {
+    title: 'Martírio de Cecília',
+    text: 'Cecília foi denunciada e condenada à morte. Tentaram matá-la por asfixia em seu próprio banho, sem sucesso. Então, foi decapitada, mas sobreviveu por três dias, durante os quais continuou louvando a Deus. Morreu por volta do ano 230.'
+  },
+  {
+    title: 'Corpo Incorrupto e Basílica',
+    text: 'Em 1599, seu túmulo foi aberto e o corpo de Santa Cecília foi encontrado incorrupto, em posição de repouso e com os dedos indicando sua fé na Trindade. Hoje, ela é venerada na Basílica de Santa Cecília em Trastevere, Roma.'
+  },
+  {
+    title: 'Curiosidades',
+    text: '- Ela foi proclamada padroeira da música sacra por cantar a Deus em seu coração mesmo diante da morte.\n- Sua imagem frequentemente traz instrumentos musicais, como harpa ou órgão.\n- Sua festa litúrgica é celebrada em 22 de novembro e é especialmente marcada por concertos e missas musicais em sua homenagem.'
+  }
+]
+,
+'santa-hildegarda-de-bingen': [
+  {
+    title: 'Infância e Vocação',
+    text: 'Hildegarda nasceu por volta de 1098 em Bermersheim vor der Höhe, Alemanha, em uma família nobre. Desde cedo, teve visões místicas. Aos oito anos, foi confiada aos cuidados de Jutta von Sponheim, uma anacoreta ligada ao mosteiro de Disibodenberg. Aos 15 anos, tornou-se monja beneditina e, em 1136, sucedeu Jutta como superiora da comunidade.'
+  },
+  {
+    title: 'Visões e Escritos Teológicos',
+    text: 'Aos 42 anos, Hildegarda recebeu uma ordem divina para registrar suas visões, resultando na obra "Scivias" ("Conheça os Caminhos do Senhor"), composta por 26 visões sobre a criação, salvação e o fim dos tempos. Posteriormente, escreveu "Liber Vitae Meritorum" e "Liber Divinorum Operum", explorando temas éticos e cosmológicos.'
+  },
+  {
+    title: 'Contribuições Científicas e Médicas',
+    text: 'Além de suas obras teológicas, Hildegarda escreveu tratados sobre medicina e ciências naturais, como "Physica" e "Causae et Curae", abordando propriedades medicinais de plantas, minerais e animais, bem como práticas de cura baseadas no equilíbrio dos humores.'
+  },
+  {
+    title: 'Música e Arte',
+    text: 'Hildegarda compôs mais de 70 peças musicais litúrgicas, reunidas em "Symphonia Armoniae Celestium Revelationum". Sua obra "Ordo Virtutum" é considerada o primeiro drama litúrgico moral conhecido, combinando música e teatro para representar a luta entre virtudes e vícios.'
+  },
+  {
+    title: 'Curiosidades',
+    text: '- Hildegarda criou uma língua artificial chamada "Lingua Ignota", possivelmente para uso litúrgico ou místico.\n- Foi apelidada de "Sibila do Reno" por suas visões proféticas.\n- Correspondia com papas, imperadores e outras figuras influentes de sua época.\n- Em 2012, foi canonizada e proclamada Doutora da Igreja pelo Papa Bento XVI, sendo uma das poucas mulheres a receber esse título.'
+  }
+]
+,
+'sao-marcos-ji-tianxiang': [
+  {
+    title: 'Infância e Vida Profissional',
+    text: 'Nascido em 1834 na província de Hebei, China, Marcos Ji Tianxiang foi criado em uma família católica e tornou-se médico. Era conhecido por tratar pacientes pobres gratuitamente e por sua profunda devoção religiosa.'
+  },
+  {
+    title: 'Luta Contra o Vício',
+    text: 'Aos 40 anos, após contrair uma doença estomacal, começou a usar ópio como tratamento, o que era comum na época. Infelizmente, desenvolveu dependência. Apesar de inúmeras tentativas de se livrar do vício, não obteve sucesso e, por isso, foi impedido de receber os sacramentos por 30 anos.'
+  },
+  {
+    title: 'Fidelidade Inabalável',
+    text: 'Mesmo excluído dos sacramentos, Marcos continuou frequentando a missa e rezando diariamente. Acreditava que, se não pudesse alcançar a salvação pela abstinência, talvez o martírio fosse seu caminho para Deus.'
+  },
+  {
+    title: 'Martírio Durante a Rebelião dos Boxers',
+    text: 'Em 1900, durante a Rebelião dos Boxers, Marcos foi preso junto com sua família por se recusar a renunciar à fé cristã. Pediu para ser executado por último, para poder encorajar seus entes queridos a permanecerem firmes na fé. Foi decapitado enquanto rezava a Ladainha de Nossa Senhora.'
+  },
+  {
+    title: 'Canonização e Legado',
+    text: 'Beatificado em 1946 e canonizado em 2000 por São João Paulo II, São Marcos Ji Tianxiang é considerado patrono dos dependentes químicos. Sua história é um testemunho poderoso de perseverança na fé, mesmo diante de lutas pessoais intensas.'
+  }
+],
+'sao-josemaria-escriva': [
+  {
+    title: 'Infância e Vocação',
+    text: 'Nascido em Barbastro, Espanha, em 1902, Josemaria Escrivá cresceu em uma família profundamente cristã. Aos 16 anos, após perceber pegadas descalças na neve de um religioso, sentiu o chamado ao sacerdócio e iniciou sua formação em Logroño e Saragoça.'
+  },
+  {
+    title: 'Fundação do Opus Dei',
+    text: 'Em 2 de outubro de 1928, durante um retiro espiritual, fundou o Opus Dei, com a missão de promover a santidade no trabalho e na vida cotidiana. A organização busca ajudar pessoas de todas as classes sociais a viverem plenamente a fé cristã em suas atividades diárias.'
+  },
+  {
+    title: 'Perseguição e Perseverança',
+    text: 'Durante a Guerra Civil Espanhola (1936-1939), enfrentou perseguições religiosas, vivendo escondido e exercendo seu ministério em segredo. Sua fé inabalável e dedicação ao chamado de Deus o mantiveram firme mesmo diante das adversidades.'
+  },
+  {
+    title: 'Obras e Legado',
+    text: 'Escrivá escreveu diversas obras espirituais, sendo "Caminho" a mais conhecida, com mais de 4,5 milhões de cópias vendidas em 43 idiomas. Seus escritos enfatizam a importância da oração, do trabalho bem feito e da busca pela santidade no cotidiano.'
+  },
+  {
+    title: 'Canonização e Reconhecimento',
+    text: 'Faleceu em Roma em 26 de junho de 1975. Foi canonizado por São João Paulo II em 6 de outubro de 2002, que o chamou de "o santo do cotidiano". Sua festa litúrgica é celebrada em 26 de junho.'
+  }
+]
+,
+'santa-agata': [
+  {
+    title: 'Infância e Consagração',
+    text: 'Nascida por volta de 235 d.C. em Catânia ou Palermo, na Sicília, Ágata pertencia a uma família nobre e cristã. Desde jovem, consagrou sua virgindade a Deus, recebendo o "flammeum", um véu vermelho usado por virgens consagradas na época.'
+  },
+  {
+    title: 'Perseguição e Martírio',
+    text: 'Durante as perseguições do imperador Décio, o procônsul Quinciano tentou forçar Ágata a renunciar à sua fé e à sua consagração. Diante de sua recusa, ela foi submetida a diversas torturas, incluindo a mutilação de seus seios. Mesmo assim, permaneceu firme em sua fé.'
+  },
+  {
+    title: 'Milagre e Morte',
+    text: 'Após as torturas, Ágata foi levada de volta à prisão, onde teve uma visão de São Pedro que curou suas feridas. No entanto, Quinciano ordenou novas torturas, e Ágata foi colocada sobre brasas ardentes. Um terremoto interrompeu a execução, mas ela faleceu pouco depois, em 5 de fevereiro de 251, após orar e entregar sua alma a Deus.'
+  },
+  {
+    title: 'Culto e Devoção',
+    text: 'Santa Ágata é venerada como padroeira de Catânia e é invocada contra incêndios, erupções vulcânicas e doenças mamárias. Um ano após sua morte, uma erupção do Monte Etna ameaçou Catânia, e os habitantes, levando o véu da santa em procissão, conseguiram deter a lava. Desde então, ela é considerada protetora da cidade.'
+  },
+  {
+    title: 'Curiosidades e Tradições',
+    text: 'Na Itália, especialmente em Catânia, são confeccionados doces chamados "Minne di Sant’Agata" (Seios de Santa Ágata), em formato de seios, em memória de seu martírio. Esses doces são feitos de massa doce, recheados com ricota e cobertos com glacê branco e uma cereja no topo. Em várias regiões da Espanha, como no País Basco e em Zamarramala, celebram-se festas em sua honra, onde as mulheres assumem papéis de liderança, simbolizando a força e a resistência de Ágata.'
+  }
+]
+,'santa-monica': [
+  {
+    title: 'Infância e Casamento',
+    text: 'Nascida em 331, em Tagaste (atual Argélia), Santa Mônica foi criada em uma família cristã. Casou-se jovem com Patrício, um homem pagão de temperamento difícil. Com paciência e oração, Mônica influenciou na conversão de seu marido ao cristianismo.'
+  },
+  {
+    title: 'Maternidade e Desafios',
+    text: 'Mãe de três filhos, incluindo Santo Agostinho, Mônica enfrentou desafios ao ver seu filho se afastar da fé. Durante anos, ela orou fervorosamente por sua conversão, demonstrando uma fé inabalável e amor materno profundo.'
+  },
+  {
+    title: 'Conversão de Agostinho',
+    text: 'Após 17 anos de orações e lágrimas, Mônica viu seu filho Agostinho se converter ao cristianismo, tornando-se posteriormente um dos maiores Doutores da Igreja. Sua perseverança é um exemplo de fé e esperança.'
+  },
+  {
+    title: 'Morte e Legado',
+    text: 'Santa Mônica faleceu em 387, em Óstia, Itália, pouco depois da conversão de Agostinho. Seu legado perdura como símbolo de amor materno, paciência e fé. É venerada como padroeira das mães cristãs e daqueles que enfrentam dificuldades familiares.'
+  },
+  {
+    title: 'Curiosidades',
+    text: '- Santa Mônica é padroeira das mães cristãs, esposas e daqueles que enfrentam desafios familiares.\n- Sua festa é celebrada em 27 de agosto.\n- É frequentemente invocada por aqueles que oram pela conversão de entes queridos.'
+  }
+]
+,
+
+
 
 
 

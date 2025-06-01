@@ -593,7 +593,7 @@ export const saints = [
     id: 'santa-maria-madalena-de-pazzi',
     name: 'Santa Maria Madalena de Pazzi',
     type: 'santa',
-    title: 'Virgem e Carmelita',
+    title: 'Carmelita',
     birthDate: '02/04/1566',
     deathDate: '25/05/1607',
     feastDay: '25 de maio',
@@ -647,7 +647,7 @@ export const saints = [
     deathDate: 'c. 361',
     feastDay: '25 de maio',
     canonized: 'Pré-congregação',
-    image: '/saodionisio.jpg',
+    image: '/noimage.png',
     description: 'São Dionísio foi bispo na Itália, exilado na Armênia por causa da fé, onde morreu como mártir pela defesa do Cristianismo.'
   },
   {
@@ -659,7 +659,7 @@ export const saints = [
     deathDate: 'séc. IV/V',
     feastDay: '25 de maio',
     canonized: 'Pré-congregação',
-    image: '/saozenobio.jpg',
+    image: '/noimage.png',
     description: 'São Zenóbio foi bispo de Florença, na Itália, conhecido por sua caridade e pelo cuidado dos pobres e doentes.'
   },
   {
@@ -695,7 +695,7 @@ export const saints = [
     deathDate: 'c. 925',
     feastDay: '25 de maio',
     canonized: 'Pré-congregação',
-    image: '/saogenadio.jpg',
+    image: '/genadio.jpg',
     description: 'São Genádio foi bispo e conselheiro real na Espanha. Renunciou ao episcopado para viver como monge em busca de maior união com Deus.'
   },
   {
@@ -750,7 +750,7 @@ export const saints = [
     id: 'santa-madalena-sofia-barat',
     name: 'Santa Madalena Sofia Barat',
     type: 'santa',
-    title: 'Virgem',
+    title: 'Santa', 
     birthDate: '12/12/1779',
     deathDate: '25/05/1865',
     feastDay: '25 de maio',
@@ -832,7 +832,108 @@ export const saints = [
   canonized: 'Pré-congregação',
   image: '/eleoterio.jpeg',
   description: 'São Eleutério foi o 13º Papa da Igreja Católica, servindo de cerca de 174 até 189. Durante seu pontificado, fortaleceu a unidade da Igreja e enfrentou desafios como heresias e perseguições. É lembrado pela defesa da fé e pela caridade pastoral.'
+},
+{
+  id: 'visitacao-de-nossa-senhora',
+  name: 'Visitação de Nossa Senhora',
+  type: 'festa',
+  title: 'Festa Mariana',
+  birthDate: '',
+  deathDate: '',
+  feastDay: '31 de maio',
+  canonized: 'Celebrada desde o século XIII',
+  image: '/visitacaonossanhora.jpg',
+  description: 'A Visitação de Nossa Senhora comemora o encontro entre Maria e Isabel, como narrado no Evangelho de Lucas. É uma festa que celebra a caridade, a humildade e a ação do Espírito Santo no cântico do Magnificat.'
+},
+{
+  id: 'sao-felix-de-nicosia',
+  name: 'São Félix de Nicósia',
+  type: 'santo',
+  title: 'Religioso Capuchinho',
+  birthDate: '05/11/1715',
+  deathDate: '31/05/1787',
+  feastDay: '31 de maio',
+  canonized: '2005 por Bento XVI',
+  image: '/Felix-Nicosia.jpg',
+  description: 'São Félix de Nicósia foi um frade capuchinho italiano conhecido por sua humildade, silêncio e serviço aos pobres. Viveu como porteiro e sapateiro do convento, oferecendo tudo a Deus com amor e paciência. Foi canonizado por Bento XVI em 2005.'
 }
+,{
+  id: 'santa-cecilia',
+  name: 'Santa Cecília',
+  type: 'santa',
+  title: 'Virgem e Mártir',
+  birthDate: 'c. 200',
+  deathDate: 'c. 230',
+  feastDay: '22 de novembro',
+  canonized: 'Pré-congregação',
+  image: '/santacecilia.jpg',
+  description: 'Santa Cecília é uma das mártires mais veneradas da Igreja e padroeira dos músicos. De família romana nobre, consagrou-se a Deus desde jovem. Foi martirizada por professar sua fé em Cristo e inspirou gerações com seu testemunho de pureza, coragem e louvor a Deus mesmo no sofrimento.'
+}
+,{
+  id: 'santa-hildegarda-de-bingen',
+  name: 'Santa Hildegarda de Bingen',
+  type: 'santa',
+  title: 'Doutora da Igreja',
+  birthDate: 'c. 1098',
+  deathDate: '17/09/1179',
+  feastDay: '17 de setembro',
+  canonized: '2012 por Bento XVI',
+  image: '/hildegardvon.jpg',
+  description: 'Santa Hildegarda de Bingen foi uma mística beneditina, teóloga, médica e compositora medieval. Recebeu visões desde a infância e escreveu obras teológicas, científicas e musicais. É uma das quatro mulheres proclamadas Doutora da Igreja, sendo reconhecida por sua sabedoria, espiritualidade e influência intelectual no século XII.'
+}
+,
+{
+  id: 'sao-marcos-ji-tianxiang',
+  name: 'São Marcos Ji Tianxiang',
+  type: 'santo',
+  title: 'Mártir',
+  birthDate: '1834',
+  deathDate: '07/07/1900',
+  feastDay: '7 de julho',
+  canonized: '1 de outubro de 2000',
+  image: '/santomarkji.jpg',
+  description: 'São Marcos Ji Tianxiang foi um médico chinês que lutou contra o vício em ópio por décadas. Mesmo excluído dos sacramentos, permaneceu fiel à sua fé e foi martirizado durante a Rebelião dos Boxers. É considerado patrono dos dependentes químicos.'
+}
+
+,{
+  id: 'sao-josemaria-escriva',
+  name: 'São Josemaria Escrivá',
+  type: 'santo',
+  title: 'Presbítero',
+  birthDate: '09/01/1902',
+  deathDate: '26/06/1975',
+  feastDay: '26 de junho',
+  canonized: '06/10/2002',
+  image: '/saojosemariaescriva.jpg',
+  description: 'São Josemaria Escrivá foi um sacerdote espanhol, fundador do Opus Dei, que promove a santificação através do trabalho cotidiano. Sua mensagem central é que todos são chamados à santidade na vida diária.'
+}
+,
+{
+  id: 'santa-agata',
+  name: 'Santa Ágata de Catânia',
+  type: 'santa',
+  title: 'Virgem e Mártir',
+  birthDate: 'c. 235',
+  deathDate: '05/02/251',
+  feastDay: '5 de fevereiro',
+  canonized: 'Pré-congregação',
+  image: '/santaaghata.jpg',
+  description: 'Santa Ágata foi uma jovem cristã siciliana do século III que, ao recusar renunciar à sua fé e à sua consagração a Deus, sofreu torturas atrozes, incluindo a mutilação dos seios. É padroeira de Catânia, das mulheres com doenças mamárias, das enfermeiras e protetora contra incêndios e erupções vulcânicas.'
+}
+,
+{
+  id: 'santa-monica',
+  name: 'Santa Mônica',
+  type: 'santa',
+  title: 'Virgem',
+  birthDate: '331',
+  deathDate: '387',
+  feastDay: '27 de agosto',
+  canonized: 'Pré-congregação',
+  image: '/santamonica.jpg',
+  description: 'Santa Mônica foi uma cristã do século IV, mãe de Santo Agostinho. É conhecida por sua perseverança na oração e fé inabalável, que levaram à conversão de seu filho e marido. É padroeira das mães cristãs, esposas e daqueles que enfrentam desafios familiares.'
+}
+
 
 
 ];
