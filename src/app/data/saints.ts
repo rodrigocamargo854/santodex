@@ -932,6 +932,30 @@ export const saints = [
   canonized: 'Pré-congregação',
   image: '/santamonica.jpg',
   description: 'Santa Mônica foi uma cristã do século IV, mãe de Santo Agostinho. É conhecida por sua perseverança na oração e fé inabalável, que levaram à conversão de seu filho e marido. É padroeira das mães cristãs, esposas e daqueles que enfrentam desafios familiares.'
+},
+{
+  id: 'sao-marcelino-e-sao-pedro',
+  name: 'São Marcelino e São Pedro',
+  type: 'martires',
+  title: 'Santos',
+  birthDate: null,
+  deathDate: '02/06/304',
+  feastDay: '2 de junho',
+  canonized: null,
+  image: '/saomarcelino.jpg',
+  description: 'São Marcelino, sacerdote, e São Pedro, exorcista, foram martirizados em Roma durante a perseguição do imperador Diocleciano. São lembrados por sua fé inabalável e coragem diante da morte.'
+},
+{
+  id: 'sao-bonifacio',
+  name: 'São Bonifácio',
+  type: 'mártir',
+  title: 'Santo',
+  birthDate: '672',
+  deathDate: '05/06/754',
+  feastDay: '5 de junho',
+  canonized: null,
+  image: '/saobonifacio.jpg',
+  description: 'São Bonifácio, conhecido como Apóstolo da Alemanha, foi um monge beneditino e missionário inglês que evangelizou os povos germânicos. Fundou diversas dioceses e mosteiros e foi martirizado em 754 enquanto pregava na Frísia.'
 }
 
 

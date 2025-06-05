@@ -1201,6 +1201,59 @@ export const saintDetails: { [id: string]: Slide[] } = {
   }
 ]
 ,
+'sao-marcelino-e-sao-pedro': [
+  {
+    title: 'Contexto Histórico',
+    text: 'Durante o reinado do imperador Diocleciano, no início do século IV, a perseguição aos cristãos era intensa. São Marcelino, um sacerdote respeitado, e São Pedro, um exorcista, foram presos por sua fé e atividades evangelizadoras.'
+  },
+  {
+    title: 'Evangelização na Prisão',
+    text: 'Enquanto estavam encarcerados, Marcelino e Pedro converteram o carcereiro Artêmio e sua família. A filha de Artêmio, Paulina, foi curada de uma possessão demoníaca após as orações de Pedro, levando toda a família à conversão e ao batismo.'
+  },
+  {
+    title: 'Martírio Secreto',
+    text: 'Para evitar comoção pública, as autoridades levaram Marcelino e Pedro a um bosque isolado, conhecido como "Selva Negra", onde foram obrigados a cavar suas próprias covas antes de serem decapitados em 2 de junho de 304.'
+  },
+  {
+    title: 'Descoberta dos Corpos',
+    text: 'Os corpos dos mártires permaneceram ocultos até serem encontrados por uma cristã chamada Lucila, que lhes proporcionou uma sepultura digna. Posteriormente, o imperador Constantino mandou construir uma igreja em sua homenagem.'
+  },
+  {
+    title: 'Legado e Devoção',
+    text: 'A devoção a São Marcelino e São Pedro se espalhou por toda a cristandade. Seus nomes foram inseridos no Cânon da Missa pelo Papa Virgílio, e suas relíquias foram veneradas em diversos locais, incluindo a Basílica de São Marcelino e São Pedro em Roma.'
+  },
+  {
+    title: 'Curiosidades',
+    text: 'O Papa Dâmaso I, quando jovem, ouviu a história do martírio de Marcelino e Pedro do próprio carrasco que os executou. Ele posteriormente compôs um poema em homenagem aos mártires, que foi colocado sobre seus túmulos.'
+  }
+]
+,
+'sao-bonifacio': [
+  {
+    title: 'Juventude e Vocação',
+    text: 'Nascido na Inglaterra por volta de 672 com o nome de Winfrido, São Bonifácio ingressou ainda jovem na vida monástica. Tornou-se um erudito e pregador respeitado antes de dedicar-se às missões na Europa.'
+  },
+  {
+    title: 'Missão na Germânia',
+    text: 'Recebeu do Papa Gregório II a missão de evangelizar os povos germânicos, sendo nomeado bispo e adotando o nome Bonifácio. Batizou milhares de pessoas e fundou mosteiros e dioceses.'
+  },
+  {
+    title: 'Reformas e Apoio Papal',
+    text: 'Teve papel fundamental na reforma da Igreja na região franca, com apoio de vários papas e da monarquia local. Estabeleceu uma sólida estrutura eclesiástica.'
+  },
+  {
+    title: 'Martírio',
+    text: 'Foi martirizado em 5 de junho de 754 na Frísia, enquanto crismava neófitos. Morreu rezando e pedindo que não revidassem os agressores.'
+  },
+  {
+    title: 'Sepultura e Legado',
+    text: 'Seus restos mortais repousam na abadia de Fulda, na Alemanha. São Bonifácio é reverenciado como patrono da Alemanha e símbolo da união entre fé e cultura europeia.'
+  },
+  {
+    title: 'Curiosidades',
+    text: 'É considerado um dos maiores missionários da história cristã. Seu exemplo inspirou gerações de monges e pregadores por toda a Europa.'
+  }
+]
 
 
 

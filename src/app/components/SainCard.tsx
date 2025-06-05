@@ -7,10 +7,10 @@ type Saint = {
   name: string
   type: string
   title: string
-  birthDate: string
-  deathDate: string
-  feastDay: string
-  canonized: string
+  birthDate: string | null
+  deathDate: string | null
+  feastDay: string | null
+  canonized: string | null
   beatified?: string
   image: string
   description: string
@@ -38,9 +38,10 @@ export default function SaintCard({ saint }: { saint: Saint }) {
       </div>
 
       <div className="mt-4 text-xs text-gray-600 space-y-1 text-center">
-        <p><strong>Festa:</strong> {saint.feastDay}</p>
-        <p><strong>Nascimento:</strong> {saint.birthDate}</p>
-        <p><strong>Falecimento:</strong> {saint.deathDate}</p>
+        <p><strong>Festa:</strong> {saint?.feastDay}</p>
+        <p><strong>Nascimento:</strong> {saint?.birthDate ?? 'Desconhecido'}</p>
+
+        <p><strong>Falecimento:</strong> {saint?.deathDate}</p>
       </div>
 
       <div className="mt-4 text-center">

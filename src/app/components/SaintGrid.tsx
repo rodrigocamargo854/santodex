@@ -20,9 +20,9 @@ export default function SaintGrid({ search }: { search: string }) {
   const filtered = saints.filter((s) => {
     const term = search.toLowerCase()
     return (
-      s.name.toLowerCase().includes(term) ||
-      s.feastDay.toLowerCase().includes(term) ||
-      s.birthDate.includes(term)
+      s.name?.toLowerCase().includes(term) ||
+      s.feastDay?.toLowerCase().includes(term) ||
+      s.birthDate?.includes(term)
     )
   })
   useEffect(() => {
