@@ -958,9 +958,22 @@ export const saints = [
   description: 'São Bonifácio, conhecido como Apóstolo da Alemanha, foi um monge beneditino e missionário inglês que evangelizou os povos germânicos. Fundou diversas dioceses e mosteiros e foi martirizado em 754 enquanto pregava na Frísia.'
 }
 
+,
+  {
+    id: 'norbert',
+    name: 'Norberto',
+    type: 'Santo',
+    title: 'Bispo e Fundador',
+    birthDate: 'c. 1080',
+    deathDate: '6 de junho de 1134',
+    feastDay: '6 de junho',
+    canonized: '1582',
+    image: 'saonorberto.jpg',
+    description: 'Fundador da Ordem dos Cônegos Premonstratenses, conhecido por sua intensa vida de penitência e serviço à Igreja após uma conversão profunda.'
+  }
+]
 
 
-];
 
 
 

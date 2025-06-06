@@ -1254,8 +1254,33 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: 'É considerado um dos maiores missionários da história cristã. Seu exemplo inspirou gerações de monges e pregadores por toda a Europa.'
   }
 ]
-
-
+,
+'sao-norberto': [
+    {
+      title: 'Juventude e Conversão',
+      text: 'São Norberto nasceu por volta de 1080 em Xanten, na Alemanha, em uma família nobre. Levou uma juventude voltada aos privilégios seculares. Sua conversão profunda ocorreu após ser atingido por um raio durante uma tempestade, o que o levou a abandonar tudo para seguir a Cristo.'
+    },
+    {
+      title: 'Fundação da Ordem Premonstratense',
+      text: 'Em 1120, fundou a Ordem dos Cônegos Regulares Premonstratenses, também conhecidos como Monges Brancos, que viviam em comunidade seguindo a Regra de Santo Agostinho, com intensa vida de oração, missão e pregação itinerante.'
+    },
+    {
+      title: 'Missão como Arcebispo',
+      text: 'Em 1126, foi nomeado Arcebispo de Magdeburgo, na Alemanha, enfrentando oposição e conduzindo reformas profundas. Combateu heresias e trabalhou pela santidade do clero e do povo cristão.'
+    },
+    {
+      title: 'Morte e Canonização',
+      text: 'Faleceu em 6 de junho de 1134. Foi canonizado em 1582 pelo Papa Gregório XIII, sendo reconhecido como grande reformador da Igreja e exemplo de fidelidade radical a Cristo.'
+    },
+    {
+      title: 'Frase Marcante',
+      text: '"A cruz é a minha luz, e o mundo é apenas sombra que passa."'
+    },
+    {
+      title: 'Curiosidades',
+      text: 'A Ordem Premonstratense se expandiu rapidamente pela Europa. São Norberto é padroeiro dos que buscam reconciliação entre fé e razão, e da cidade de Magdeburgo.'
+    }
+  ]
 
 
 
