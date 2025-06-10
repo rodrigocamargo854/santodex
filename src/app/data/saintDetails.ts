@@ -1281,7 +1281,32 @@ export const saintDetails: { [id: string]: Slide[] } = {
       text: 'A Ordem Premonstratense se expandiu rapidamente pela Europa. São Norberto é padroeiro dos que buscam reconciliação entre fé e razão, e da cidade de Magdeburgo.'
     }
   ]
-
+, 'sao-jose-de-anchieta': [
+  {
+    title: 'Origem e Vocação',
+    text: 'José de Anchieta nasceu em 1534 nas Ilhas Canárias, Espanha. Ingressou na Companhia de Jesus ainda jovem e, devido à saúde frágil, foi enviado ao Brasil como missionário em 1553.'
+  },
+  {
+    title: 'Evangelização e Cultura',
+    text: 'Aprendeu a língua tupi e escreveu a primeira gramática do idioma. Atuou como pacificador entre indígenas e portugueses, usando diálogo e educação como pontes para a evangelização.'
+  },
+  {
+    title: 'Fundação de Cidades',
+    text: 'Foi cofundador das cidades de São Paulo (1554) e Rio de Janeiro (1565), estabelecendo colégios jesuítas que se tornaram centros de formação e fé.'
+  },
+  {
+    title: 'Produção Literária',
+    text: 'Além de missionário, foi poeta e dramaturgo. Escreveu peças teatrais, poemas religiosos e textos catequéticos em tupi e português, influenciando a cultura colonial brasileira.'
+  },
+  {
+    title: 'Morte e Canonização',
+    text: 'Faleceu em 1597 em Reritiba, atual Anchieta (ES). Foi canonizado pelo Papa Francisco em 2014, sendo reconhecido como Apóstolo do Brasil e padroeiro dos catequistas.'
+  },
+  {
+    title: 'Frase Marcante',
+    text: '"Todos sejam um só coração e uma só alma para Deus."'
+  }
+]
 
 
 

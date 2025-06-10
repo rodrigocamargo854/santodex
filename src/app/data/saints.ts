@@ -968,8 +968,20 @@ export const saints = [
     deathDate: '6 de junho de 1134',
     feastDay: '6 de junho',
     canonized: '1582',
-    image: 'saonorberto.jpg',
+    image: '/saonorberto.jpg',
     description: 'Fundador da Ordem dos Cônegos Premonstratenses, conhecido por sua intensa vida de penitência e serviço à Igreja após uma conversão profunda.'
+  },
+  {
+    id: 'sao-jose-de-anchieta',
+    name: 'José de Anchieta',
+    type: 'Santo',
+    title: 'Presbítero e Missionário',
+    birthDate: '19 de março de 1534',
+    deathDate: '9 de junho de 1597',
+    feastDay: '9 de junho',
+    canonized: '3 de abril de 2014',
+    image: '/saojosedeanchieta.jpg',
+    description: 'Missionário jesuíta espanhol, cofundador das cidades de São Paulo e Rio de Janeiro. Dedicou sua vida à evangelização dos povos indígenas do Brasil, sendo chamado de Apóstolo do Brasil.'
   }
 ]
 
