@@ -1306,7 +1306,82 @@ export const saintDetails: { [id: string]: Slide[] } = {
     title: 'Frase Marcante',
     text: '"Todos sejam um só coração e uma só alma para Deus."'
   }
-]
+],
+"sao-nilammon": [
+    {
+      title: "Vida de Eremita",
+      text: "Nilammon foi um eremita egípcio de Pelúsio que recusou ser bispo, preferindo uma vida de silêncio, oração e penitência."
+    },
+    {
+      "title": "Testemunho de Humildade",
+      "text": "Mesmo sendo reconhecido por sua santidade, manteve-se recluso até o fim da vida. Sua fama de santidade se espalhou após sua morte."
+    }
+  ],
+ 
+  "sao-eustorgio-ii": [
+    {
+      title: "Bispo de Milão",
+      text: "Eustórgio II serviu como arcebispo de Milão no século VI, em tempos de instabilidade política e religiosa."
+    },
+    {
+      title: "Obras Pastorais",
+      text: "Trabalhou na reconstrução de igrejas e no fortalecimento da fé do povo durante conflitos internos e heresias."
+    }
+  ],
+  "sao-cerato-de-grenoble": [
+    {
+      title: "Bispo Exilado",
+      text: "Cerato foi bispo de Grenoble e enfrentou o exílio por se opor ao arianismo, mantendo-se firme na fé católica."
+    },
+    {
+      "title": "Defensor da Verdade",
+      "text": "É lembrado por sua coragem em pregar a verdade mesmo diante da perseguição e das pressões políticas."
+    }
+  ],
+  "sao-barnabe": [
+    {
+      title: "Companheiro de São Paulo",
+      text: "São Barnabé foi um dos primeiros convertidos ao cristianismo e missionário ao lado de São Paulo."
+    },
+    {
+      title: "Filho da Consolação",
+      text: "Recebeu esse título pela comunidade cristã por seu coração generoso e capacidade de reconciliar os irmãos."
+    }
+  ],
+  "sao-joao-de-sahagun": [
+    {
+      title: "Pregador Notável",
+      text: "João de Sahagún foi um frade agostiniano conhecido por suas pregações inflamadas contra injustiças sociais."
+    },
+    {
+      title: "Homem de Milagres",
+      text: "Relatos históricos citam curas milagrosas e orientação espiritual intensa por meio da confissão."
+    }
+  ],
+  "santo-antonio-de-padua": [
+    {
+      title: "Pregador e Teólogo",
+      text: "Antônio de Pádua foi um dos maiores pregadores da Igreja, conhecido por sua inteligência e dom das palavras."
+    },
+    {
+      title: "Protetor dos Pobres",
+      text: "É padroeiro dos pobres, dos casais e invocado para encontrar objetos perdidos."
+    },
+    {
+      title: "Canonização Rápida",
+      text: "Foi canonizado apenas um ano após sua morte, devido à grande quantidade de milagres atribuídos a ele."
+    }
+  ],
+  "sao-francisco-solano": [
+    {
+      title: "Missionário na América do Sul",
+      text: "Francisco Solano foi missionário no Peru, Argentina e Paraguai, anunciando o Evangelho aos povos indígenas."
+    },
+    {
+      title: "Milagres e Carisma",
+      text: "Era conhecido por curas, profecias e por falar línguas indígenas sem nunca tê-las estudado."
+    }
+  ]
 
 
 

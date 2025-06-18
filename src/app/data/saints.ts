@@ -120,7 +120,7 @@ export const saints = [
     beatified: 'Em andamento',
     image: '/chiara.jpeg',
     description:
-      'Chiara Corbella Petrillo foi uma jovem italiana que testemunhou uma fé heroica diante do sofrimento. Após perder dois filhos por doenças congênitas e enfrentar um câncer agressivo durante a gravidez do terceiro, Chiara escolheu adiar seu tratamento para garantir a vida do bebê. Faleceu em 2012, aos 28 anos, oferecendo sua vida por amor. Seu testemunho de santidade no matrimônio e maternidade emociona o mundo.'
+      'Chiara Corbella Petrillo uma jovem italiana que testemunhou uma fé heroica diante do sofrimento. Após perder dois filhos por doenças congênitas e enfrentar um câncer agressivo durante a gravidez do terceiro, Chiara escolheu adiar seu tratamento para garantir a vida do bebê. Faleceu em 2012, aos 28 anos, oferecendo sua vida por amor. Seu testemunho de santidade no matrimônio e maternidade emociona o mundo.'
   }
   ,
   {
@@ -133,7 +133,7 @@ export const saints = [
     feastDay: '29 de outubro',
     canonized: '',
     beatified: '2010',
-    image: '/beatachiarabandadno.jpg',
+    image: '/beatachiarabandadno',
     description:
       'Chiara Luce Badano foi uma jovem italiana que viveu com grande amor e fé, mesmo diante da dor. Integrante do Movimento dos Focolares, recebeu o diagnóstico de um câncer ósseo agressivo aos 17 anos. Recusou morfina para poder “oferecer sua dor a Jesus”, e dizia: “Se é isso que o Senhor quer, eu também quero”. Faleceu aos 18 anos, deixando um testemunho luminoso de santidade juvenil. Foi beatificada em 2010 pelo Papa Bento XVI.'
   },
@@ -982,6 +982,110 @@ export const saints = [
     canonized: '3 de abril de 2014',
     image: '/saojosedeanchieta.jpg',
     description: 'Missionário jesuíta espanhol, cofundador das cidades de São Paulo e Rio de Janeiro. Dedicou sua vida à evangelização dos povos indígenas do Brasil, sendo chamado de Apóstolo do Brasil.'
+  },
+  {
+    id: 'nilammon',
+    name: 'Nilammon',
+    type: 'Santo',
+    title: 'Eremita',
+    birthDate: '',
+    deathDate: '6 de junho (ano desconhecido)',
+    feastDay: '6 de junho',
+    canonized: 'Pre‑Congregation',
+    image: '/noimage.png.jpg',
+    description:
+      'Eremita egípcio de Pelúsio, escolhido bispo mas recusou o cargo, preferindo a vida de clausura e oração até seus últimos dias.' 
+  },
+  {
+    id: 'paulina',
+    name: 'Paulina de Roma',
+    type: 'Santa',
+    title: 'Mártir',
+    birthDate: '',
+    deathDate: 'c. 302',
+    feastDay: '6 de junho',
+    canonized: 'Pre‑Congregation',
+    image: '/noimage.png',
+    description:
+      'Filha de São Artemius e Santa Candida, converteu-se ao cristianismo e foi martirizada por sepultamento, venerada como mártir romana.'
+  },
+  {
+    id: 'eustorgius_ii',
+    name: 'Eustórgio II',
+    type: 'Santo',
+    title: 'Arcebispo de Milão',
+    birthDate: '',
+    deathDate: '6 de junho de 518',
+    feastDay: '6 de junho',
+    canonized: 'Pre‑Congregation',
+    image: '/noimage.png',
+    description:
+      'Arcebispo de Milão no início do século VI, conhecido por restaurar estruturas e defender a Igreja durante turbulências políticas.'
+  },
+  {
+    id: 'ceratus',
+    name: 'Cerato de Grenoble',
+    type: 'Santo',
+    title: 'Bispo',
+    birthDate: 'c. século V',
+    deathDate: '6 de junho (c.450)',
+    feastDay: '6 de junho',
+    canonized: 'Pre‑Congregation',
+    image: '/noimage.png',
+    description:
+      'Bispo de Gratianópolis (atual Grenoble), opositor do arianismo e exilado por sua fé, lembrado por defesa da verdade cristã.'
+  },
+  {
+    id: 'barnabas',
+    name: 'Barnabé',
+    type: 'Santo',
+    title: 'Apóstolo',
+    birthDate: '',
+    deathDate: '',
+    feastDay: '11 de junho',
+    canonized: 'Pre‑Congregation',
+    image: '/noimage.png',
+    description:
+      'Companheiro de São Paulo, atuou na evangelização da Igreja primitiva, conhecido como "Filho da Consolação".'
+  },
+  {
+    id: 'john_of_sahagun',
+    name: 'João de Sahagún',
+    type: 'Santo',
+    title: 'Confessor',
+    birthDate: 'c. 1430',
+    deathDate: '12 de junho de 1479',
+    feastDay: '12 de junho',
+    canonized: '1690',
+    image: '/noimage.png',
+    description:
+      'Frade agostiniano espanhol reconhecido por pregações e milagres de cura, padroeiro dos confessores.'
+  },
+  {
+    id: 'anthony_of_padua',
+    name: 'Antônio de Pádua',
+    type: 'Santo',
+    title: 'Padre, Doutor da Igreja',
+    birthDate: '15 de agosto de 1195',
+    deathDate: '13 de junho de 1231',
+    feastDay: '13 de junho',
+    canonized: '1232',
+    image: '/noimage.png',
+    description:
+      'Franciscano português, famoso pregador e doutor da Igreja, padroeiro dos pobres e protetor contra tesouros perdidos.'
+  },
+  {
+    id: 'francis_solan0',
+    name: 'Francisco Solano',
+    type: 'Santo',
+    title: 'Religioso',
+    birthDate: '10 de março de 1549',
+    deathDate: '14 de julho de 1610',
+    feastDay: '14 de junho',
+    canonized: '1726',
+    image: '/noimage.png',
+    description:
+      'Franciscano espanhol missionário no Peru, conhecido por conversões e milagres entre naturais da América do Sul.'
   }
 ]
 
