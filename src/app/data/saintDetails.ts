@@ -1382,12 +1382,45 @@ export const saintDetails: { [id: string]: Slide[] } = {
       text: "Era conhecido por curas, profecias e por falar línguas indígenas sem nunca tê-las estudado."
     }
   ]
+,
+"sao-tome": [
+    {
+      title: "Apóstolo de Jesus",
+      text: "São Tomé, também chamado Dídimo, foi um dos doze apóstolos de Jesus, famoso por ter duvidado da ressurreição até ver e tocar as chagas de Cristo."
+    },
+    {
+      title: "Missão na Índia",
+      text: "Depois de Pentecostes, Tomé evangelizou a Mesopotâmia e chegou até a Índia, onde fundou comunidades cristãs e converteu muitos à fé."
+    },
+    {
+      title: "Martírio",
+      text: "Segundo a tradição, foi martirizado em Mylapore, na Índia, por volta do ano 72 d.C., sendo transpassado por uma lança."
+    },
+    {
+      title: "Expressão de Fé",
+      text: "Seu famoso grito de fé ao ver Cristo ressuscitado: 'Meu Senhor e meu Deus!' (Jo 20,28) se tornou uma das mais belas profissões de fé do cristianismo."
+    }
+  ],"santa-faustina": [
+    {
+      title: "Vida e Vocação",
+      text: "Nascida na Polônia, Helena Kowalska entrou na Congregação das Irmãs de Nossa Senhora da Misericórdia, onde passou a ser conhecida como Irmã Maria Faustina."
+    },
+    {
+      title: "Revelações de Jesus",
+      text: "Entre 1931 e 1938, Jesus lhe apareceu diversas vezes, revelando mensagens sobre a importância da confiança na misericórdia divina e pedindo a instituição da Festa da Divina Misericórdia."
+    },
+    {
+      title: "Diário Espiritual",
+      text: "Por obediência a seus confessores, escreveu o 'Diário de Santa Faustina', uma obra que se tornou referência para a espiritualidade da Divina Misericórdia."
+    },
+    {
+      title: "Canonização",
+      text: "Foi canonizada em 30 de abril de 2000 por São João Paulo II, que também instituiu oficialmente o Domingo da Divina Misericórdia no segundo domingo da Páscoa."
+    }
+  ]
+};
 
 
-
-
-
-}
 
 
 

@@ -1087,7 +1087,35 @@ export const saints = [
     description:
       'Franciscano espanhol missionário no Peru, conhecido por conversões e milagres entre naturais da América do Sul.'
   }
-]
+,
+{
+  id: 'sao-tome',
+  name: 'São Tomé',
+  type: 'apóstolo',
+  title: 'Apóstolo de Jesus',
+  birthDate: 'Século I',
+  deathDate: 'c. 72 d.C.',
+  feastDay: '3 de julho',
+  canonized: '',
+  beatified: '',
+  image: '/sao-tome.jpg',
+  description: 'São Tomé foi um dos doze apóstolos de Jesus. Conhecido por sua incredulidade inicial, professou a fé ao ver Cristo ressuscitado. Evangelizou a Mesopotâmia, Pérsia e Índia, onde foi martirizado.'
+},
+{
+  id: 'santa-faustina',
+  name: 'Santa Faustina Kowalska',
+  type: 'santa',
+  title: 'Apóstola da Divina Misericórdia',
+  birthDate: '25/08/1905',
+  deathDate: '05/10/1938',
+  feastDay: '5 de outubro',
+  canonized: '2000',
+  beatified: '1993',
+  image: '/santa-faustina.jpg',
+  description: 'Santa Faustina foi uma religiosa polonesa conhecida como Apóstola da Divina Misericórdia. Recebeu revelações de Jesus que inspiraram a devoção à Divina Misericórdia, incluindo o famoso Terço e o Domingo da Misericórdia.'
+}
+];
+
 
 
 
