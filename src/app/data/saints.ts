@@ -1219,9 +1219,21 @@ export const saints = [
   beatified: '1947',
   image: '/santagoretti.png',
   description: 'Jovem mártir italiana que deu a vida para defender sua pureza e perdoou seu agressor antes de morrer.'
+},
+{
+  id: 'santa-veronica',
+  name: 'Santa Verônica de Jerusalém',
+  type: 'santa',
+  title: 'Aquela que enxugou o rosto de Cristo',
+  birthDate: '',
+  deathDate: '',
+  feastDay: '12 de julho',
+  canonized: 'Culto confirmado pela tradição',
+  beatified: '',
+  image: '/santaveroica.jpg',
+  description: 'Mulher piedosa que, segundo a tradição cristã, enxugou o rosto de Jesus durante a Via Sacra e recebeu milagrosamente sua imagem impressa no véu.'
 }
-];
-
+]
 
 
 

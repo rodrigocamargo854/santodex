@@ -1630,6 +1630,28 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: "Curiosidades",
       text: "- Sua mãe viveu para ver a canonização da filha.\n- O assassino de Maria passou 27 anos na prisão.\n- Seu túmulo está no Santuário de Nettuno, Itália.\n- É uma das santas mais jovens canonizadas pela Igreja."
     }
+  ],
+  "santa-veronica": [
+    {
+      title: "Ato de compaixão",
+      text: "Durante a Via Sacra, Jesus carregava a cruz a caminho do Calvário, desfigurado e sofrendo. Segundo a tradição, uma mulher chamada Verônica saiu da multidão e, em um gesto de coragem e compaixão, enxugou o rosto de Jesus com um véu. Milagrosamente, a imagem do Santo Rosto ficou impressa no tecido."
+    },
+    {
+      title: "Origem do nome",
+      text: "O nome 'Verônica' pode derivar do latim 'vera icon', que significa 'imagem verdadeira'. Não se sabe se esse era realmente seu nome, ou um título dado mais tarde em referência ao milagre do véu. Alguns textos apócrifos, como os Atos de Pilatos, se referem a ela como Berenice."
+    },
+    {
+      title: "Tradição e devoção",
+      text: "Verônica é lembrada na 6ª estação da Via Sacra. Sua história não aparece nos Evangelhos canônicos, mas faz parte da tradição antiga da Igreja. O véu, chamado de 'Véu de Verônica', foi venerado por séculos e associado a relíquias do Vaticano e outras igrejas europeias."
+    },
+    {
+      title: "Legado espiritual",
+      text: "O gesto de Verônica representa a coragem de consolar Cristo nos momentos de dor e a importância dos pequenos atos de amor. Ela se tornou símbolo da verdadeira piedade e da defesa de Jesus mesmo em meio à perseguição e violência."
+    },
+    {
+      title: "Curiosidades",
+      text: "- O nome Verônica não aparece na Bíblia.\n- O véu com a imagem do rosto de Cristo é uma relíquia tradicionalmente guardada no Vaticano.\n- Algumas tradições orientais a identificam como 'Berenice', a mulher curada do fluxo de sangue em Lucas 8."
+    }
   ]
 };
 
