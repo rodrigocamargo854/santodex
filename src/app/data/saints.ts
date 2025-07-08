@@ -1127,19 +1127,7 @@ export const saints = [
   image: '/noimage.png',
   description: 'Santo Elias é considerado o inspirador espiritual da Ordem Carmelita, sendo o modelo de contemplação e zelo pelo Deus vivo.'
 },
-{
-  id: 'sao-joao-cruz',
-  name: 'São João da Cruz',
-  type: 'santo',
-  title: 'Místico do Carmelo',
-  birthDate: '24/06/1542',
-  deathDate: '14/12/1591',
-  feastDay: '14 de dezembro',
-  canonized: '1726',
-  beatified: '1675',
-  image: '/sao-joao-da-cruz.jpg',
-  description: 'São João da Cruz foi um grande místico e poeta, cofundador da Reforma Carmelita ao lado de Santa Teresa d’Ávila.'
-},
+
 {
   id: 'santa-madalena-pazzi',
   name: 'Santa Maria Madalena de Pazzi',
@@ -1153,19 +1141,7 @@ export const saints = [
   image: '/noimage.png',
   description: 'Santa Maria Madalena de Pazzi destacou-se por suas experiências místicas profundas e amor ardente por Cristo.'
 },
-{
-  id: 'santa-elisabete-trindade',
-  name: 'Santa Elisabete da Trindade',
-  type: 'santa',
-  title: 'Mística Carmelita',
-  birthDate: '18/07/1880',
-  deathDate: '09/11/1906',
-  feastDay: '8 de novembro',
-  canonized: '2016',
-  beatified: '1984',
-  image: '/noimage.png',
-  description: 'Santa Elisabete viveu sua espiritualidade centrada na Santíssima Trindade e na oração contemplativa.'
-},
+
 {
   id: 'santa-teresa-margarida-redi',
   name: 'Santa Teresa Margarida Redi',
@@ -1189,7 +1165,7 @@ export const saints = [
   feastDay: '9 de agosto',
   canonized: '1998',
   beatified: '1987',
-  image: '/noimage.png',
+  image: '/edithstein.jpeg',
   description: 'Filósofa judia convertida ao catolicismo, entrou no Carmelo e foi mártir no campo de concentração de Auschwitz.'
 },
 {
@@ -1228,7 +1204,7 @@ export const saints = [
   feastDay: '28 de abril',
   canonized: '',
   beatified: '2018',
-  image: '/noimage.png',
+  image: '/Chiquitunga.jpeg',
   description: 'Primeira beata do Paraguai, conhecida pela alegria e entrega total a Deus.'
 },
 ];
