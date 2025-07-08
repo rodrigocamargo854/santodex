@@ -133,7 +133,7 @@ export const saints = [
     feastDay: '29 de outubro',
     canonized: '',
     beatified: '2010',
-    image: '/beatachiarabandadno',
+    image: '/beatachiarabandadno.jpg',
     description:
       'Chiara Luce Badano foi uma jovem italiana que viveu com grande amor e fé, mesmo diante da dor. Integrante do Movimento dos Focolares, recebeu o diagnóstico de um câncer ósseo agressivo aos 17 anos. Recusou morfina para poder “oferecer sua dor a Jesus”, e dizia: “Se é isso que o Senhor quer, eu também quero”. Faleceu aos 18 anos, deixando um testemunho luminoso de santidade juvenil. Foi beatificada em 2010 pelo Papa Bento XVI.'
   },
@@ -647,7 +647,7 @@ export const saints = [
     deathDate: 'c. 361',
     feastDay: '25 de maio',
     canonized: 'Pré-congregação',
-    image: '/noimage.png',
+    image: '/saodionisio.jpg',
     description: 'São Dionísio foi bispo na Itália, exilado na Armênia por causa da fé, onde morreu como mártir pela defesa do Cristianismo.'
   },
   {
@@ -968,7 +968,7 @@ export const saints = [
     deathDate: '6 de junho de 1134',
     feastDay: '6 de junho',
     canonized: '1582',
-    image: '/saonorberto.jpg',
+    image: '/noimage.png',
     description: 'Fundador da Ordem dos Cônegos Premonstratenses, conhecido por sua intensa vida de penitência e serviço à Igreja após uma conversão profunda.'
   },
   {
@@ -992,7 +992,7 @@ export const saints = [
     deathDate: '6 de junho (ano desconhecido)',
     feastDay: '6 de junho',
     canonized: 'Pre‑Congregation',
-    image: '/noimage.png.jpg',
+    image: '/noimage.png',
     description:
       'Eremita egípcio de Pelúsio, escolhido bispo mas recusou o cargo, preferindo a vida de clausura e oração até seus últimos dias.' 
   },
@@ -1070,7 +1070,7 @@ export const saints = [
     deathDate: '13 de junho de 1231',
     feastDay: '13 de junho',
     canonized: '1232',
-    image: '/noimage.png',
+    image: '/santoantonio.jpg',
     description:
       'Franciscano português, famoso pregador e doutor da Igreja, padroeiro dos pobres e protetor contra tesouros perdidos.'
   },
@@ -1178,7 +1178,7 @@ export const saints = [
   feastDay: '26 de agosto',
   canonized: '2015',
   beatified: '1983',
-  image: '/noimage.png',
+  image: '/esus-crucificado.jpg',
   description: 'Conhecida por êxtases místicos, visões e dons extraordinários de Deus.'
 },
 {
@@ -1207,6 +1207,19 @@ export const saints = [
   image: '/Chiquitunga.jpeg',
   description: 'Primeira beata do Paraguai, conhecida pela alegria e entrega total a Deus.'
 },
+{
+  id: 'santa-maria-goretti',
+  name: 'Santa Maria Goretti',
+  type: 'santa',
+  title: 'Mártir da Pureza',
+  birthDate: '16/10/1890',
+  deathDate: '06/07/1902',
+  feastDay: '06 de julho',
+  canonized: '1950',
+  beatified: '1947',
+  image: '/santagoretti.png',
+  description: 'Jovem mártir italiana que deu a vida para defender sua pureza e perdoou seu agressor antes de morrer.'
+}
 ];
 
 

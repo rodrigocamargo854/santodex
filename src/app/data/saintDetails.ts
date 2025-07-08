@@ -1604,6 +1604,32 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: "Frase",
       text: "“Não fujas dos sofrimentos, porque neles está a tua saúde.”"
     }
+  ],
+  "santa-maria-goretti": [
+    {
+      title: "Infância e Fé",
+      text: "Maria Goretti nasceu em Corinaldo, na Itália, em uma família camponesa muito pobre. Desde pequena demonstrava profunda fé e piedade. Após a morte de seu pai, sua família passou por grandes dificuldades. Mesmo criança, Maria assumiu com amor os cuidados da casa e de seus irmãos menores, sempre rezando e oferecendo sacrifícios a Deus."
+    },
+    {
+      title: "Martírio e Perdão",
+      text: "Com apenas 11 anos, Maria resistiu heroicamente a uma tentativa de abuso por parte de Alessandro Serenelli, um jovem de 20 anos que morava na mesma propriedade. Ao se recusar a ceder aos desejos dele, dizendo 'Não! É pecado! Deus não quer isso!', foi brutalmente atacada com 14 facadas. Morreu no dia seguinte, mas antes perdoou seu agressor dizendo: 'Por amor a Jesus, eu o perdoo... e quero que ele esteja comigo no Paraíso.'"
+    },
+    {
+      title: "Conversão de Alessandro",
+      text: "Após anos na prisão, Alessandro teve uma visão de Maria em sonho e se converteu profundamente. Tornou-se um franciscano leigo, viveu o restante da vida em penitência e esteve presente na canonização da jovem que ele mesmo havia martirizado. Testemunhou publicamente sua mudança e disse: 'Foi Maria que me guiou para a salvação.'"
+    },
+    {
+      title: "Canonização e Legado",
+      text: "Santa Maria Goretti foi canonizada em 1950 por Pio XII diante de uma multidão de mais de 500 mil pessoas, incluindo sua mãe Assunta — a primeira vez que uma mãe viu sua filha ser proclamada santa. Sua vida e morte inspiram milhares de jovens no caminho da castidade, do perdão e da fidelidade a Cristo, mesmo diante das maiores violências."
+    },
+    {
+      title: "Frase marcante",
+      text: "\"Eu o perdôo... e quero que ele esteja comigo no Paraíso.\""
+    },
+    {
+      title: "Curiosidades",
+      text: "- Sua mãe viveu para ver a canonização da filha.\n- O assassino de Maria passou 27 anos na prisão.\n- Seu túmulo está no Santuário de Nettuno, Itália.\n- É uma das santas mais jovens canonizadas pela Igreja."
+    }
   ]
 };
 
