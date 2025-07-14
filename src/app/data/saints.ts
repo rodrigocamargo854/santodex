@@ -1191,7 +1191,7 @@ export const saints = [
   feastDay: '7 de junho',
   canonized: '',
   beatified: '1917',
-  image: '/noimage.png',
+  image: '/Ana_de_San_Bartolomé.jpg',
   description: 'Foi secretária e enfermeira de Santa Teresa, difundindo a Reforma Carmelita na França.'
 },
 {
@@ -1232,6 +1232,32 @@ export const saints = [
   beatified: '',
   image: '/santaveroica.jpg',
   description: 'Mulher piedosa que, segundo a tradição cristã, enxugou o rosto de Jesus durante a Via Sacra e recebeu milagrosamente sua imagem impressa no véu.'
+},
+{
+  id: 'sao-camilo-de-lellis',
+  name: 'São Camilo de Lellis',
+  type: 'santo',
+  title: 'Padroeiro dos doentes e dos hospitais',
+  birthDate: '25 de maio de 1550',
+  deathDate: '14 de julho de 1614',
+  feastDay: '14 de julho',
+  canonized: '29 de junho de 1746 por Bento XIV',
+  beatified: '7 de abril de 1742',
+  image: '/saocamilodelellis.png',
+  description: 'São Camilo de Lellis dedicou sua vida aos doentes e fundou a Ordem dos Camilianos. É considerado o padroeiro dos hospitais e profissionais da saúde.'
+},
+{
+  id: 'beata-imelda-lambertini',
+  name: 'Beata Imelda Lambertini',
+  type: 'beata',
+  title: 'Padroeira das primeiras comunhões',
+  birthDate: '1322',
+  deathDate: '12 de maio de 1333',
+  feastDay: '12 de maio',
+  canonized: 'Culto aprovado localmente',
+  beatified: '20 de dezembro de 1826 por Leão XII',
+  image: '/beata-imelda.jpg',
+  description: 'Beata Imelda Lambertini teve profunda devoção à Eucaristia desde criança. Morreu em êxtase ao receber sua primeira comunhão, sendo hoje padroeira das crianças na primeira Eucaristia.'
 }
 ]
 

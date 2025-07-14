@@ -1652,6 +1652,49 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: "Curiosidades",
       text: "- O nome Verônica não aparece na Bíblia.\n- O véu com a imagem do rosto de Cristo é uma relíquia tradicionalmente guardada no Vaticano.\n- Algumas tradições orientais a identificam como 'Berenice', a mulher curada do fluxo de sangue em Lucas 8."
     }
+  ],"sao-camilo-de-lellis": [
+    {
+      title: "Vida e conversão",
+      text: "Camilo nasceu na Itália em 1550. Viveu uma juventude marcada por vícios e instabilidade até se converter após uma grave doença. Sua experiência de sofrimento o levou a dedicar-se inteiramente aos doentes."
+    },
+    {
+      title: "Fundador dos Camilianos",
+      text: "Fundou a Ordem dos Ministros dos Enfermos (Camilianos), que unia vida religiosa à dedicação total aos doentes, especialmente em hospitais e campos de batalha. Seus religiosos faziam votos especiais para servir os enfermos mesmo com risco de vida."
+    },
+    {
+      title: "Espiritualidade",
+      text: "São Camilo via em cada enfermo o próprio Cristo sofredor. Seu lema era: 'Mais coração nas mãos, irmão'. Ensinava que cuidar dos doentes era um ato de amor e fé."
+    },
+    {
+      title: "Legado",
+      text: "Morreu em 14 de julho de 1614. Foi canonizado por Bento XIV. Hoje é padroeiro dos hospitais, dos doentes e dos profissionais da saúde. Sua obra continua através dos Camilianos em diversos países."
+    },
+    {
+      title: "Frases marcantes",
+      text: "- \"Mais coração nas mãos, irmão.\"\n- \"Vejamos Cristo nos enfermos e sirvamos com amor.\""
+    }
+  ],
+  "beata-imelda-lambertini": [
+    {
+      title: "Infância santa",
+      text: "Imelda Lambertini nasceu em Bolonha, em 1322. Desde pequena demonstrava intenso amor à Eucaristia e desejo de receber a comunhão, mesmo sendo muito nova para os costumes da época."
+    },
+    {
+      title: "Milagre da comunhão",
+      text: "Aos 11 anos, enquanto rezava diante do Santíssimo, testemunhas afirmam que uma hóstia apareceu suspensa no ar sobre ela. O sacerdote entendeu como sinal divino e lhe deu a comunhão. Imelda entrou em êxtase e faleceu logo após, consumida de amor por Jesus."
+    },
+    {
+      title: "Devoção e reconhecimento",
+      text: "Foi beatificada por Leão XII em 1826. É considerada padroeira das crianças na primeira comunhão e exemplo de pureza e amor à Eucaristia."
+    },
+    {
+      title: "Legado espiritual",
+      text: "A vida breve de Imelda tocou gerações com sua fé profunda e desejo de união com Cristo. Sua história é lembrada por catequistas e nas celebrações da Primeira Eucaristia."
+    },
+    {
+      title: "Frases atribuídas",
+      text: "- \"Posso viver sem o pão, mas não sem a Eucaristia.\"\n- \"Jesus, vem ao meu coração!\""
+    }
   ]
 };
 
