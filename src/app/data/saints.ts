@@ -1124,7 +1124,7 @@ export const saints = [
   feastDay: '20 de julho',
   canonized: '',
   beatified: '',
-  image: '/noimage.png',
+  image: '/santo-elias.png',
   description: 'Santo Elias é considerado o inspirador espiritual da Ordem Carmelita, sendo o modelo de contemplação e zelo pelo Deus vivo.'
 },
 
@@ -1259,6 +1259,125 @@ export const saints = [
   image: '/beata-imelda.jpg',
   description: 'Beata Imelda Lambertini teve profunda devoção à Eucaristia desde criança. Morreu em êxtase ao receber sua primeira comunhão, sendo hoje padroeira das crianças na primeira Eucaristia.'
 }
+,
+{
+  id: 'santa-brigida-suecia',
+  name: 'Santa Brígida da Suécia',
+  type: 'santa',
+  title: 'Mística e Padroeira da Europa',
+  birthDate: '01/01/1303',
+  deathDate: '23/07/1373',
+  feastDay: '23 de julho',
+  canonized: '1391',
+  beatified: '',
+  image: '/brigid-of-sweden.jpeg',
+  description: 'Mística e fundadora da Ordem do Santíssimo Salvador, conhecida por suas visões e escritos espirituais.'
+},
+{
+  id: 'santa-irene-tessalonica',
+  name: 'Santa Irene de Tessalônica',
+  type: 'santa',
+  title: 'Virgem e Mártir',
+  birthDate: '01/01/0300',
+  deathDate: '05/04/0304',
+  feastDay: '5 de abril',
+  canonized: 'pré-congregação',
+  beatified: '',
+  image: '/irene-of-thessalonica.jpg',
+  description: 'Recusou adorar ídolos, foi presa pelo pai e martirizada por sua fé. Um símbolo de coragem cristã.'
+},
+
+{
+  id: 'sao-lourenco-brindisi',
+  name: 'São Lourenço de Brindisi',
+  type: 'santo',
+  title: 'Doutor da Igreja',
+  birthDate: '22/07/1559',
+  deathDate: '22/07/1619',
+  feastDay: '21 de julho',
+  canonized: '1881',
+  beatified: '1783',
+  image: '/lawrence-of-brindisi.jpeg',
+  description: 'Frade capuchinho, teólogo e poliglota, destacou-se na Contra-Reforma e no ensino das Escrituras.'
+},
+{
+    id: 'sao-matheus-moreira',
+    name: 'São Mateus Moreira',
+    type: 'mártir',
+    title: 'Mártir de Cunhaú e Uruaçu',
+    birthDate: '',
+    deathDate: '03 de outubro de 1645',
+    feastDay: '03 de outubro',
+    canonized: '15 de outubro de 2017 por Francisco',
+    beatified: '05 de março de 2000 por João Paulo II',
+    image: '/sao-matheus-moreira.jpg',
+    description: 'Faz parte dos 30 mártires do massacre de Uruaçu, no Rio Grande do Norte, ocorrido durante a invasão holandesa de 1645. Morreram defendendo a fé católica e a presença real de Cristo na Eucaristia. Mateus Moreira foi morto enquanto adorava o Santíssimo Sacramento e suas últimas palavras foram: “Louvado seja o Santíssimo Sacramento”. É símbolo de fidelidade e coragem cristã.'
+  },
+  {
+    id: 'santo-antonio-de-santana-galvao',
+    name: 'Santo Antônio de Santana Galvão',
+    type: 'santo',
+    title: 'Primeiro santo nascido no Brasil',
+    birthDate: '1739',
+    deathDate: '23 de dezembro de 1822',
+    feastDay: '25 de outubro',
+    canonized: '11 de maio de 2007 por Bento XVI',
+    beatified: '25 de outubro de 1998 por João Paulo II',
+    image: '/santo-antonio-de-santana-galvao.jpg',
+    description: 'Frei franciscano brasileiro, nasceu em Guaratinguetá (SP) e dedicou-se à vida religiosa e obras de caridade. Construiu o Mosteiro da Luz em São Paulo, hoje Patrimônio Cultural da Humanidade. Ficou famoso pelas pílulas de papel com orações, associadas a curas e milagres. É exemplo de humildade, serviço e profunda devoção mariana.'
+  },
+  {
+    id: 'santa-teresa-de-jesus',
+    name: 'Santa Teresa de Jesus',
+    type: 'santa',
+    title: 'Doutora da Igreja e reformadora do Carmelo',
+    birthDate: '28 de março de 1515',
+    deathDate: '4 de outubro de 1582',
+    feastDay: '15 de outubro',
+    canonized: '12 de março de 1622 por Gregório XV',
+    beatified: '24 de abril de 1614 por Paulo V',
+    image: '/santa-teresa-de-jesus.jpg',
+    description: 'Santa Teresa de Ávila foi uma das maiores místicas da Igreja. Reformou a Ordem Carmelita fundando conventos de vida austera, escreveu clássicos da espiritualidade como “O Livro da Vida” e “Castelo Interior” e viveu experiências místicas marcantes, como a Transverberação. Doutora da Igreja, é exemplo de coragem, inteligência e amor contemplativo.'
+  },
+  {
+    id: 'santa-teresa-dos-andes',
+    name: 'Santa Teresa dos Andes',
+    type: 'santa',
+    title: 'Primeira santa chilena',
+    birthDate: '13 de julho de 1900',
+    deathDate: '12 de abril de 1920',
+    feastDay: '13 de julho',
+    canonized: '21 de março de 1993 por João Paulo II',
+    beatified: '3 de abril de 1987 por João Paulo II',
+    image: '/santa-teresa-dos-andes.jpg',
+    description: 'Carmelita descalça chilena, entrou para o convento aos 19 anos e morreu poucos meses depois, vítima de tifo. Apesar da vida breve, deixou cartas e escritos cheios de amor a Cristo. É exemplo de santidade juvenil, entrega total a Deus e pureza de coração.'
+  },
+  {
+    id: 'sao-joao-maria-vianney',
+    name: 'São João Maria Vianney',
+    type: 'santo',
+    title: 'Padroeiro dos párocos',
+    birthDate: '8 de maio de 1786',
+    deathDate: '4 de agosto de 1859',
+    feastDay: '4 de agosto',
+    canonized: '31 de maio de 1925 por Pio XI',
+    beatified: '8 de janeiro de 1905 por Pio X',
+    image: '/sao-joao-maria-vianney.jpg',
+    description: 'Conhecido como Cura d’Ars, foi pároco de uma pequena aldeia francesa e transformou a comunidade pela oração e pelo exemplo. Passava até 16 horas diárias no confessionário, atraindo peregrinos de toda a França. É símbolo de dedicação sacerdotal.'
+  },
+  {
+    id: 'sao-pedro',
+    name: 'São Pedro',
+    type: 'apóstolo',
+    title: 'Príncipe dos Apóstolos',
+    birthDate: '',
+    deathDate: 'c. 64',
+    feastDay: '29 de junho',
+    canonized: 'Culto confirmado pela tradição',
+    beatified: '',
+    image: '/sao-pedro.jpg',
+    description: 'Pescador da Galileia, foi chamado por Jesus para ser apóstolo e líder da Igreja. Recebeu as “chaves do Reino dos Céus” e pregou até o martírio em Roma, onde foi crucificado de cabeça para baixo. É considerado o primeiro Papa e pilar da fé cristã.'
+  }
 ]
 
 

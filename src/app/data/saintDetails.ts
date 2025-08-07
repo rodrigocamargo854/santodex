@@ -1696,8 +1696,72 @@ export const saintDetails: { [id: string]: Slide[] } = {
       text: "- \"Posso viver sem o pão, mas não sem a Eucaristia.\"\n- \"Jesus, vem ao meu coração!\""
     }
   ]
-};
+  ,
+  "santa-brigida-suecia": [
+  {
+    title: "Mística e peregrina",
+    text: "Santa Brígida da Suécia foi uma mística, fundadora da Ordem do Santíssimo Salvador. Após a morte do marido, dedicou-se à oração e peregrinação, recebendo revelações espirituais que influenciaram a Igreja da época."
+  },
+  {
+    title: "Família e influência",
+    text: "Teve oito filhos, entre eles Santa Catarina da Suécia. Suas visões místicas foram reunidas em livros e influenciaram o pensamento espiritual europeu."
+  },
+  {
+    title: "Padroeira da Europa",
+    text: "Foi proclamada uma das padroeiras da Europa por João Paulo II em 1999, ao lado de Santa Catarina de Sena e Edith Stein."
+  },
+  {
+    title: "Canonização",
+    text: "Foi canonizada em 1391 por Bonifácio IX, reconhecida por sua vida de oração, caridade e testemunho cristão."
+  },
+  {
+    title: "Frases atribuídas",
+    text: "- \"Senhor, mostra-me o caminho e torna-me disposta a segui-lo.\"\n- \"Nada no mundo é mais doce que o amor de Deus.\""
+  }
+],
 
+"santa-irene-tessalonica": [
+  {
+    title: "Fé desde a juventude",
+    text: "Santa Irene foi trancada numa torre por seu pai pagão por se recusar a adorar ídolos. Mesmo isolada, manteve firme sua fé em Cristo."
+  },
+  {
+    title: "Ação corajosa",
+    text: "Ao sair da torre, destruiu imagens pagãs e doou os bens aos pobres. Foi condenada à morte e jogada num rio, de onde seu corpo foi retirado milagrosamente."
+  },
+  {
+    title: "Culto antigo",
+    text: "É venerada desde os primeiros séculos como mártir da Igreja. Sua história é lembrada especialmente na Igreja do Oriente."
+  },
+  {
+    title: "Símbolo de paz",
+    text: "Seu nome significa 'paz', e sua vida simboliza a fidelidade a Deus diante da opressão e perseguição."
+  },
+  {
+    title: "Frases atribuídas",
+    text: "- \"Prefiro morrer a renunciar ao meu Senhor.\"\n- \"A verdadeira liberdade está em servir a Cristo.\""
+  }
+],
+"sao-joao-maria-vianney": [
+  {
+    title: "O Cura d'Ars",
+    text: "Designado para a pequena aldeia de Ars, encontrou uma comunidade fria na fé e, com oração e penitência, transformou o vilarejo em destino de peregrinação."
+  },
+  {
+    title: "Combates espirituais",
+    text: "Durante anos sofreu ataques físicos e barulhos estranhos em seu quarto, atribuídos ao demônio. Certa vez, sua cama pegou fogo misteriosamente."
+  },
+  {
+    title: "Frases marcantes",
+    text: "- \"Quando o diabo não consegue pegar o pássaro, sacode a gaiola.\"\n- \"O sacerdócio é o amor do coração de Jesus.\""
+  },
+  {
+    title: "Legado",
+    text: "Modelo de dedicação sacerdotal, passava até 16 horas por dia no confessionário, ouvindo peregrinos de toda a França."
+  }
+]
+
+}
 
 
 
