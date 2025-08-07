@@ -1760,6 +1760,29 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: "Modelo de dedicação sacerdotal, passava até 16 horas por dia no confessionário, ouvindo peregrinos de toda a França."
   }
 ]
+,
+"santa-teresa-benedita-da-cruz": [
+  {
+    title: "Filósofa em busca da verdade",
+    text: "Edith Stein nasceu em uma família judia e se destacou como filósofa. Por um tempo, se declarou ateia, mas sua busca sincera pela verdade a levou ao cristianismo após ler a autobiografia de Santa Teresa d’Ávila."
+  },
+  {
+    title: "Conversão e vida religiosa",
+    text: "Foi batizada em 1922 e mais tarde ingressou no Carmelo Descalço, assumindo o nome de Teresa Benedita da Cruz. Vivia com profunda fé, oferecendo sua vida por seu povo e pela humanidade."
+  },
+  {
+    title: "Martírio em Auschwitz",
+    text: "Durante a perseguição nazista, foi presa por sua origem judaica. Foi deportada para o campo de concentração de Auschwitz, onde morreu na câmara de gás em 9 de agosto de 1942."
+  },
+  {
+    title: "Frases marcantes",
+    text: "- \"Quem busca a verdade, busca a Deus, consciente ou inconscientemente.\"\n- \"Aceitei a morte em união com a cruz de Cristo, por meu povo.\""
+  },
+  {
+    title: "Legado",
+    text: "Canonizada como mártir e co-padroeira da Europa, é exemplo de fé, razão e entrega total a Deus. É modelo para filósofos, estudantes e todos que buscam a verdade."
+  }
+]
 
 }
 

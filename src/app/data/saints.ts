@@ -1155,19 +1155,7 @@ export const saints = [
   image: '/noimage.png',
   description: 'Santa Teresa Margarida é lembrada por sua humildade, pureza e intensa vida de oração.'
 },
-{
-  id: 'santa-edith-stein',
-  name: 'Santa Teresa Benedita da Cruz (Edith Stein)',
-  type: 'santa',
-  title: 'Mártir Carmelita',
-  birthDate: '12/10/1891',
-  deathDate: '09/08/1942',
-  feastDay: '9 de agosto',
-  canonized: '1998',
-  beatified: '1987',
-  image: '/edithstein.jpeg',
-  description: 'Filósofa judia convertida ao catolicismo, entrou no Carmelo e foi mártir no campo de concentração de Auschwitz.'
-},
+
 {
   id: 'beata-mariam-baouardy',
   name: 'Beata Maria de Jesus Crucificado (Mariam Baouardy)',
@@ -1377,7 +1365,22 @@ export const saints = [
     beatified: '',
     image: '/sao-pedro.jpg',
     description: 'Pescador da Galileia, foi chamado por Jesus para ser apóstolo e líder da Igreja. Recebeu as “chaves do Reino dos Céus” e pregou até o martírio em Roma, onde foi crucificado de cabeça para baixo. É considerado o primeiro Papa e pilar da fé cristã.'
-  }
+  },
+  {
+  id: 'santa-teresa-benedita-da-cruz',
+  name: 'Santa Teresa Benedita da Cruz',
+  type: 'Santa',
+  title: 'Co-padroeira da Europa',
+  birthDate: '12 de outubro de 1891, Breslávia, Alemanha (atual Polônia)',
+  deathDate: '9 de agosto de 1942, Auschwitz, Polônia',
+  feastDay: '9 de agosto',
+  canonized: '11 de outubro de 1998 por São João Paulo II',
+  beatified: '1º de maio de 1987 por São João Paulo II',
+  image: '/santaterezabeneditadacruz.jpeg',
+  description: 'Filósofa judia convertida ao catolicismo, tornou-se monja carmelita e ofereceu sua vida como sacrifício. Foi morta em Auschwitz durante o regime nazista. É considerada mártir da fé e co-padroeira da Europa.'
+}
+
+  
 ]
 
 
