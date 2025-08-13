@@ -1140,7 +1140,7 @@ export const saints = [
   feastDay: '1º de setembro',
   canonized: '1934',
   beatified: '1929',
-  image: '/noimage.png',
+  image: '/santamargarida.jpeg',
   description: 'Santa Teresa Margarida é lembrada por sua humildade, pureza e intensa vida de oração.'
 },
 
@@ -1286,7 +1286,7 @@ export const saints = [
     feastDay: '03 de outubro',
     canonized: '15 de outubro de 2017 por Francisco',
     beatified: '05 de março de 2000 por João Paulo II',
-    image: '/sao-matheus-moreira.jpg',
+    image: '/saomatheusmoreira.jpg',
     description: 'Faz parte dos 30 mártires do massacre de Uruaçu, no Rio Grande do Norte, ocorrido durante a invasão holandesa de 1645. Morreram defendendo a fé católica e a presença real de Cristo na Eucaristia. Mateus Moreira foi morto enquanto adorava o Santíssimo Sacramento e suas últimas palavras foram: “Louvado seja o Santíssimo Sacramento”. É símbolo de fidelidade e coragem cristã.'
   },
   {
@@ -1302,19 +1302,7 @@ export const saints = [
     image: '/santo-antonio-de-santana-galvao.jpg',
     description: 'Frei franciscano brasileiro, nasceu em Guaratinguetá (SP) e dedicou-se à vida religiosa e obras de caridade. Construiu o Mosteiro da Luz em São Paulo, hoje Patrimônio Cultural da Humanidade. Ficou famoso pelas pílulas de papel com orações, associadas a curas e milagres. É exemplo de humildade, serviço e profunda devoção mariana.'
   },
-  {
-    id: 'santa-teresa-de-jesus',
-    name: 'Santa Teresa de Jesus',
-    type: 'santa',
-    title: 'Doutora da Igreja e reformadora do Carmelo',
-    birthDate: '28 de março de 1515',
-    deathDate: '4 de outubro de 1582',
-    feastDay: '15 de outubro',
-    canonized: '12 de março de 1622 por Gregório XV',
-    beatified: '24 de abril de 1614 por Paulo V',
-    image: '/santa-teresa-de-jesus.jpg',
-    description: 'Santa Teresa de Ávila foi uma das maiores místicas da Igreja. Reformou a Ordem Carmelita fundando conventos de vida austera, escreveu clássicos da espiritualidade como “O Livro da Vida” e “Castelo Interior” e viveu experiências místicas marcantes, como a Transverberação. Doutora da Igreja, é exemplo de coragem, inteligência e amor contemplativo.'
-  },
+  
   {
     id: 'santa-teresa-dos-andes',
     name: 'Santa Teresa dos Andes',
@@ -1325,7 +1313,7 @@ export const saints = [
     feastDay: '13 de julho',
     canonized: '21 de março de 1993 por João Paulo II',
     beatified: '3 de abril de 1987 por João Paulo II',
-    image: '/santa-teresa-dos-andes.jpg',
+    image: '/teresadosandes.jpeg',
     description: 'Carmelita descalça chilena, entrou para o convento aos 19 anos e morreu poucos meses depois, vítima de tifo. Apesar da vida breve, deixou cartas e escritos cheios de amor a Cristo. É exemplo de santidade juvenil, entrega total a Deus e pureza de coração.'
   },
   {
