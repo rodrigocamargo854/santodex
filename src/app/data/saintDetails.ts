@@ -1783,6 +1783,32 @@ export const saintDetails: { [id: string]: Slide[] } = {
     text: "Canonizada como mártir e co-padroeira da Europa, é exemplo de fé, razão e entrega total a Deus. É modelo para filósofos, estudantes e todos que buscam a verdade."
   }
 ]
+, "santa-elisabete-da-trindade": [
+    {
+      title: "Infância e juventude",
+      text: "Elisabete Catez nasceu em Avord, França, em 18 de julho de 1880. Desde cedo demonstrou um temperamento forte, mas também um profundo amor pela oração e pela música."
+    },
+    {
+      title: "Vocação e vida no Carmelo",
+      text: "Em 1901 entrou para o Carmelo de Dijon, adotando o nome de Elisabete da Trindade. Viveu com intensidade a espiritualidade carmelita, centrada na presença de Deus e na entrega absoluta à Sua vontade."
+    },
+    {
+      title: "Doença e união mística",
+      text: "Diagnosticada com doença de Addison, sofreu grandes dores, mas transformou seu sofrimento em oferta de amor a Deus. Sua serenidade e fé edificaram as irmãs do convento."
+    },
+    {
+      title: "Escritos espirituais",
+      text: "Escreveu cartas e reflexões profundas sobre a presença da Trindade na alma. Sua oração 'Ó meu Deus, Trindade que adoro' é um marco da espiritualidade carmelita."
+    },
+    {
+      title: "Frases marcantes",
+      text: "- \"Vou para a Luz, para o Amor, para a Vida.\"\n- \"Que nada possa me distrair de Ti, nem por um instante.\"\n- \"O paraíso começa na terra, quando vivemos com Deus em nós.\""
+    },
+    {
+      title: "Legado",
+      text: "Canonizada em 2016 pelo Papa Francisco, Santa Elisabete da Trindade é modelo de contemplação e intimidade com Deus, inspirando cristãos a viverem na constante presença da Santíssima Trindade."
+    }
+  ]
 
 }
 

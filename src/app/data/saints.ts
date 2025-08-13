@@ -375,19 +375,7 @@ export const saints = [
     image: '/saojoaodacruz.jpg',
     description: 'São João da Cruz foi um sacerdote carmelita, poeta e místico espanhol, cofundador da Ordem das Carmelitas Descalças. Escreveu clássicos da espiritualidade como “A Noite Escura da Alma” e “Cântico Espiritual”. Sua doutrina sobre a união com Deus influenciou profundamente a mística cristã. É Doutor da Igreja.'
   },
-  {
-    id: 'santa-isabel-da-trindade',
-    name: 'Santa Isabel da Trindade',
-    type: 'santa',
-    title: 'Mística Carmelita Descalça',
-    birthDate: '18/07/1880',
-    deathDate: '09/11/1906',
-    feastDay: '08 de novembro',
-    canonized: '2016',
-    beatified: '1984',
-    image: '/elisatrindade.png',
-    description: 'Santa Isabel da Trindade foi uma carmelita francesa conhecida por sua espiritualidade centrada na Trindade e na habitação interior de Deus na alma. Viveu apenas 26 anos, mas deixou profundas cartas e escritos espirituais. É considerada um farol para quem busca a contemplação no cotidiano.'
-  },
+ 
   {
     id: 'sao-pedro-celestino-v',
     name: 'São Pedro Celestino V',
@@ -1378,7 +1366,20 @@ export const saints = [
   beatified: '1º de maio de 1987 por São João Paulo II',
   image: '/santaterezabeneditadacruz.jpeg',
   description: 'Filósofa judia convertida ao catolicismo, tornou-se monja carmelita e ofereceu sua vida como sacrifício. Foi morta em Auschwitz durante o regime nazista. É considerada mártir da fé e co-padroeira da Europa.'
-}
+},
+    {
+    id: 'santa-elisabete-da-trindade',
+    name: 'Santa Elisabete da Trindade',
+    type: 'Santa',
+    title: 'Monja Carmelita',
+    birthDate: '18 de julho de 1880, Avord, França',
+    deathDate: '9 de novembro de 1906, Dijon, França',
+    feastDay: '8 de novembro',
+    canonized: '16 de outubro de 2016 por Papa Francisco',
+    beatified: '25 de novembro de 1984 por São João Paulo II',
+    image: '/santaelisabetedatrindade.jpeg',
+    description: 'Monja carmelita francesa, reconhecida por sua profunda vida de oração e união mística com a Santíssima Trindade. Seus escritos espirituais continuam a inspirar fiéis no caminho da contemplação e entrega total a Deus.'
+  }
 
   
 ]
