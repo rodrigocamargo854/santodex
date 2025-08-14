@@ -345,7 +345,7 @@ export const saints = [
     feastDay: '30 de maio',
     canonized: '1920',
     beatified: '1909',
-    image: '/joanadarc.jpeg',
+    image: '/joanadarc.jpg',
     description:
       'Santa Joana d’Arc foi uma camponesa francesa que, guiada por visões e vozes de santos, liderou o exército francês durante a Guerra dos Cem Anos, contribuindo decisivamente para a coroação de Carlos VII. Foi capturada, julgada injustamente e queimada viva aos 19 anos. Séculos depois, foi reabilitada pela Igreja e canonizada como mártir e heroína da fé. É padroeira da França e símbolo de coragem e fidelidade à missão divina.'
   }
@@ -792,7 +792,7 @@ export const saints = [
     deathDate: '26/05/1595',
     feastDay: '26 de maio',
     canonized: '1622',
-    image: '/saofilipineri.jpeg',
+    image: '/saofilipeneri.jpg',
     description: 'São Filipe Néri, conhecido como o "Santo da Alegria", foi um sacerdote italiano, fundador da Congregação do Oratório. Viveu em Roma, dedicando sua vida à formação espiritual dos jovens, ao serviço dos pobres e à evangelização marcada pela alegria e humor cristão.'
   }
   ,
@@ -1326,7 +1326,7 @@ export const saints = [
     feastDay: '4 de agosto',
     canonized: '31 de maio de 1925 por Pio XI',
     beatified: '8 de janeiro de 1905 por Pio X',
-    image: '/sao-joao-maria-vianney.jpg',
+    image: '/mariavianey.jpeg',
     description: 'Conhecido como Cura d’Ars, foi pároco de uma pequena aldeia francesa e transformou a comunidade pela oração e pelo exemplo. Passava até 16 horas diárias no confessionário, atraindo peregrinos de toda a França. É símbolo de dedicação sacerdotal.'
   },
   {
