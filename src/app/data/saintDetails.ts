@@ -1808,8 +1808,34 @@ export const saintDetails: { [id: string]: Slide[] } = {
       title: "Legado",
       text: "Canonizada em 2016 pelo Papa Francisco, Santa Elisabete da Trindade é modelo de contemplação e intimidade com Deus, inspirando cristãos a viverem na constante presença da Santíssima Trindade."
     }
+  ],
+  
+'sao-bartolomeu-de-gusmao': [
+    {
+      title: 'Infância e formação',
+      text: 'Nascido em 1685, em Santos (São Paulo), Bartolomeu Lourenço de Gusmão desde cedo demonstrou talento para os estudos e interesse por invenções. Estudou no Colégio Jesuíta e depois em Coimbra, Portugal.'
+    },
+    {
+      title: 'Vocação sacerdotal',
+      text: 'Ingressou no sacerdócio e se destacou não só pela vida espiritual, mas também por sua inteligência criativa. Ganhou o apelido de “Padre Voador” pela ousadia de seus projetos.'
+    },
+    {
+      title: 'Invenções e ciência',
+      text: 'Em 1709 apresentou ao rei D. João V um balão de ar quente, sendo um dos pioneiros da aerostática. Criou também projetos de máquinas hidráulicas e outros dispositivos inovadores.'
+    },
+    {
+      title: 'Perseguições',
+      text: 'Suas ideias despertaram admiração, mas também desconfiança. Sofreu perseguições e acusações de feitiçaria por parte da Inquisição, sendo forçado a abandonar alguns de seus projetos.'
+    },
+    {
+      title: 'Morte',
+      text: 'Morreu em 19 de novembro de 1724, em Toledo, Espanha, relativamente jovem, deixando um legado que mistura ciência, fé e ousadia visionária.'
+    },
+    {
+      title: 'Legado',
+      text: 'É lembrado no Brasil e em Portugal como símbolo do espírito criativo cristão. Suas experiências anteciparam conquistas futuras da aviação e ainda hoje inspira inventores e estudiosos.'
+    }
   ]
-
 }
 
 

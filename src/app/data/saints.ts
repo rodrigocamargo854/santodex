@@ -1369,6 +1369,22 @@ export const saints = [
     description: 'Monja carmelita francesa, reconhecida por sua profunda vida de oração e união mística com a Santíssima Trindade. Seus escritos espirituais continuam a inspirar fiéis no caminho da contemplação e entrega total a Deus.'
   }
 
+,
+
+{
+    id: 'sao-bartolomeu-de-gusmao',
+    name: 'São Bartolomeu de Gusmão',
+    type: 'santo',
+    title: 'Sacerdote e inventor',
+    birthDate: '1685',
+    deathDate: '19/11/1724',
+    feastDay: '19 de agosto',
+    canonized: 'Não canonizado oficialmente (reconhecido como figura histórica da Igreja)',
+    beatified: '',
+    image: '/bartolomeudegusmao.jpg',
+    description:
+      'Bartolomeu de Gusmão, conhecido como o “Padre Voador”, foi um sacerdote jesuíta e inventor brasileiro-português. Ficou famoso por suas experiências pioneiras com balões aerostáticos no início do século XVIII, apresentando invenções diante do rei de Portugal. Além de cientista, foi homem de fé, deixando um legado de criatividade e devoção.'
+  }
   
 ]
 
